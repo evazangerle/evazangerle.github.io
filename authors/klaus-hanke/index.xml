@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klaus Hanke | Eva Zangerle</title>
+    <link>https://evazangerle.github.io/authors/klaus-hanke/</link>
+      <atom:link href="https://evazangerle.github.io/authors/klaus-hanke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Klaus Hanke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <title>Klaus Hanke</title>
+      <link>https://evazangerle.github.io/authors/klaus-hanke/</link>
+    </image>
+    
+    <item>
+      <title>Zur Identifikation und Verortung von Bergnamen in alpiner Literatur</title>
+      <link>https://evazangerle.github.io/publication/hiebelidentifikation/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/hiebelidentifikation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantics for Mountaineering History</title>
+      <link>https://evazangerle.github.io/publication/semohi-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/semohi-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

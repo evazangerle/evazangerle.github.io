@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paolo Rosso | Eva Zangerle</title>
+    <link>https://evazangerle.github.io/authors/paolo-rosso/</link>
+      <atom:link href="https://evazangerle.github.io/authors/paolo-rosso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paolo Rosso</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <title>Paolo Rosso</title>
+      <link>https://evazangerle.github.io/authors/paolo-rosso/</link>
+    </image>
+    
+    <item>
+      <title>Overview of PAN 2019: Bots and Gender Profiling, Celebrity Profiling, Cross-Domain Authorship Attribution and Style Change Detection</title>
+      <link>https://evazangerle.github.io/publication/dblp-confclef-daelemans-kmpprs-19/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/dblp-confclef-daelemans-kmpprs-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

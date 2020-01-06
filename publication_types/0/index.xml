@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Eva Zangerle</title>
+    <link>https://evazangerle.github.io/publication_types/0/</link>
+      <atom:link href="https://evazangerle.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <title>0</title>
+      <link>https://evazangerle.github.io/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Key Recommendations for Infoboxes in Wikipedia</title>
+      <link>https://evazangerle.github.io/publication/ht-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/ht-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proceedings of the 23rd GI-Workshop on Grundlagen von Datenbanken, Obergurgl, Austria. </title>
+      <link>https://evazangerle.github.io/publication/gvdb-11-editors/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/gvdb-11-editors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

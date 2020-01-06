@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Schmidt | Eva Zangerle</title>
+    <link>https://evazangerle.github.io/authors/manuel-schmidt/</link>
+      <atom:link href="https://evazangerle.github.io/authors/manuel-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuel Schmidt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <title>Manuel Schmidt</title>
+      <link>https://evazangerle.github.io/authors/manuel-schmidt/</link>
+    </image>
+    
+    <item>
+      <title>Article Quality Classification on Wikipedia: Introducing Document Embeddings and Content Features</title>
+      <link>https://evazangerle.github.io/publication/dblp-confwikis-schmidt-z-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/dblp-confwikis-schmidt-z-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

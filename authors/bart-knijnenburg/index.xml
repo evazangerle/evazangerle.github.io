@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bart Knijnenburg | Eva Zangerle</title>
+    <link>https://evazangerle.github.io/authors/bart-knijnenburg/</link>
+      <atom:link href="https://evazangerle.github.io/authors/bart-knijnenburg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bart Knijnenburg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <title>Bart Knijnenburg</title>
+      <link>https://evazangerle.github.io/authors/bart-knijnenburg/</link>
+    </image>
+    
+    <item>
+      <title>UMAP 2018 Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation (IUadaptMe) Workshop Chairs&#39; Welcome and Organization</title>
+      <link>https://evazangerle.github.io/publication/iuadaptme-umap-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/iuadaptme-umap-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

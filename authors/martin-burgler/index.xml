@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Bürgler | Eva Zangerle</title>
+    <link>https://evazangerle.github.io/authors/martin-burgler/</link>
+      <atom:link href="https://evazangerle.github.io/authors/martin-burgler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Bürgler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <title>Martin Bürgler</title>
+      <link>https://evazangerle.github.io/authors/martin-burgler/</link>
+    </image>
+    
+    <item>
+      <title>SnoopyTagging: Recommending Contextualized Tags to Increase the Quality and Quantity of Meta-Information</title>
+      <link>https://evazangerle.github.io/publication/www-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/www-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

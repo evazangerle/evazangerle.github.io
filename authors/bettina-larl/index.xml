@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bettina Larl | Eva Zangerle</title>
+    <link>https://evazangerle.github.io/authors/bettina-larl/</link>
+      <atom:link href="https://evazangerle.github.io/authors/bettina-larl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bettina Larl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <title>Bettina Larl</title>
+      <link>https://evazangerle.github.io/authors/bettina-larl/</link>
+    </image>
+    
+    <item>
+      <title>&#34;Nobody Climbs Mountains for Scientific Reasons&#34; -- Semantic Mountaineering History: Names and Activities in Mountaineering Discourse</title>
+      <link>https://evazangerle.github.io/publication/rampl-cl-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/rampl-cl-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leiwand Oida: Geolocating Regional Linguistic Variation of German on Twitter</title>
+      <link>https://evazangerle.github.io/publication/zangerle-cmc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/zangerle-cmc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geolocating German on Twitter - Hitches and Glitches of Building and Exploring a Twitter Corpus</title>
+      <link>https://evazangerle.github.io/publication/cl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/cl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geolocating German on Twitter Hitches and Glitches of Building and Exploring a Twitter Corpus</title>
+      <link>https://evazangerle.github.io/publication/cmc-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/cmc-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

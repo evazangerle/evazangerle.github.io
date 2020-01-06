@@ -21,14 +21,14 @@
   
   
 
-  <meta name="author" content="Nelson Bighetti">
+  <meta name="author" content="Dr. Eva Zangerle">
 
   
   
   
     
   
-  <meta name="description" content="Professor of Artificial Intelligence">
+  <meta name="description" content="PostDoc">
 
   
   <link rel="alternate" hreflang="en-us" href="https://evazangerle.github.io/authors/">
@@ -91,6 +91,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-22263961-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-22263961-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -114,13 +150,16 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@eva_zangerle">
+  <meta property="twitter:creator" content="@eva_zangerle">
+  
   <meta property="og:site_name" content="Eva Zangerle">
   <meta property="og:url" content="https://evazangerle.github.io/authors/">
   <meta property="og:title" content="Authors | Eva Zangerle">
-  <meta property="og:description" content="Professor of Artificial Intelligence"><meta property="og:image" content="https://evazangerle.github.io/img/icon-192.png">
+  <meta property="og:description" content="PostDoc"><meta property="og:image" content="https://evazangerle.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://evazangerle.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    
+    <meta property="og:updated_time" content="2019-12-01T00:00:00&#43;00:00">
   
 
   
@@ -259,7 +298,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#news"><span>News</span></a>
         </li>
 
         
@@ -288,7 +327,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -317,7 +356,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/#service"><span>Service</span></a>
         </li>
 
         
@@ -366,10 +405,6 @@
       
 
       
-      <li class="nav-item">
-        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-      </li>
-      
 
       
 
@@ -416,11 +451,47 @@
     
     
       
-      <li><a href="https://evazangerle.github.io/authors/admin/">Nelson Bighetti</a></li>
+      <li><a href="https://evazangerle.github.io/authors/boyu-chen/">Boyu Chen</a></li>
+    
+      
+      <li><a href="https://evazangerle.github.io/authors/eva-zangerle/">Eva Zangerle</a></li>
+    
+      
+      <li><a href="https://evazangerle.github.io/authors/hsiao-tzu-hung/">Hsiao-Tzu Hung</a></li>
+    
+      
+      <li><a href="https://evazangerle.github.io/authors/maximilian-mayerl/">Maximilian Mayerl</a></li>
+    
+      
+      <li><a href="https://evazangerle.github.io/authors/michael-votter/">Michael Vötter</a></li>
+    
+      
+      <li><a href="https://evazangerle.github.io/authors/yi-hsuan-yang/">Yi-Hsuan Yang</a></li>
+    
+      
+      <li><a href="https://evazangerle.github.io/authors/yu-hua-chen/">Yu-Hua Chen</a></li>
+    
+      
+      <li><a href="https://evazangerle.github.io/authors/michael-votter-yi-hsuan-yang/">Michael Vötter Yi-Hsuan Yang</a></li>
+    
+      
+      <li><a href="https://evazangerle.github.io/authors/ramona-huber/">Ramona Huber</a></li>
+    
+      
+      <li><a href="https://evazangerle.github.io/authors/benno-stein/">Benno Stein</a></li>
     
   </ul>
 
   
+<nav>
+  <ul class="pagination justify-content-center">
+    
+    
+    <li class="page-item"><a class="page-link" href="/authors/page/2/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
 
 </div>
 

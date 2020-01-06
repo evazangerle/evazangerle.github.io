@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Eva Zangerle</title>
+    <link>https://evazangerle.github.io/publication_types/6/</link>
+      <atom:link href="https://evazangerle.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <title>6</title>
+      <link>https://evazangerle.github.io/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Recommendation-Assisted Data Curation for Wikidata</title>
+      <link>https://evazangerle.github.io/publication/wikiworkshop-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/wikiworkshop-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Missbrauch und Betrug auf Twitter</title>
+      <link>https://evazangerle.github.io/publication/iup-twitter-miscreants-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/iup-twitter-miscreants-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting Recommendations in Microblogging Environments</title>
+      <link>https://evazangerle.github.io/publication/scientificcomputing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/scientificcomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dealing with Structure Heterogeneity in Semantic Collaborative Environments</title>
+      <link>https://evazangerle.github.io/publication/collsemweb/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/collsemweb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

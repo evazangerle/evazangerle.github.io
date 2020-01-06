@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Vötter | Eva Zangerle</title>
+    <link>https://evazangerle.github.io/authors/michael-votter/</link>
+      <atom:link href="https://evazangerle.github.io/authors/michael-votter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Vötter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <title>Michael Vötter</title>
+      <link>https://evazangerle.github.io/authors/michael-votter/</link>
+    </image>
+    
+    <item>
+      <title>MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach</title>
+      <link>https://evazangerle.github.io/publication/mediaeval-19-tai/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/mediaeval-19-tai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognizing Song Mood and Theme Using Convolutional Recurrent Neural Networks</title>
+      <link>https://evazangerle.github.io/publication/mediaeval-19-inn/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/mediaeval-19-inn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoencoders for Next-Track Recommendations</title>
+      <link>https://evazangerle.github.io/publication/gvdb-2019-autoencoders/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/gvdb-2019-autoencoders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Models for Next-Track Music Recommendation</title>
+      <link>https://evazangerle.github.io/publication/gvdb-2019-language/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/gvdb-2019-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi-Hsuan Yang | Eva Zangerle</title>
+    <link>https://evazangerle.github.io/authors/yi-hsuan-yang/</link>
+      <atom:link href="https://evazangerle.github.io/authors/yi-hsuan-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi-Hsuan Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <title>Yi-Hsuan Yang</title>
+      <link>https://evazangerle.github.io/authors/yi-hsuan-yang/</link>
+    </image>
+    
+    <item>
+      <title>MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach</title>
+      <link>https://evazangerle.github.io/publication/mediaeval-19-tai/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/mediaeval-19-tai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognizing Song Mood and Theme Using Convolutional Recurrent Neural Networks</title>
+      <link>https://evazangerle.github.io/publication/mediaeval-19-inn/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/mediaeval-19-inn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#nowplaying-RS: A New Benchmark Dataset for Building Context-Aware Music Recommender Systems </title>
+      <link>https://evazangerle.github.io/publication/smc-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/smc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Affective Hashtags for Ranking Music Recommendations</title>
+      <link>https://evazangerle.github.io/publication/taffc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.github.io/publication/taffc-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

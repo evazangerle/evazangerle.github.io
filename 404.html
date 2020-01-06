@@ -21,14 +21,14 @@
   
   
 
-  <meta name="author" content="Nelson Bighetti">
+  <meta name="author" content="Dr. Eva Zangerle">
 
   
   
   
     
   
-  <meta name="description" content="Professor of Artificial Intelligence">
+  <meta name="description" content="PostDoc">
 
   
   <link rel="alternate" hreflang="en-us" href="https://evazangerle.github.io/404.html">
@@ -91,6 +91,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-22263961-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-22263961-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -112,10 +148,13 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@eva_zangerle">
+  <meta property="twitter:creator" content="@eva_zangerle">
+  
   <meta property="og:site_name" content="Eva Zangerle">
   <meta property="og:url" content="https://evazangerle.github.io/404.html">
   <meta property="og:title" content="404 Page not found | Eva Zangerle">
-  <meta property="og:description" content="Professor of Artificial Intelligence"><meta property="og:image" content="https://evazangerle.github.io/img/icon-192.png">
+  <meta property="og:description" content="PostDoc"><meta property="og:image" content="https://evazangerle.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://evazangerle.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
@@ -257,7 +296,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#news"><span>News</span></a>
         </li>
 
         
@@ -286,7 +325,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -315,7 +354,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/#service"><span>Service</span></a>
         </li>
 
         
@@ -364,10 +403,6 @@
       
 
       
-      <li class="nav-item">
-        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-      </li>
-      
 
       
 
@@ -394,6 +429,31 @@
 
   
   
+  
+  <h2>Latest</h2>
+  <ul>
+    
+      <li><a href="/publication/mediaeval-19-tai/">MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach</a></li>
+    
+      <li><a href="/publication/mediaeval-19-inn/">Recognizing Song Mood and Theme Using Convolutional Recurrent Neural Networks</a></li>
+    
+      <li><a href="/publication/zangerle-ismir-19/">Hit Song Prediction: Leveraging Low- and High-Level Audio Features</a></li>
+    
+      <li><a href="/publication/bauer-2019-leveraging/">Leveraging Multi-Method Evaluation for Multi-Stakeholder Settings</a></li>
+    
+      <li><a href="/publication/dblp-confclef-daelemans-kmpprs-19/">Overview of PAN 2019: Bots and Gender Profiling, Celebrity Profiling, Cross-Domain Authorship Attribution and Style Change Detection</a></li>
+    
+      <li><a href="/publication/dblp-confclef-zangerle-tssp-19/">Overview of the Style Change Detection Task at PAN 2019</a></li>
+    
+      <li><a href="/publication/dblp-confwikis-schmidt-z-19/">Article Quality Classification on Wikipedia: Introducing Document Embeddings and Content Features</a></li>
+    
+      <li><a href="/publication/rampl-cl-2019/">&#34;Nobody Climbs Mountains for Scientific Reasons&#34; -- Semantic Mountaineering History: Names and Activities in Mountaineering Discourse</a></li>
+    
+      <li><a href="/publication/gvdb-2019-autoencoders/">Autoencoders for Next-Track Recommendations</a></li>
+    
+      <li><a href="/publication/gvdb-2019-language/">Language Models for Next-Track Music Recommendation</a></li>
+    
+  </ul>
   
 
 </div>
