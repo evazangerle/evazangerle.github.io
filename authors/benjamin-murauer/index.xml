@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benjamin Murauer | Eva Zangerle</title>
-    <link>https://evazangerle.github.io/authors/benjamin-murauer/</link>
-      <atom:link href="https://evazangerle.github.io/authors/benjamin-murauer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evazangerle.at/authors/benjamin-murauer/</link>
+      <atom:link href="https://evazangerle.at/authors/benjamin-murauer/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Murauer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Benjamin Murauer</title>
-      <link>https://evazangerle.github.io/authors/benjamin-murauer/</link>
+      <link>https://evazangerle.at/authors/benjamin-murauer/</link>
     </image>
     
     <item>
       <title>A Peer-Based Approach on Analyzing Hacked Twitter Accounts</title>
-      <link>https://evazangerle.github.io/publication/hicss-17/</link>
+      <link>https://evazangerle.at/publication/hicss-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/hicss-17/</guid>
+      <guid>https://evazangerle.at/publication/hicss-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Multilabel Classification and Voting for Genre Classification</title>
-      <link>https://evazangerle.github.io/publication/mediaeval-17/</link>
+      <link>https://evazangerle.at/publication/mediaeval-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mediaeval-17/</guid>
+      <guid>https://evazangerle.at/publication/mediaeval-17/</guid>
       <description></description>
     </item>
     

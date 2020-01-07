@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gerald Hiebel | Eva Zangerle</title>
-    <link>https://evazangerle.github.io/authors/gerald-hiebel/</link>
-      <atom:link href="https://evazangerle.github.io/authors/gerald-hiebel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evazangerle.at/authors/gerald-hiebel/</link>
+      <atom:link href="https://evazangerle.at/authors/gerald-hiebel/index.xml" rel="self" type="application/rss+xml" />
     <description>Gerald Hiebel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Gerald Hiebel</title>
-      <link>https://evazangerle.github.io/authors/gerald-hiebel/</link>
+      <link>https://evazangerle.at/authors/gerald-hiebel/</link>
     </image>
     
     <item>
       <title>&#34;Nobody Climbs Mountains for Scientific Reasons&#34; -- Semantic Mountaineering History: Names and Activities in Mountaineering Discourse</title>
-      <link>https://evazangerle.github.io/publication/rampl-cl-2019/</link>
+      <link>https://evazangerle.at/publication/rampl-cl-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/rampl-cl-2019/</guid>
+      <guid>https://evazangerle.at/publication/rampl-cl-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zur Identifikation und Verortung von Bergnamen in alpiner Literatur</title>
-      <link>https://evazangerle.github.io/publication/hiebelidentifikation/</link>
+      <link>https://evazangerle.at/publication/hiebelidentifikation/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/hiebelidentifikation/</guid>
+      <guid>https://evazangerle.at/publication/hiebelidentifikation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantics for Mountaineering History</title>
-      <link>https://evazangerle.github.io/publication/semohi-17/</link>
+      <link>https://evazangerle.at/publication/semohi-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/semohi-17/</guid>
+      <guid>https://evazangerle.at/publication/semohi-17/</guid>
       <description></description>
     </item>
     

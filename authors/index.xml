@@ -2,510 +2,527 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Eva Zangerle</title>
-    <link>https://evazangerle.github.io/authors/</link>
-      <atom:link href="https://evazangerle.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evazangerle.at/authors/</link>
+      <atom:link href="https://evazangerle.at/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://evazangerle.github.io/authors/</link>
+      <link>https://evazangerle.at/authors/</link>
     </image>
     
     <item>
       <title>Boyu Chen</title>
-      <link>https://evazangerle.github.io/authors/boyu-chen/</link>
+      <link>https://evazangerle.at/authors/boyu-chen/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/boyu-chen/</guid>
+      <guid>https://evazangerle.at/authors/boyu-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eva Zangerle</title>
-      <link>https://evazangerle.github.io/authors/eva-zangerle/</link>
+      <link>https://evazangerle.at/authors/eva-zangerle/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/eva-zangerle/</guid>
+      <guid>https://evazangerle.at/authors/eva-zangerle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hsiao-Tzu Hung</title>
-      <link>https://evazangerle.github.io/authors/hsiao-tzu-hung/</link>
+      <link>https://evazangerle.at/authors/hsiao-tzu-hung/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/hsiao-tzu-hung/</guid>
+      <guid>https://evazangerle.at/authors/hsiao-tzu-hung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maximilian Mayerl</title>
-      <link>https://evazangerle.github.io/authors/maximilian-mayerl/</link>
+      <link>https://evazangerle.at/authors/maximilian-mayerl/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/maximilian-mayerl/</guid>
+      <guid>https://evazangerle.at/authors/maximilian-mayerl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael Vötter</title>
-      <link>https://evazangerle.github.io/authors/michael-votter/</link>
+      <link>https://evazangerle.at/authors/michael-votter/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/michael-votter/</guid>
+      <guid>https://evazangerle.at/authors/michael-votter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yi-Hsuan Yang</title>
-      <link>https://evazangerle.github.io/authors/yi-hsuan-yang/</link>
+      <link>https://evazangerle.at/authors/yi-hsuan-yang/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/yi-hsuan-yang/</guid>
+      <guid>https://evazangerle.at/authors/yi-hsuan-yang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yu-Hua Chen</title>
-      <link>https://evazangerle.github.io/authors/yu-hua-chen/</link>
+      <link>https://evazangerle.at/authors/yu-hua-chen/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/yu-hua-chen/</guid>
+      <guid>https://evazangerle.at/authors/yu-hua-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael Vötter Yi-Hsuan Yang</title>
-      <link>https://evazangerle.github.io/authors/michael-votter-yi-hsuan-yang/</link>
+      <link>https://evazangerle.at/authors/michael-votter-yi-hsuan-yang/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/michael-votter-yi-hsuan-yang/</guid>
+      <guid>https://evazangerle.at/authors/michael-votter-yi-hsuan-yang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ramona Huber</title>
-      <link>https://evazangerle.github.io/authors/ramona-huber/</link>
+      <link>https://evazangerle.at/authors/ramona-huber/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/ramona-huber/</guid>
+      <guid>https://evazangerle.at/authors/ramona-huber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Benno Stein</title>
-      <link>https://evazangerle.github.io/authors/benno-stein/</link>
+      <link>https://evazangerle.at/authors/benno-stein/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/benno-stein/</guid>
+      <guid>https://evazangerle.at/authors/benno-stein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christine Bauer</title>
-      <link>https://evazangerle.github.io/authors/christine-bauer/</link>
+      <link>https://evazangerle.at/authors/christine-bauer/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/christine-bauer/</guid>
+      <guid>https://evazangerle.at/authors/christine-bauer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efstathios Stamatatos</title>
-      <link>https://evazangerle.github.io/authors/efstathios-stamatatos/</link>
+      <link>https://evazangerle.at/authors/efstathios-stamatatos/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/efstathios-stamatatos/</guid>
+      <guid>https://evazangerle.at/authors/efstathios-stamatatos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enrique Manjavacas</title>
-      <link>https://evazangerle.github.io/authors/enrique-manjavacas/</link>
+      <link>https://evazangerle.at/authors/enrique-manjavacas/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/enrique-manjavacas/</guid>
+      <guid>https://evazangerle.at/authors/enrique-manjavacas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Francisco M. Rangel Pardo</title>
-      <link>https://evazangerle.github.io/authors/francisco-m.-rangel-pardo/</link>
+      <link>https://evazangerle.at/authors/francisco-m.-rangel-pardo/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/francisco-m.-rangel-pardo/</guid>
+      <guid>https://evazangerle.at/authors/francisco-m.-rangel-pardo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Günther Specht</title>
-      <link>https://evazangerle.github.io/authors/gunther-specht/</link>
+      <link>https://evazangerle.at/authors/gunther-specht/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/gunther-specht/</guid>
+      <guid>https://evazangerle.at/authors/gunther-specht/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Martin Potthast</title>
-      <link>https://evazangerle.github.io/authors/martin-potthast/</link>
+      <link>https://evazangerle.at/authors/martin-potthast/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/martin-potthast/</guid>
+      <guid>https://evazangerle.at/authors/martin-potthast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matti Wiegmann</title>
-      <link>https://evazangerle.github.io/authors/matti-wiegmann/</link>
+      <link>https://evazangerle.at/authors/matti-wiegmann/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/matti-wiegmann/</guid>
+      <guid>https://evazangerle.at/authors/matti-wiegmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael Tschuggnall</title>
-      <link>https://evazangerle.github.io/authors/michael-tschuggnall/</link>
+      <link>https://evazangerle.at/authors/michael-tschuggnall/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/michael-tschuggnall/</guid>
+      <guid>https://evazangerle.at/authors/michael-tschuggnall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mike Kestemont</title>
-      <link>https://evazangerle.github.io/authors/mike-kestemont/</link>
+      <link>https://evazangerle.at/authors/mike-kestemont/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/mike-kestemont/</guid>
+      <guid>https://evazangerle.at/authors/mike-kestemont/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paolo Rosso</title>
-      <link>https://evazangerle.github.io/authors/paolo-rosso/</link>
+      <link>https://evazangerle.at/authors/paolo-rosso/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/paolo-rosso/</guid>
+      <guid>https://evazangerle.at/authors/paolo-rosso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Walter Daelemans</title>
-      <link>https://evazangerle.github.io/authors/walter-daelemans/</link>
+      <link>https://evazangerle.at/authors/walter-daelemans/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/walter-daelemans/</guid>
+      <guid>https://evazangerle.at/authors/walter-daelemans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manuel Schmidt</title>
-      <link>https://evazangerle.github.io/authors/manuel-schmidt/</link>
+      <link>https://evazangerle.at/authors/manuel-schmidt/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/manuel-schmidt/</guid>
+      <guid>https://evazangerle.at/authors/manuel-schmidt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bettina Larl</title>
-      <link>https://evazangerle.github.io/authors/bettina-larl/</link>
+      <link>https://evazangerle.at/authors/bettina-larl/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/bettina-larl/</guid>
+      <guid>https://evazangerle.at/authors/bettina-larl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Claudia Posch</title>
-      <link>https://evazangerle.github.io/authors/claudia-posch/</link>
+      <link>https://evazangerle.at/authors/claudia-posch/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/claudia-posch/</guid>
+      <guid>https://evazangerle.at/authors/claudia-posch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elisabeth Gruber</title>
-      <link>https://evazangerle.github.io/authors/elisabeth-gruber/</link>
+      <link>https://evazangerle.at/authors/elisabeth-gruber/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/elisabeth-gruber/</guid>
+      <guid>https://evazangerle.at/authors/elisabeth-gruber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gerald Hiebel</title>
-      <link>https://evazangerle.github.io/authors/gerald-hiebel/</link>
+      <link>https://evazangerle.at/authors/gerald-hiebel/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/gerald-hiebel/</guid>
+      <guid>https://evazangerle.at/authors/gerald-hiebel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gerhard Rampl</title>
-      <link>https://evazangerle.github.io/authors/gerhard-rampl/</link>
+      <link>https://evazangerle.at/authors/gerhard-rampl/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/gerhard-rampl/</guid>
+      <guid>https://evazangerle.at/authors/gerhard-rampl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andrea Mussmann</title>
-      <link>https://evazangerle.github.io/authors/andrea-mussmann/</link>
+      <link>https://evazangerle.at/authors/andrea-mussmann/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/andrea-mussmann/</guid>
+      <guid>https://evazangerle.at/authors/andrea-mussmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Klaus Hanke</title>
-      <link>https://evazangerle.github.io/authors/klaus-hanke/</link>
+      <link>https://evazangerle.at/authors/klaus-hanke/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/klaus-hanke/</guid>
+      <guid>https://evazangerle.at/authors/klaus-hanke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asir Saeed</title>
+      <link>https://evazangerle.at/authors/asir-saeed/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/asir-saeed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suzana Ilic</title>
+      <link>https://evazangerle.at/authors/suzana-ilic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/suzana-ilic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asmita Poddar</title>
-      <link>https://evazangerle.github.io/authors/asmita-poddar/</link>
+      <link>https://evazangerle.at/authors/asmita-poddar/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/asmita-poddar/</guid>
+      <guid>https://evazangerle.at/authors/asmita-poddar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bart Knijnenburg</title>
-      <link>https://evazangerle.github.io/authors/bart-knijnenburg/</link>
+      <link>https://evazangerle.at/authors/bart-knijnenburg/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/bart-knijnenburg/</guid>
+      <guid>https://evazangerle.at/authors/bart-knijnenburg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bernward Pichl</title>
-      <link>https://evazangerle.github.io/authors/bernward-pichl/</link>
+      <link>https://evazangerle.at/authors/bernward-pichl/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/bernward-pichl/</guid>
+      <guid>https://evazangerle.at/authors/bernward-pichl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chih-Ming Chen</title>
-      <link>https://evazangerle.github.io/authors/chih-ming-chen/</link>
+      <link>https://evazangerle.at/authors/chih-ming-chen/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/chih-ming-chen/</guid>
+      <guid>https://evazangerle.at/authors/chih-ming-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christian Esswein</title>
-      <link>https://evazangerle.github.io/authors/christian-esswein/</link>
+      <link>https://evazangerle.at/authors/christian-esswein/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/christian-esswein/</guid>
+      <guid>https://evazangerle.at/authors/christian-esswein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Claudia Müller-Birn</title>
-      <link>https://evazangerle.github.io/authors/claudia-muller-birn/</link>
+      <link>https://evazangerle.at/authors/claudia-muller-birn/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/claudia-muller-birn/</guid>
+      <guid>https://evazangerle.at/authors/claudia-muller-birn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frosina Koceva</title>
-      <link>https://evazangerle.github.io/authors/frosina-koceva/</link>
+      <link>https://evazangerle.at/authors/frosina-koceva/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/frosina-koceva/</guid>
+      <guid>https://evazangerle.at/authors/frosina-koceva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ilaria Torre</title>
-      <link>https://evazangerle.github.io/authors/ilaria-torre/</link>
+      <link>https://evazangerle.at/authors/ilaria-torre/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/ilaria-torre/</guid>
+      <guid>https://evazangerle.at/authors/ilaria-torre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ilknur Celik</title>
-      <link>https://evazangerle.github.io/authors/ilknur-celik/</link>
+      <link>https://evazangerle.at/authors/ilknur-celik/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/ilknur-celik/</guid>
+      <guid>https://evazangerle.at/authors/ilknur-celik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markus Schedl</title>
-      <link>https://evazangerle.github.io/authors/markus-schedl/</link>
+      <link>https://evazangerle.at/authors/markus-schedl/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/markus-schedl/</guid>
+      <guid>https://evazangerle.at/authors/markus-schedl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Martin Pichl</title>
-      <link>https://evazangerle.github.io/authors/martin-pichl/</link>
+      <link>https://evazangerle.at/authors/martin-pichl/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/martin-pichl/</guid>
+      <guid>https://evazangerle.at/authors/martin-pichl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ming-Feng Tsai</title>
-      <link>https://evazangerle.github.io/authors/ming-feng-tsai/</link>
+      <link>https://evazangerle.at/authors/ming-feng-tsai/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/ming-feng-tsai/</guid>
+      <guid>https://evazangerle.at/authors/ming-feng-tsai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert Binna</title>
-      <link>https://evazangerle.github.io/authors/robert-binna/</link>
+      <link>https://evazangerle.at/authors/robert-binna/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/robert-binna/</guid>
+      <guid>https://evazangerle.at/authors/robert-binna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stefan Wurzinger</title>
-      <link>https://evazangerle.github.io/authors/stefan-wurzinger/</link>
+      <link>https://evazangerle.at/authors/stefan-wurzinger/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/stefan-wurzinger/</guid>
+      <guid>https://evazangerle.at/authors/stefan-wurzinger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Viktor Leis</title>
-      <link>https://evazangerle.github.io/authors/viktor-leis/</link>
+      <link>https://evazangerle.at/authors/viktor-leis/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/viktor-leis/</guid>
+      <guid>https://evazangerle.at/authors/viktor-leis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adelheid Heftberger</title>
-      <link>https://evazangerle.github.io/authors/adelheid-heftberger/</link>
+      <link>https://evazangerle.at/authors/adelheid-heftberger/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/adelheid-heftberger/</guid>
+      <guid>https://evazangerle.at/authors/adelheid-heftberger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andy Stauder</title>
-      <link>https://evazangerle.github.io/authors/andy-stauder/</link>
+      <link>https://evazangerle.at/authors/andy-stauder/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/andy-stauder/</guid>
+      <guid>https://evazangerle.at/authors/andy-stauder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barbara Laner</title>
-      <link>https://evazangerle.github.io/authors/barbara-laner/</link>
+      <link>https://evazangerle.at/authors/barbara-laner/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/barbara-laner/</guid>
+      <guid>https://evazangerle.at/authors/barbara-laner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Benjamin Murauer</title>
-      <link>https://evazangerle.github.io/authors/benjamin-murauer/</link>
+      <link>https://evazangerle.at/authors/benjamin-murauer/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/benjamin-murauer/</guid>
+      <guid>https://evazangerle.at/authors/benjamin-murauer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gerald Hiebl</title>
-      <link>https://evazangerle.github.io/authors/gerald-hiebl/</link>
+      <link>https://evazangerle.at/authors/gerald-hiebl/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/gerald-hiebl/</guid>
+      <guid>https://evazangerle.at/authors/gerald-hiebl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jakob Höper</title>
-      <link>https://evazangerle.github.io/authors/jakob-hoper/</link>
+      <link>https://evazangerle.at/authors/jakob-hoper/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/jakob-hoper/</guid>
+      <guid>https://evazangerle.at/authors/jakob-hoper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Niels-Oliver Walkowski</title>
-      <link>https://evazangerle.github.io/authors/niels-oliver-walkowski/</link>
+      <link>https://evazangerle.at/authors/niels-oliver-walkowski/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/niels-oliver-walkowski/</guid>
+      <guid>https://evazangerle.at/authors/niels-oliver-walkowski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theo Hug</title>
-      <link>https://evazangerle.github.io/authors/theo-hug/</link>
+      <link>https://evazangerle.at/authors/theo-hug/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/theo-hug/</guid>
+      <guid>https://evazangerle.at/authors/theo-hug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Benedikt Hupfauf</title>
-      <link>https://evazangerle.github.io/authors/benedikt-hupfauf/</link>
+      <link>https://evazangerle.at/authors/benedikt-hupfauf/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/benedikt-hupfauf/</guid>
+      <guid>https://evazangerle.at/authors/benedikt-hupfauf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Georg Schmidhammer</title>
-      <link>https://evazangerle.github.io/authors/georg-schmidhammer/</link>
+      <link>https://evazangerle.at/authors/georg-schmidhammer/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/georg-schmidhammer/</guid>
+      <guid>https://evazangerle.at/authors/georg-schmidhammer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Martin Illecker</title>
-      <link>https://evazangerle.github.io/authors/martin-illecker/</link>
+      <link>https://evazangerle.at/authors/martin-illecker/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/martin-illecker/</guid>
+      <guid>https://evazangerle.at/authors/martin-illecker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stefan Steinhauser</title>
-      <link>https://evazangerle.github.io/authors/stefan-steinhauser/</link>
+      <link>https://evazangerle.at/authors/stefan-steinhauser/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/stefan-steinhauser/</guid>
+      <guid>https://evazangerle.at/authors/stefan-steinhauser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wolfgang Gassler</title>
-      <link>https://evazangerle.github.io/authors/wolfgang-gassler/</link>
+      <link>https://evazangerle.at/authors/wolfgang-gassler/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/wolfgang-gassler/</guid>
+      <guid>https://evazangerle.at/authors/wolfgang-gassler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stefan Pröll</title>
-      <link>https://evazangerle.github.io/authors/stefan-proll/</link>
+      <link>https://evazangerle.at/authors/stefan-proll/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/stefan-proll/</guid>
+      <guid>https://evazangerle.at/authors/stefan-proll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Martin Bürgler</title>
-      <link>https://evazangerle.github.io/authors/martin-burgler/</link>
+      <link>https://evazangerle.at/authors/martin-burgler/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/martin-burgler/</guid>
+      <guid>https://evazangerle.at/authors/martin-burgler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexander Larcher</title>
-      <link>https://evazangerle.github.io/authors/alexander-larcher/</link>
+      <link>https://evazangerle.at/authors/alexander-larcher/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/alexander-larcher/</guid>
+      <guid>https://evazangerle.at/authors/alexander-larcher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dominic Pacher</title>
-      <link>https://evazangerle.github.io/authors/dominic-pacher/</link>
+      <link>https://evazangerle.at/authors/dominic-pacher/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/dominic-pacher/</guid>
+      <guid>https://evazangerle.at/authors/dominic-pacher/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://evazangerle.github.io/authors/admin/</link>
+      <link>https://evazangerle.at/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/authors/admin/</guid>
+      <guid>https://evazangerle.at/authors/admin/</guid>
       <description>&lt;p&gt;Eva earned her master’s degree in Computer Science at the University of Innsbruck and subsequently pursued her PhD from the University of Innsbruck in the field of recommender systems for collaborative social media platforms. Her main research interests are within the fields of social media analysis, recommender systems and information retrieval. Over the last years, she has combined these three fields of research and investigated music recommender systems based on data retrieved from social media platforms aiming to exploit new sources of information for recommender systems. She was awarded a Postdoctoral Fellowship for Overseas Researchers from the Japan Society for the Promotion of Science allowing her to make a short-term research stay at the Ritsumeikan University in Kyoto.&lt;/p&gt;
+&lt;p&gt;Eva is also co-author of a book on MySQL (currently in it&#39;s 3rd edition). For more information on the book, visit &lt;a href=&#34;https://www.rheinwerk-verlag.de/mysql_3843/&#34;&gt;Rheinwerk Verlag&lt;/a&gt; (the publisher) or the &lt;a href=&#34;https://www.mysqladmin.at/&#34;&gt;book&#39;s website &lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

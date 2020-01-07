@@ -2,565 +2,573 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eva Zangerle</title>
-    <link>https://evazangerle.github.io/</link>
-      <atom:link href="https://evazangerle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evazangerle.at/</link>
+      <atom:link href="https://evazangerle.at/index.xml" rel="self" type="application/rss+xml" />
     <description>Eva Zangerle</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Eva Zangerle</title>
-      <link>https://evazangerle.github.io/</link>
+      <link>https://evazangerle.at/</link>
     </image>
     
     <item>
       <title>MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach</title>
-      <link>https://evazangerle.github.io/publication/mediaeval-19-tai/</link>
+      <link>https://evazangerle.at/publication/mediaeval-19-tai/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mediaeval-19-tai/</guid>
+      <guid>https://evazangerle.at/publication/mediaeval-19-tai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recognizing Song Mood and Theme Using Convolutional Recurrent Neural Networks</title>
-      <link>https://evazangerle.github.io/publication/mediaeval-19-inn/</link>
+      <link>https://evazangerle.at/publication/mediaeval-19-inn/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mediaeval-19-inn/</guid>
+      <guid>https://evazangerle.at/publication/mediaeval-19-inn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hit Song Prediction: Leveraging Low- and High-Level Audio Features</title>
-      <link>https://evazangerle.github.io/publication/zangerle-ismir-19/</link>
+      <link>https://evazangerle.at/publication/zangerle-ismir-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/zangerle-ismir-19/</guid>
+      <guid>https://evazangerle.at/publication/zangerle-ismir-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging Multi-Method Evaluation for Multi-Stakeholder Settings</title>
-      <link>https://evazangerle.github.io/publication/bauer-2019-leveraging/</link>
+      <link>https://evazangerle.at/publication/bauer-2019-leveraging/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/bauer-2019-leveraging/</guid>
+      <guid>https://evazangerle.at/publication/bauer-2019-leveraging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overview of PAN 2019: Bots and Gender Profiling, Celebrity Profiling, Cross-Domain Authorship Attribution and Style Change Detection</title>
-      <link>https://evazangerle.github.io/publication/dblp-confclef-daelemans-kmpprs-19/</link>
+      <link>https://evazangerle.at/publication/dblp-confclef-daelemans-kmpprs-19/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/dblp-confclef-daelemans-kmpprs-19/</guid>
+      <guid>https://evazangerle.at/publication/dblp-confclef-daelemans-kmpprs-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overview of the Style Change Detection Task at PAN 2019</title>
-      <link>https://evazangerle.github.io/publication/dblp-confclef-zangerle-tssp-19/</link>
+      <link>https://evazangerle.at/publication/dblp-confclef-zangerle-tssp-19/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/dblp-confclef-zangerle-tssp-19/</guid>
+      <guid>https://evazangerle.at/publication/dblp-confclef-zangerle-tssp-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Article Quality Classification on Wikipedia: Introducing Document Embeddings and Content Features</title>
-      <link>https://evazangerle.github.io/publication/dblp-confwikis-schmidt-z-19/</link>
+      <link>https://evazangerle.at/publication/dblp-confwikis-schmidt-z-19/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/dblp-confwikis-schmidt-z-19/</guid>
+      <guid>https://evazangerle.at/publication/dblp-confwikis-schmidt-z-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#34;Nobody Climbs Mountains for Scientific Reasons&#34; -- Semantic Mountaineering History: Names and Activities in Mountaineering Discourse</title>
-      <link>https://evazangerle.github.io/publication/rampl-cl-2019/</link>
+      <link>https://evazangerle.at/publication/rampl-cl-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/rampl-cl-2019/</guid>
+      <guid>https://evazangerle.at/publication/rampl-cl-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autoencoders for Next-Track Recommendations</title>
-      <link>https://evazangerle.github.io/publication/gvdb-2019-autoencoders/</link>
+      <link>https://evazangerle.at/publication/gvdb-2019-autoencoders/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/gvdb-2019-autoencoders/</guid>
+      <guid>https://evazangerle.at/publication/gvdb-2019-autoencoders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Language Models for Next-Track Music Recommendation</title>
-      <link>https://evazangerle.github.io/publication/gvdb-2019-language/</link>
+      <link>https://evazangerle.at/publication/gvdb-2019-language/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/gvdb-2019-language/</guid>
+      <guid>https://evazangerle.at/publication/gvdb-2019-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zur Identifikation und Verortung von Bergnamen in alpiner Literatur</title>
-      <link>https://evazangerle.github.io/publication/hiebelidentifikation/</link>
+      <link>https://evazangerle.at/publication/hiebelidentifikation/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/hiebelidentifikation/</guid>
+      <guid>https://evazangerle.at/publication/hiebelidentifikation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creative GANs for generating poems, lyrics, and metaphors</title>
+      <link>https://evazangerle.at/publication/neurips-creativity-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/publication/neurips-creativity-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#nowplaying-RS: A New Benchmark Dataset for Building Context-Aware Music Recommender Systems </title>
-      <link>https://evazangerle.github.io/publication/smc-2018/</link>
+      <link>https://evazangerle.at/publication/smc-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/smc-2018/</guid>
+      <guid>https://evazangerle.at/publication/smc-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ALF-200k: Towards Extensive Multimodal Analyses of Music Tracks and Playlists</title>
-      <link>https://evazangerle.github.io/publication/ecir-2018/</link>
+      <link>https://evazangerle.at/publication/ecir-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/ecir-2018/</guid>
+      <guid>https://evazangerle.at/publication/ecir-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Carl: Sports Award Recommender</title>
-      <link>https://evazangerle.github.io/publication/dblp-confsigir-pichl-pz-18/</link>
+      <link>https://evazangerle.at/publication/dblp-confsigir-pichl-pz-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/dblp-confsigir-pichl-pz-18/</guid>
+      <guid>https://evazangerle.at/publication/dblp-confsigir-pichl-pz-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content-based User Models: Modeling the Many Faces of Musical Preference</title>
-      <link>https://evazangerle.github.io/publication/zangerle-ismir-18/</link>
+      <link>https://evazangerle.at/publication/zangerle-ismir-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/zangerle-ismir-18/</guid>
+      <guid>https://evazangerle.at/publication/zangerle-ismir-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture-Aware Music Recommendation</title>
-      <link>https://evazangerle.github.io/publication/zangerle-umap-2018/</link>
+      <link>https://evazangerle.at/publication/zangerle-umap-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/zangerle-umap-2018/</guid>
+      <guid>https://evazangerle.at/publication/zangerle-umap-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geMsearch: Personalized Explorative Music Search</title>
-      <link>https://evazangerle.github.io/publication/milc-2018/</link>
+      <link>https://evazangerle.at/publication/milc-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/milc-2018/</guid>
+      <guid>https://evazangerle.at/publication/milc-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HOT: A Height Optimized Trie Index for Main-Memory Database Systems</title>
-      <link>https://evazangerle.github.io/publication/binna-sigmod-18/</link>
+      <link>https://evazangerle.at/publication/binna-sigmod-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/binna-sigmod-18/</guid>
+      <guid>https://evazangerle.at/publication/binna-sigmod-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent Feature Combination for Multi-Context Music Recommendation</title>
-      <link>https://evazangerle.github.io/publication/zangerle-cbmi-18/</link>
+      <link>https://evazangerle.at/publication/zangerle-cbmi-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/zangerle-cbmi-18/</guid>
+      <guid>https://evazangerle.at/publication/zangerle-cbmi-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leiwand Oida: Geolocating Regional Linguistic Variation of German on Twitter</title>
-      <link>https://evazangerle.github.io/publication/zangerle-cmc-18/</link>
+      <link>https://evazangerle.at/publication/zangerle-cmc-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/zangerle-cmc-18/</guid>
+      <guid>https://evazangerle.at/publication/zangerle-cmc-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging Affective Hashtags for Ranking Music Recommendations</title>
-      <link>https://evazangerle.github.io/publication/taffc-18/</link>
+      <link>https://evazangerle.at/publication/taffc-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/taffc-18/</guid>
+      <guid>https://evazangerle.at/publication/taffc-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recommendation-Assisted Data Curation for Wikidata</title>
-      <link>https://evazangerle.github.io/publication/wikiworkshop-18/</link>
+      <link>https://evazangerle.at/publication/wikiworkshop-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/wikiworkshop-18/</guid>
+      <guid>https://evazangerle.at/publication/wikiworkshop-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UMAP 2018 Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation (IUadaptMe) Workshop Chairs&#39; Welcome and Organization</title>
-      <link>https://evazangerle.github.io/publication/iuadaptme-umap-2018/</link>
+      <link>https://evazangerle.at/publication/iuadaptme-umap-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/iuadaptme-umap-2018/</guid>
+      <guid>https://evazangerle.at/publication/iuadaptme-umap-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Peer-Based Approach on Analyzing Hacked Twitter Accounts</title>
-      <link>https://evazangerle.github.io/publication/hicss-17/</link>
+      <link>https://evazangerle.at/publication/hicss-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/hicss-17/</guid>
+      <guid>https://evazangerle.at/publication/hicss-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyzing Coherent Characteristics in Music Playlists</title>
-      <link>https://evazangerle.github.io/publication/coherent-17/</link>
+      <link>https://evazangerle.at/publication/coherent-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/coherent-17/</guid>
+      <guid>https://evazangerle.at/publication/coherent-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bergnamen – Bergwelten. Toponymie im (Kon-)Text</title>
-      <link>https://evazangerle.github.io/publication/namenstagung-17/</link>
+      <link>https://evazangerle.at/publication/namenstagung-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/namenstagung-17/</guid>
+      <guid>https://evazangerle.at/publication/namenstagung-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Employing Wikidata for Fostering Scholarly Research</title>
-      <link>https://evazangerle.github.io/publication/wikidatacon-17/</link>
+      <link>https://evazangerle.at/publication/wikidatacon-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/wikidatacon-17/</guid>
+      <guid>https://evazangerle.at/publication/wikidatacon-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geolocating German on Twitter - Hitches and Glitches of Building and Exploring a Twitter Corpus</title>
-      <link>https://evazangerle.github.io/publication/cl-17/</link>
+      <link>https://evazangerle.at/publication/cl-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/cl-17/</guid>
+      <guid>https://evazangerle.at/publication/cl-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Multilabel Classification and Voting for Genre Classification</title>
-      <link>https://evazangerle.github.io/publication/mediaeval-17/</link>
+      <link>https://evazangerle.at/publication/mediaeval-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mediaeval-17/</guid>
+      <guid>https://evazangerle.at/publication/mediaeval-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Context-Aware Music Recommender Systems: Beyond the Pre-filtering Approach</title>
-      <link>https://evazangerle.github.io/publication/icmr-2017/</link>
+      <link>https://evazangerle.at/publication/icmr-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/icmr-2017/</guid>
+      <guid>https://evazangerle.at/publication/icmr-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mining Culture-Specific Music Listening Behavior from Social Media Data</title>
-      <link>https://evazangerle.github.io/publication/pichl-2017-mining/</link>
+      <link>https://evazangerle.at/publication/pichl-2017-mining/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/pichl-2017-mining/</guid>
+      <guid>https://evazangerle.at/publication/pichl-2017-mining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantics for Mountaineering History</title>
-      <link>https://evazangerle.github.io/publication/semohi-17/</link>
+      <link>https://evazangerle.at/publication/semohi-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/semohi-17/</guid>
+      <guid>https://evazangerle.at/publication/semohi-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding User-curated Playlists on Spotify: A Machine Learning Approach</title>
-      <link>https://evazangerle.github.io/publication/ijmdem-17/</link>
+      <link>https://evazangerle.at/publication/ijmdem-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/ijmdem-17/</guid>
+      <guid>https://evazangerle.at/publication/ijmdem-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualization Strategies for Digital Archives. The Case of the Ernst-von-Glasersfeld-Archive</title>
-      <link>https://evazangerle.github.io/publication/dha-laner-17/</link>
+      <link>https://evazangerle.at/publication/dha-laner-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/dha-laner-17/</guid>
+      <guid>https://evazangerle.at/publication/dha-laner-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Empirical Evaluation of Property Recommender Systems for Wikidata and Collaborative Knowledge Bases</title>
-      <link>https://evazangerle.github.io/publication/opensym-16/</link>
+      <link>https://evazangerle.at/publication/opensym-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/opensym-16/</guid>
+      <guid>https://evazangerle.at/publication/opensym-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysing the Usage of Wikipedia on Twitter: Understanding Inter-Language Links</title>
-      <link>https://evazangerle.github.io/publication/hicss-16/</link>
+      <link>https://evazangerle.at/publication/hicss-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/hicss-16/</guid>
+      <guid>https://evazangerle.at/publication/hicss-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can Microblogs Predict Music Charts? An Analysis of the Relationship between #Nowplaying Tweets and Music Charts</title>
-      <link>https://evazangerle.github.io/publication/ismir-16/</link>
+      <link>https://evazangerle.at/publication/ismir-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/ismir-16/</guid>
+      <guid>https://evazangerle.at/publication/ismir-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geolocating German on Twitter Hitches and Glitches of Building and Exploring a Twitter Corpus</title>
-      <link>https://evazangerle.github.io/publication/cmc-16/</link>
+      <link>https://evazangerle.at/publication/cmc-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/cmc-16/</guid>
+      <guid>https://evazangerle.at/publication/cmc-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SentiStorm: Realtime Sentiment Detection von Tweets</title>
-      <link>https://evazangerle.github.io/publication/hmd-310/</link>
+      <link>https://evazangerle.at/publication/hmd-310/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/hmd-310/</guid>
+      <guid>https://evazangerle.at/publication/hmd-310/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding Playlist Creation on Music Streaming Platforms</title>
-      <link>https://evazangerle.github.io/publication/ism-16/</link>
+      <link>https://evazangerle.at/publication/ism-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/ism-16/</guid>
+      <guid>https://evazangerle.at/publication/ism-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#nowplaying on #Spotify: Leveraging Spotify Information on Twitter for Artist Recommendations</title>
-      <link>https://evazangerle.github.io/publication/sowemine-15/</link>
+      <link>https://evazangerle.at/publication/sowemine-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/sowemine-15/</guid>
+      <guid>https://evazangerle.at/publication/sowemine-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#Wikipedia on Twitter: Analyzing Tweets About Wikipedia</title>
-      <link>https://evazangerle.github.io/publication/opensym-15/</link>
+      <link>https://evazangerle.at/publication/opensym-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/opensym-15/</guid>
+      <guid>https://evazangerle.at/publication/opensym-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MySQL 5.7 - Das umfassende Handbuch</title>
-      <link>https://evazangerle.github.io/publication/mysql-3/</link>
+      <link>https://evazangerle.at/publication/mysql-3/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mysql-3/</guid>
+      <guid>https://evazangerle.at/publication/mysql-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Context-Aware Music Recommendation Approach: What is Hidden in the Playlist Name?</title>
-      <link>https://evazangerle.github.io/publication/somera-15/</link>
+      <link>https://evazangerle.at/publication/somera-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/somera-15/</guid>
+      <guid>https://evazangerle.at/publication/somera-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#nowplaying Music Dataset: Extracting Listening Behavior from Twitter</title>
-      <link>https://evazangerle.github.io/publication/ismm-14/</link>
+      <link>https://evazangerle.at/publication/ismm-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/ismm-14/</guid>
+      <guid>https://evazangerle.at/publication/ismm-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining Spotify and Twitter Data for Generating a Recent and Public Dataset for Music Recommendation</title>
-      <link>https://evazangerle.github.io/publication/gvdb-14/</link>
+      <link>https://evazangerle.at/publication/gvdb-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/gvdb-14/</guid>
+      <guid>https://evazangerle.at/publication/gvdb-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cybercrime on Twitter: Shifting the User Back into Focus</title>
-      <link>https://evazangerle.github.io/publication/cybercrime-14/</link>
+      <link>https://evazangerle.at/publication/cybercrime-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/cybercrime-14/</guid>
+      <guid>https://evazangerle.at/publication/cybercrime-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guided Curation of Semistructured Data in Collaboratively-built Knowledge Bases</title>
-      <link>https://evazangerle.github.io/publication/fgcs/</link>
+      <link>https://evazangerle.at/publication/fgcs/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/fgcs/</guid>
+      <guid>https://evazangerle.at/publication/fgcs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Missbrauch und Betrug auf Twitter</title>
-      <link>https://evazangerle.github.io/publication/iup-twitter-miscreants-2014/</link>
+      <link>https://evazangerle.at/publication/iup-twitter-miscreants-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/iup-twitter-miscreants-2014/</guid>
+      <guid>https://evazangerle.at/publication/iup-twitter-miscreants-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“Sorry, I was hacked&#34;: A Classification of Compromised Twitter Accounts</title>
-      <link>https://evazangerle.github.io/publication/sac-14/</link>
+      <link>https://evazangerle.at/publication/sac-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/sac-14/</guid>
+      <guid>https://evazangerle.at/publication/sac-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dissertationen: Leveraging Recommender Systems for the Creation and Maintenance of Structure within Collaborative Social Media Platforms</title>
-      <link>https://evazangerle.github.io/publication/dbspektrum/</link>
+      <link>https://evazangerle.at/publication/dbspektrum/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/dbspektrum/</guid>
+      <guid>https://evazangerle.at/publication/dbspektrum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting Recommendations in Microblogging Environments</title>
-      <link>https://evazangerle.github.io/publication/scientificcomputing/</link>
+      <link>https://evazangerle.at/publication/scientificcomputing/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/scientificcomputing/</guid>
+      <guid>https://evazangerle.at/publication/scientificcomputing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging Recommender Systems for the Creation and Maintenance of Structure within Collaborative Social Media Platforms</title>
-      <link>https://evazangerle.github.io/publication/evaphd/</link>
+      <link>https://evazangerle.at/publication/evaphd/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/evaphd/</guid>
+      <guid>https://evazangerle.at/publication/evaphd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MySQL 5.6 - Das umfassende Handbuch</title>
-      <link>https://evazangerle.github.io/publication/mysql-2/</link>
+      <link>https://evazangerle.at/publication/mysql-2/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mysql-2/</guid>
+      <guid>https://evazangerle.at/publication/mysql-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the impact of text similarity functions on hashtag recommendations in microblogging environments</title>
-      <link>https://evazangerle.github.io/publication/snam/</link>
+      <link>https://evazangerle.at/publication/snam/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/snam/</guid>
+      <guid>https://evazangerle.at/publication/snam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dealing with Structure Heterogeneity in Semantic Collaborative Environments</title>
-      <link>https://evazangerle.github.io/publication/collsemweb/</link>
+      <link>https://evazangerle.at/publication/collsemweb/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/collsemweb/</guid>
+      <guid>https://evazangerle.at/publication/collsemweb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting Twitter&#39;s Collective Knowledge for Music Recommendations</title>
-      <link>https://evazangerle.github.io/publication/msm-12/</link>
+      <link>https://evazangerle.at/publication/msm-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/msm-12/</guid>
+      <guid>https://evazangerle.at/publication/msm-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SnoopyTagging: Recommending Contextualized Tags to Increase the Quality and Quantity of Meta-Information</title>
-      <link>https://evazangerle.github.io/publication/www-12/</link>
+      <link>https://evazangerle.at/publication/www-12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/www-12/</guid>
+      <guid>https://evazangerle.at/publication/www-12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key Recommendations for Infoboxes in Wikipedia</title>
-      <link>https://evazangerle.github.io/publication/ht-11/</link>
+      <link>https://evazangerle.at/publication/ht-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/ht-11/</guid>
+      <guid>https://evazangerle.at/publication/ht-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MySQL - Das Handbuch für Administratoren</title>
-      <link>https://evazangerle.github.io/publication/mysql-1/</link>
+      <link>https://evazangerle.at/publication/mysql-1/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mysql-1/</guid>
+      <guid>https://evazangerle.at/publication/mysql-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proceedings of the 23rd GI-Workshop on Grundlagen von Datenbanken, Obergurgl, Austria. </title>
-      <link>https://evazangerle.github.io/publication/gvdb-11-editors/</link>
+      <link>https://evazangerle.at/publication/gvdb-11-editors/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/gvdb-11-editors/</guid>
+      <guid>https://evazangerle.at/publication/gvdb-11-editors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recommending #-tags in Twitter</title>
-      <link>https://evazangerle.github.io/publication/sasweb-11/</link>
+      <link>https://evazangerle.at/publication/sasweb-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/sasweb-11/</guid>
+      <guid>https://evazangerle.at/publication/sasweb-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpiderStore: A Native Main Memory Approach for Graph Storage</title>
-      <link>https://evazangerle.github.io/publication/gvdb-11/</link>
+      <link>https://evazangerle.at/publication/gvdb-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/gvdb-11/</guid>
+      <guid>https://evazangerle.at/publication/gvdb-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Snoopy Concept: Fighting Heterogeneity in Semistructured and Collaborative Information Systems by using Recommendations</title>
-      <link>https://evazangerle.github.io/publication/cts-11/</link>
+      <link>https://evazangerle.at/publication/cts-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/cts-11/</guid>
+      <guid>https://evazangerle.at/publication/cts-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Tag Recommendations to Homogenize Folksonomies in Microblogging Environments</title>
-      <link>https://evazangerle.github.io/publication/socinfo-11/</link>
+      <link>https://evazangerle.at/publication/socinfo-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/socinfo-11/</guid>
+      <guid>https://evazangerle.at/publication/socinfo-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recommendation-Based Evolvement of Dynamic Schemata in Semistructured Information Systems</title>
-      <link>https://evazangerle.github.io/publication/gvdb-10/</link>
+      <link>https://evazangerle.at/publication/gvdb-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/gvdb-10/</guid>
+      <guid>https://evazangerle.at/publication/gvdb-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recommending Structure in Collaborative Semistructured Information Systems</title>
-      <link>https://evazangerle.github.io/publication/recsys-10/</link>
+      <link>https://evazangerle.at/publication/recsys-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/recsys-10/</guid>
+      <guid>https://evazangerle.at/publication/recsys-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SnoopyDB: Narrowing the Gap between Structured and Unstructured Information using Recommendations</title>
-      <link>https://evazangerle.github.io/publication/ht-10/</link>
+      <link>https://evazangerle.at/publication/ht-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/ht-10/</guid>
+      <guid>https://evazangerle.at/publication/ht-10/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpiderStore: Exploiting Main Memory for Efficient RDF Graph Representation and Fast Querying</title>
-      <link>https://evazangerle.github.io/publication/vldb-10/</link>
+      <link>https://evazangerle.at/publication/vldb-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/vldb-10/</guid>
+      <guid>https://evazangerle.at/publication/vldb-10/</guid>
       <description></description>
     </item>
     

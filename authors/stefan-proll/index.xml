@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefan Pröll | Eva Zangerle</title>
-    <link>https://evazangerle.github.io/authors/stefan-proll/</link>
-      <atom:link href="https://evazangerle.github.io/authors/stefan-proll/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evazangerle.at/authors/stefan-proll/</link>
+      <atom:link href="https://evazangerle.at/authors/stefan-proll/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefan Pröll</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Stefan Pröll</title>
-      <link>https://evazangerle.github.io/authors/stefan-proll/</link>
+      <link>https://evazangerle.at/authors/stefan-proll/</link>
     </image>
     
     <item>
       <title>MySQL 5.7 - Das umfassende Handbuch</title>
-      <link>https://evazangerle.github.io/publication/mysql-3/</link>
+      <link>https://evazangerle.at/publication/mysql-3/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mysql-3/</guid>
+      <guid>https://evazangerle.at/publication/mysql-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MySQL 5.6 - Das umfassende Handbuch</title>
-      <link>https://evazangerle.github.io/publication/mysql-2/</link>
+      <link>https://evazangerle.at/publication/mysql-2/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mysql-2/</guid>
+      <guid>https://evazangerle.at/publication/mysql-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MySQL - Das Handbuch für Administratoren</title>
-      <link>https://evazangerle.github.io/publication/mysql-1/</link>
+      <link>https://evazangerle.at/publication/mysql-1/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mysql-1/</guid>
+      <guid>https://evazangerle.at/publication/mysql-1/</guid>
       <description></description>
     </item>
     

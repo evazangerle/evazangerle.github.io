@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eva Zangerle</title>
-    <link>https://evazangerle.github.io/authors/admin/</link>
-      <atom:link href="https://evazangerle.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evazangerle.at/authors/admin/</link>
+      <atom:link href="https://evazangerle.at/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Eva Zangerle</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Eva Zangerle</title>
-      <link>https://evazangerle.github.io/authors/admin/</link>
+      <link>https://evazangerle.at/authors/admin/</link>
     </image>
     
   </channel>

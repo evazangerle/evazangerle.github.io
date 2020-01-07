@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert Binna | Eva Zangerle</title>
-    <link>https://evazangerle.github.io/authors/robert-binna/</link>
-      <atom:link href="https://evazangerle.github.io/authors/robert-binna/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evazangerle.at/authors/robert-binna/</link>
+      <atom:link href="https://evazangerle.at/authors/robert-binna/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert Binna</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Robert Binna</title>
-      <link>https://evazangerle.github.io/authors/robert-binna/</link>
+      <link>https://evazangerle.at/authors/robert-binna/</link>
     </image>
     
     <item>
       <title>HOT: A Height Optimized Trie Index for Main-Memory Database Systems</title>
-      <link>https://evazangerle.github.io/publication/binna-sigmod-18/</link>
+      <link>https://evazangerle.at/publication/binna-sigmod-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/binna-sigmod-18/</guid>
+      <guid>https://evazangerle.at/publication/binna-sigmod-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpiderStore: A Native Main Memory Approach for Graph Storage</title>
-      <link>https://evazangerle.github.io/publication/gvdb-11/</link>
+      <link>https://evazangerle.at/publication/gvdb-11/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/gvdb-11/</guid>
+      <guid>https://evazangerle.at/publication/gvdb-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpiderStore: Exploiting Main Memory for Efficient RDF Graph Representation and Fast Querying</title>
-      <link>https://evazangerle.github.io/publication/vldb-10/</link>
+      <link>https://evazangerle.at/publication/vldb-10/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/vldb-10/</guid>
+      <guid>https://evazangerle.at/publication/vldb-10/</guid>
       <description></description>
     </item>
     

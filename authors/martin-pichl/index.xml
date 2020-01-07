@@ -2,133 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martin Pichl | Eva Zangerle</title>
-    <link>https://evazangerle.github.io/authors/martin-pichl/</link>
-      <atom:link href="https://evazangerle.github.io/authors/martin-pichl/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evazangerle.at/authors/martin-pichl/</link>
+      <atom:link href="https://evazangerle.at/authors/martin-pichl/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Pichl</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Martin Pichl</title>
-      <link>https://evazangerle.github.io/authors/martin-pichl/</link>
+      <link>https://evazangerle.at/authors/martin-pichl/</link>
     </image>
     
     <item>
       <title>Carl: Sports Award Recommender</title>
-      <link>https://evazangerle.github.io/publication/dblp-confsigir-pichl-pz-18/</link>
+      <link>https://evazangerle.at/publication/dblp-confsigir-pichl-pz-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/dblp-confsigir-pichl-pz-18/</guid>
+      <guid>https://evazangerle.at/publication/dblp-confsigir-pichl-pz-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content-based User Models: Modeling the Many Faces of Musical Preference</title>
-      <link>https://evazangerle.github.io/publication/zangerle-ismir-18/</link>
+      <link>https://evazangerle.at/publication/zangerle-ismir-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/zangerle-ismir-18/</guid>
+      <guid>https://evazangerle.at/publication/zangerle-ismir-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture-Aware Music Recommendation</title>
-      <link>https://evazangerle.github.io/publication/zangerle-umap-2018/</link>
+      <link>https://evazangerle.at/publication/zangerle-umap-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/zangerle-umap-2018/</guid>
+      <guid>https://evazangerle.at/publication/zangerle-umap-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HOT: A Height Optimized Trie Index for Main-Memory Database Systems</title>
-      <link>https://evazangerle.github.io/publication/binna-sigmod-18/</link>
+      <link>https://evazangerle.at/publication/binna-sigmod-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/binna-sigmod-18/</guid>
+      <guid>https://evazangerle.at/publication/binna-sigmod-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent Feature Combination for Multi-Context Music Recommendation</title>
-      <link>https://evazangerle.github.io/publication/zangerle-cbmi-18/</link>
+      <link>https://evazangerle.at/publication/zangerle-cbmi-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/zangerle-cbmi-18/</guid>
+      <guid>https://evazangerle.at/publication/zangerle-cbmi-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Multilabel Classification and Voting for Genre Classification</title>
-      <link>https://evazangerle.github.io/publication/mediaeval-17/</link>
+      <link>https://evazangerle.at/publication/mediaeval-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mediaeval-17/</guid>
+      <guid>https://evazangerle.at/publication/mediaeval-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Context-Aware Music Recommender Systems: Beyond the Pre-filtering Approach</title>
-      <link>https://evazangerle.github.io/publication/icmr-2017/</link>
+      <link>https://evazangerle.at/publication/icmr-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/icmr-2017/</guid>
+      <guid>https://evazangerle.at/publication/icmr-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mining Culture-Specific Music Listening Behavior from Social Media Data</title>
-      <link>https://evazangerle.github.io/publication/pichl-2017-mining/</link>
+      <link>https://evazangerle.at/publication/pichl-2017-mining/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/pichl-2017-mining/</guid>
+      <guid>https://evazangerle.at/publication/pichl-2017-mining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding User-curated Playlists on Spotify: A Machine Learning Approach</title>
-      <link>https://evazangerle.github.io/publication/ijmdem-17/</link>
+      <link>https://evazangerle.at/publication/ijmdem-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/ijmdem-17/</guid>
+      <guid>https://evazangerle.at/publication/ijmdem-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can Microblogs Predict Music Charts? An Analysis of the Relationship between #Nowplaying Tweets and Music Charts</title>
-      <link>https://evazangerle.github.io/publication/ismir-16/</link>
+      <link>https://evazangerle.at/publication/ismir-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/ismir-16/</guid>
+      <guid>https://evazangerle.at/publication/ismir-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding Playlist Creation on Music Streaming Platforms</title>
-      <link>https://evazangerle.github.io/publication/ism-16/</link>
+      <link>https://evazangerle.at/publication/ism-16/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/ism-16/</guid>
+      <guid>https://evazangerle.at/publication/ism-16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#nowplaying on #Spotify: Leveraging Spotify Information on Twitter for Artist Recommendations</title>
-      <link>https://evazangerle.github.io/publication/sowemine-15/</link>
+      <link>https://evazangerle.at/publication/sowemine-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/sowemine-15/</guid>
+      <guid>https://evazangerle.at/publication/sowemine-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Context-Aware Music Recommendation Approach: What is Hidden in the Playlist Name?</title>
-      <link>https://evazangerle.github.io/publication/somera-15/</link>
+      <link>https://evazangerle.at/publication/somera-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/somera-15/</guid>
+      <guid>https://evazangerle.at/publication/somera-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#nowplaying Music Dataset: Extracting Listening Behavior from Twitter</title>
-      <link>https://evazangerle.github.io/publication/ismm-14/</link>
+      <link>https://evazangerle.at/publication/ismm-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/ismm-14/</guid>
+      <guid>https://evazangerle.at/publication/ismm-14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining Spotify and Twitter Data for Generating a Recent and Public Dataset for Music Recommendation</title>
-      <link>https://evazangerle.github.io/publication/gvdb-14/</link>
+      <link>https://evazangerle.at/publication/gvdb-14/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/gvdb-14/</guid>
+      <guid>https://evazangerle.at/publication/gvdb-14/</guid>
       <description></description>
     </item>
     

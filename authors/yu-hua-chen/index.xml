@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yu-Hua Chen | Eva Zangerle</title>
-    <link>https://evazangerle.github.io/authors/yu-hua-chen/</link>
-      <atom:link href="https://evazangerle.github.io/authors/yu-hua-chen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evazangerle.at/authors/yu-hua-chen/</link>
+      <atom:link href="https://evazangerle.at/authors/yu-hua-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu-Hua Chen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Yu-Hua Chen</title>
-      <link>https://evazangerle.github.io/authors/yu-hua-chen/</link>
+      <link>https://evazangerle.at/authors/yu-hua-chen/</link>
     </image>
     
     <item>
       <title>MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach</title>
-      <link>https://evazangerle.github.io/publication/mediaeval-19-tai/</link>
+      <link>https://evazangerle.at/publication/mediaeval-19-tai/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/mediaeval-19-tai/</guid>
+      <guid>https://evazangerle.at/publication/mediaeval-19-tai/</guid>
       <description></description>
     </item>
     

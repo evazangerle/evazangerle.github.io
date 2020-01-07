@@ -2,29 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asir Saeed | Eva Zangerle</title>
-    <link>https://evazangerle.github.io/authors/asir-saeed/</link>
-      <atom:link href="https://evazangerle.github.io/authors/asir-saeed/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evazangerle.at/authors/asir-saeed/</link>
+      <atom:link href="https://evazangerle.at/authors/asir-saeed/index.xml" rel="self" type="application/rss+xml" />
     <description>Asir Saeed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Asir Saeed</title>
-      <link>https://evazangerle.github.io/authors/asir-saeed/</link>
+      <link>https://evazangerle.at/authors/asir-saeed/</link>
     </image>
     
     <item>
-      <title>Creating GANs for generating poems, lyrics and metaphors</title>
-      <link>https://evazangerle.github.io/publication/content/publication/neurips-creativity-19/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/content/publication/neurips-creativity-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creating GANs for generating poems, lyrics and metaphors</title>
-      <link>https://evazangerle.github.io/publication/neurips-creativity-19/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/neurips-creativity-19/</guid>
+      <title>Creative GANs for generating poems, lyrics, and metaphors</title>
+      <link>https://evazangerle.at/publication/neurips-creativity-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/publication/neurips-creativity-19/</guid>
       <description></description>
     </item>
     

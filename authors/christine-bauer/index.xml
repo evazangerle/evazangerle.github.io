@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christine Bauer | Eva Zangerle</title>
-    <link>https://evazangerle.github.io/authors/christine-bauer/</link>
-      <atom:link href="https://evazangerle.github.io/authors/christine-bauer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evazangerle.at/authors/christine-bauer/</link>
+      <atom:link href="https://evazangerle.at/authors/christine-bauer/index.xml" rel="self" type="application/rss+xml" />
     <description>Christine Bauer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://evazangerle.github.io/img/icon-192.png</url>
+      <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Christine Bauer</title>
-      <link>https://evazangerle.github.io/authors/christine-bauer/</link>
+      <link>https://evazangerle.at/authors/christine-bauer/</link>
     </image>
     
     <item>
       <title>Leveraging Multi-Method Evaluation for Multi-Stakeholder Settings</title>
-      <link>https://evazangerle.github.io/publication/bauer-2019-leveraging/</link>
+      <link>https://evazangerle.at/publication/bauer-2019-leveraging/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/bauer-2019-leveraging/</guid>
+      <guid>https://evazangerle.at/publication/bauer-2019-leveraging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UMAP 2018 Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation (IUadaptMe) Workshop Chairs&#39; Welcome and Organization</title>
-      <link>https://evazangerle.github.io/publication/iuadaptme-umap-2018/</link>
+      <link>https://evazangerle.at/publication/iuadaptme-umap-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.github.io/publication/iuadaptme-umap-2018/</guid>
+      <guid>https://evazangerle.at/publication/iuadaptme-umap-2018/</guid>
       <description></description>
     </item>
     
