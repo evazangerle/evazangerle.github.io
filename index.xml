@@ -5,12 +5,20 @@
     <link>https://evazangerle.at/</link>
       <atom:link href="https://evazangerle.at/index.xml" rel="self" type="application/rss+xml" />
     <description>Eva Zangerle</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Eva Zangerle</title>
       <link>https://evazangerle.at/</link>
     </image>
+    
+    <item>
+      <title>Shared Tasks on Authorship Analysis at PAN 2020</title>
+      <link>https://evazangerle.at/publication/ecir-20-pan/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/publication/ecir-20-pan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach</title>

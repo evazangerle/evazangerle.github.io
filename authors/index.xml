@@ -5,7 +5,7 @@
     <link>https://evazangerle.at/authors/</link>
       <atom:link href="https://evazangerle.at/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,114 @@
     </image>
     
     <item>
-      <title>Boyu Chen</title>
-      <link>https://evazangerle.at/authors/boyu-chen/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.at/authors/boyu-chen/</guid>
+      <title>Anastasia Giachanou</title>
+      <link>https://evazangerle.at/authors/anastasia-giachanou/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/anastasia-giachanou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benno Stein</title>
+      <link>https://evazangerle.at/authors/benno-stein/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/benno-stein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efstathios Stamatatos</title>
+      <link>https://evazangerle.at/authors/efstathios-stamatatos/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/efstathios-stamatatos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enrique Manjavacas</title>
+      <link>https://evazangerle.at/authors/enrique-manjavacas/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/enrique-manjavacas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eva Zangerle</title>
       <link>https://evazangerle.at/authors/eva-zangerle/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://evazangerle.at/authors/eva-zangerle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francisco Rangel</title>
+      <link>https://evazangerle.at/authors/francisco-rangel/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/francisco-rangel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghanem Bilal</title>
+      <link>https://evazangerle.at/authors/ghanem-bilal/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/ghanem-bilal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Günther Specht</title>
+      <link>https://evazangerle.at/authors/gunther-specht/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/gunther-specht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Janek Bevendorff</title>
+      <link>https://evazangerle.at/authors/janek-bevendorff/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/janek-bevendorff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Potthast</title>
+      <link>https://evazangerle.at/authors/martin-potthast/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/martin-potthast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matti Wiegmann</title>
+      <link>https://evazangerle.at/authors/matti-wiegmann/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/matti-wiegmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Kestement</title>
+      <link>https://evazangerle.at/authors/mike-kestement/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/mike-kestement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paolo Rosso</title>
+      <link>https://evazangerle.at/authors/paolo-rosso/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/paolo-rosso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boyu Chen</title>
+      <link>https://evazangerle.at/authors/boyu-chen/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/authors/boyu-chen/</guid>
       <description></description>
     </item>
     
@@ -85,14 +181,6 @@
     </item>
     
     <item>
-      <title>Benno Stein</title>
-      <link>https://evazangerle.at/authors/benno-stein/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.at/authors/benno-stein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Christine Bauer</title>
       <link>https://evazangerle.at/authors/christine-bauer/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
@@ -101,50 +189,10 @@
     </item>
     
     <item>
-      <title>Efstathios Stamatatos</title>
-      <link>https://evazangerle.at/authors/efstathios-stamatatos/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.at/authors/efstathios-stamatatos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enrique Manjavacas</title>
-      <link>https://evazangerle.at/authors/enrique-manjavacas/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.at/authors/enrique-manjavacas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Francisco M. Rangel Pardo</title>
       <link>https://evazangerle.at/authors/francisco-m.-rangel-pardo/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://evazangerle.at/authors/francisco-m.-rangel-pardo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Günther Specht</title>
-      <link>https://evazangerle.at/authors/gunther-specht/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.at/authors/gunther-specht/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Martin Potthast</title>
-      <link>https://evazangerle.at/authors/martin-potthast/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.at/authors/martin-potthast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matti Wiegmann</title>
-      <link>https://evazangerle.at/authors/matti-wiegmann/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.at/authors/matti-wiegmann/</guid>
       <description></description>
     </item>
     
@@ -161,14 +209,6 @@
       <link>https://evazangerle.at/authors/mike-kestemont/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://evazangerle.at/authors/mike-kestemont/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paolo Rosso</title>
-      <link>https://evazangerle.at/authors/paolo-rosso/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.at/authors/paolo-rosso/</guid>
       <description></description>
     </item>
     
