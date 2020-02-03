@@ -6,12 +6,6 @@
       <atom:link href="https://evazangerle.at/authors/martin-burgler/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Bürgler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://evazangerle.at/img/icon-192.png</url>
-      <title>Martin Bürgler</title>
-      <link>https://evazangerle.at/authors/martin-burgler/</link>
-    </image>
-    
     <item>
       <title>SnoopyTagging: Recommending Contextualized Tags to Increase the Quality and Quantity of Meta-Information</title>
       <link>https://evazangerle.at/publication/www-12/</link>

@@ -6,12 +6,6 @@
       <atom:link href="https://evazangerle.at/authors/stefan-proll/index.xml" rel="self" type="application/rss+xml" />
     <description>Stefan Pröll</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://evazangerle.at/img/icon-192.png</url>
-      <title>Stefan Pröll</title>
-      <link>https://evazangerle.at/authors/stefan-proll/</link>
-    </image>
-    
     <item>
       <title>MySQL 5.7 - Das umfassende Handbuch</title>
       <link>https://evazangerle.at/publication/mysql-3/</link>

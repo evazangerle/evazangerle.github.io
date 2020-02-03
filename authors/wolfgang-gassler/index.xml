@@ -6,12 +6,6 @@
       <atom:link href="https://evazangerle.at/authors/wolfgang-gassler/index.xml" rel="self" type="application/rss+xml" />
     <description>Wolfgang Gassler</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://evazangerle.at/img/icon-192.png</url>
-      <title>Wolfgang Gassler</title>
-      <link>https://evazangerle.at/authors/wolfgang-gassler/</link>
-    </image>
-    
     <item>
       <title>An Empirical Evaluation of Property Recommender Systems for Wikidata and Collaborative Knowledge Bases</title>
       <link>https://evazangerle.at/publication/opensym-16/</link>

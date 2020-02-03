@@ -6,12 +6,6 @@
       <atom:link href="https://evazangerle.at/authors/manuel-schmidt/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuel Schmidt</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://evazangerle.at/img/icon-192.png</url>
-      <title>Manuel Schmidt</title>
-      <link>https://evazangerle.at/authors/manuel-schmidt/</link>
-    </image>
-    
     <item>
       <title>Article Quality Classification on Wikipedia: Introducing Document Embeddings and Content Features</title>
       <link>https://evazangerle.at/publication/dblp-confwikis-schmidt-z-19/</link>

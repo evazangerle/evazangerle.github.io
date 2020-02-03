@@ -6,12 +6,6 @@
       <atom:link href="https://evazangerle.at/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://evazangerle.at/img/icon-192.png</url>
-      <title>Authors</title>
-      <link>https://evazangerle.at/authors/</link>
-    </image>
-    
     <item>
       <title>Anastasia Giachanou</title>
       <link>https://evazangerle.at/authors/anastasia-giachanou/</link>
@@ -562,7 +556,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://evazangerle.at/authors/admin/</guid>
       <description>&lt;p&gt;Eva earned her master’s degree in Computer Science at the University of Innsbruck and subsequently pursued her PhD from the University of Innsbruck in the field of recommender systems for collaborative social media platforms. Her main research interests are within the fields of social media analysis, recommender systems and information retrieval. Over the last years, she has combined these three fields of research and investigated music recommender systems based on data retrieved from social media platforms aiming to exploit new sources of information for recommender systems. She was awarded a Postdoctoral Fellowship for Overseas Researchers from the Japan Society for the Promotion of Science allowing her to make a short-term research stay at the Ritsumeikan University in Kyoto.&lt;/p&gt;
-&lt;p&gt;Eva is also co-author of a book on MySQL (currently in it&#39;s 3rd edition). For more information on the book, visit &lt;a href=&#34;https://www.rheinwerk-verlag.de/mysql_3843/&#34;&gt;Rheinwerk Verlag&lt;/a&gt; (the publisher) or the &lt;a href=&#34;https://www.mysqladmin.at/&#34;&gt;book&#39;s website &lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Eva is also co-author of a book on MySQL (currently in it&amp;rsquo;s 3rd edition). For more information on the book, visit &lt;a href=&#34;https://www.rheinwerk-verlag.de/mysql_3843/&#34;&gt;Rheinwerk Verlag&lt;/a&gt; (the publisher) or the &lt;a href=&#34;https://www.mysqladmin.at/&#34;&gt;book&amp;rsquo;s website &lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
