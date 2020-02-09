@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/yi-hsuan-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yi-Hsuan Yang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Yi-Hsuan Yang</title>
+      <link>https://evazangerle.at/authors/yi-hsuan-yang/</link>
+    </image>
+    
     <item>
       <title>MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach</title>
       <link>https://evazangerle.at/publication/mediaeval-19-tai/</link>

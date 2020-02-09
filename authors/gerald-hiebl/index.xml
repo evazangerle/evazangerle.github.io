@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/gerald-hiebl/index.xml" rel="self" type="application/rss+xml" />
     <description>Gerald Hiebl</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Gerald Hiebl</title>
+      <link>https://evazangerle.at/authors/gerald-hiebl/</link>
+    </image>
+    
     <item>
       <title>Bergnamen – Bergwelten. Toponymie im (Kon-)Text</title>
       <link>https://evazangerle.at/publication/namenstagung-17/</link>

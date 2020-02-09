@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/dominic-pacher/index.xml" rel="self" type="application/rss+xml" />
     <description>Dominic Pacher</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Dominic Pacher</title>
+      <link>https://evazangerle.at/authors/dominic-pacher/</link>
+    </image>
+    
     <item>
       <title>SpiderStore: A Native Main Memory Approach for Graph Storage</title>
       <link>https://evazangerle.at/publication/gvdb-11/</link>

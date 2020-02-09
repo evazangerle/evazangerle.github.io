@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/andrea-mussmann/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Mussmann</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Andrea Mussmann</title>
+      <link>https://evazangerle.at/authors/andrea-mussmann/</link>
+    </image>
+    
     <item>
       <title>Zur Identifikation und Verortung von Bergnamen in alpiner Literatur</title>
       <link>https://evazangerle.at/publication/hiebelidentifikation/</link>

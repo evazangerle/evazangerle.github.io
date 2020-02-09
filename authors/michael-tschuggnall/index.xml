@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/michael-tschuggnall/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Tschuggnall</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Michael Tschuggnall</title>
+      <link>https://evazangerle.at/authors/michael-tschuggnall/</link>
+    </image>
+    
     <item>
       <title>Overview of PAN 2019: Bots and Gender Profiling, Celebrity Profiling, Cross-Domain Authorship Attribution and Style Change Detection</title>
       <link>https://evazangerle.at/publication/dblp-confclef-daelemans-kmpprs-19/</link>

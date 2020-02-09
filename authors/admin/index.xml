@@ -6,5 +6,11 @@
       <atom:link href="https://evazangerle.at/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Eva Zangerle</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Eva Zangerle</title>
+      <link>https://evazangerle.at/authors/admin/</link>
+    </image>
+    
   </channel>
 </rss>

@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/elisabeth-gruber/index.xml" rel="self" type="application/rss+xml" />
     <description>Elisabeth Gruber</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Elisabeth Gruber</title>
+      <link>https://evazangerle.at/authors/elisabeth-gruber/</link>
+    </image>
+    
     <item>
       <title>&#34;Nobody Climbs Mountains for Scientific Reasons&#34; -- Semantic Mountaineering History: Names and Activities in Mountaineering Discourse</title>
       <link>https://evazangerle.at/publication/rampl-cl-2019/</link>

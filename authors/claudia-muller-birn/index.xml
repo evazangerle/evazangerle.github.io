@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/claudia-muller-birn/index.xml" rel="self" type="application/rss+xml" />
     <description>Claudia Müller-Birn</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Claudia Müller-Birn</title>
+      <link>https://evazangerle.at/authors/claudia-muller-birn/</link>
+    </image>
+    
     <item>
       <title>Recommendation-Assisted Data Curation for Wikidata</title>
       <link>https://evazangerle.at/publication/wikiworkshop-18/</link>

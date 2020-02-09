@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/martin-illecker/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Illecker</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Martin Illecker</title>
+      <link>https://evazangerle.at/authors/martin-illecker/</link>
+    </image>
+    
     <item>
       <title>SentiStorm: Realtime Sentiment Detection von Tweets</title>
       <link>https://evazangerle.at/publication/hmd-310/</link>

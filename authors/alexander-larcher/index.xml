@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/alexander-larcher/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander Larcher</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Alexander Larcher</title>
+      <link>https://evazangerle.at/authors/alexander-larcher/</link>
+    </image>
+    
     <item>
       <title>Key Recommendations for Infoboxes in Wikipedia</title>
       <link>https://evazangerle.at/publication/ht-11/</link>

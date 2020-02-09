@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/georg-schmidhammer/index.xml" rel="self" type="application/rss+xml" />
     <description>Georg Schmidhammer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Georg Schmidhammer</title>
+      <link>https://evazangerle.at/authors/georg-schmidhammer/</link>
+    </image>
+    
     <item>
       <title>Analysing the Usage of Wikipedia on Twitter: Understanding Inter-Language Links</title>
       <link>https://evazangerle.at/publication/hicss-16/</link>

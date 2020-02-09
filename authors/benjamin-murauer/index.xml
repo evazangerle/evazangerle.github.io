@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/benjamin-murauer/index.xml" rel="self" type="application/rss+xml" />
     <description>Benjamin Murauer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Benjamin Murauer</title>
+      <link>https://evazangerle.at/authors/benjamin-murauer/</link>
+    </image>
+    
     <item>
       <title>A Peer-Based Approach on Analyzing Hacked Twitter Accounts</title>
       <link>https://evazangerle.at/publication/hicss-17/</link>

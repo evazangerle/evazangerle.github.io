@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/markus-schedl/index.xml" rel="self" type="application/rss+xml" />
     <description>Markus Schedl</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Markus Schedl</title>
+      <link>https://evazangerle.at/authors/markus-schedl/</link>
+    </image>
+    
     <item>
       <title>Culture-Aware Music Recommendation</title>
       <link>https://evazangerle.at/publication/zangerle-umap-2018/</link>

@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/christine-bauer/index.xml" rel="self" type="application/rss+xml" />
     <description>Christine Bauer</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Christine Bauer</title>
+      <link>https://evazangerle.at/authors/christine-bauer/</link>
+    </image>
+    
     <item>
       <title>Leveraging Multi-Method Evaluation for Multi-Stakeholder Settings</title>
       <link>https://evazangerle.at/publication/bauer-2019-leveraging/</link>

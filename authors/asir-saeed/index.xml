@@ -6,6 +6,12 @@
       <atom:link href="https://evazangerle.at/authors/asir-saeed/index.xml" rel="self" type="application/rss+xml" />
     <description>Asir Saeed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://evazangerle.at/img/icon-192.png</url>
+      <title>Asir Saeed</title>
+      <link>https://evazangerle.at/authors/asir-saeed/</link>
+    </image>
+    
     <item>
       <title>Creative GANs for generating poems, lyrics, and metaphors</title>
       <link>https://evazangerle.at/publication/neurips-creativity-19/</link>
