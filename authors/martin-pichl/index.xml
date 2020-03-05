@@ -5,12 +5,20 @@
     <link>https://evazangerle.at/authors/martin-pichl/</link>
       <atom:link href="https://evazangerle.at/authors/martin-pichl/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Pichl</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://evazangerle.at/img/icon-192.png</url>
       <title>Martin Pichl</title>
       <link>https://evazangerle.at/authors/martin-pichl/</link>
     </image>
+    
+    <item>
+      <title>User Models for Culture-Aware Music Recommendation: Fusing Acoustic and Cultural Cues</title>
+      <link>https://evazangerle.at/publication/tismir-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/publication/tismir-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Carl: Sports Award Recommender</title>
