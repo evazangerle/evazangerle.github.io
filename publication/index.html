@@ -8,7 +8,7 @@
   
   
   
-  <meta name="generator" content="Wowchemy 4.8.0 for Hugo">
+  <meta name="generator" content="Wowchemy 5.0.0-beta.1 for Hugo">
   
 
   
@@ -60,7 +60,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#1565c0">
   
 
   
@@ -71,9 +71,11 @@
   
   
     
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -84,14 +86,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -229,8 +231,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -238,50 +240,15 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.a2dda909fb8228e17412d06b4423e0a6.css">
 
   
 
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-22263961-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-22263961-1', {});
-
   
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
 
   
 
@@ -293,7 +260,10 @@
   <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Eva Zangerle">
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
@@ -312,16 +282,13 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="twitter:site" content="@eva_zangerle">
-  <meta property="twitter:creator" content="@eva_zangerle">
-  
   <meta property="og:site_name" content="Eva Zangerle">
   <meta property="og:url" content="https://evazangerle.at/publication/">
   <meta property="og:title" content="Publications | Eva Zangerle">
   <meta property="og:description" content="PostDoc"><meta property="og:image" content="https://evazangerle.at/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://evazangerle.at/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    
+    <meta property="og:updated_time" content="2020-10-01T00:00:00&#43;00:00">
   
 
   
@@ -343,18 +310,21 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class=" ">
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  ">
 
   
   
   
   
-    <script>const isSiteThemeDark = false;</script>
   
   
-  <script src="/js/load-theme.js"></script>
+  
+  
+  <script src="/js/wowchemy-init.min.7264cf0eba3b66951b36da7d2cecf9c5.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -363,16 +333,22 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
+      
+
+      
 
     </section>
     <section class="section-search-results">
@@ -386,7 +362,9 @@
 </aside>
 
 
-  
+
+  <div class="page-header">
+    
 
 
 
@@ -400,7 +378,7 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
+  <div class="container-xl">
 
     
     <div class="d-none d-lg-inline-flex">
@@ -621,6 +599,12 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
       
       
       <li class="nav-item">
@@ -629,6 +613,23 @@
       
 
       
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
       
 
       
@@ -639,8 +640,10 @@
 </nav>
 
 
+  </div>
 
-  
+  <div class="page-body">
+    
 
 
 
@@ -677,6 +680,15 @@
       
 
       
+      
+        
+        
+      
+        
+        
+      
+        
+        
       
         
         
@@ -1007,12 +1019,88 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Markus Schedl</span>, <span >Martin Pichl</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Martin Pichl</span>
   </span>
   (2020).
+  <a href="/publication/mtap-20/">User models for multi-context-aware music recommendation</a>.
+  <em>Multimedia Tools and Applications</em>.
   
-  <b>User Models for Culture-Aware Music Recommendation: Fusing Acoustic and Cultural Cues</b>.
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/mtap-20/mtap-20.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/mtap-20/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s11042-020-09890-7" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Eva Zangerle</span>, <span >
+      Martin Pichl</span>, <span >
+      Markus Schedl</span>
+  </span>
+  (2020).
+  <a href="/publication/tismir-20/">User Models for Culture-Aware Music Recommendation: Fusing Acoustic and Cultural Cues</a>.
   <em>Transactions of the International Society for Music Information Retrieval</em>.
   
   <p>
@@ -1028,16 +1116,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/tismir-20/tismir-20.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/tismir-20/tismir-20.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/tismir-20/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1051,7 +1139,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5334/tismir.37" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5334/tismir.37" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1082,12 +1170,23 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Anastasia Giachanou</span>, <span >Benno Stein</span>, <span >Bilal Ghanem</span>, <span >Efstathios Stamatatos</span>, <span >Enrique Manjavacas</span>, <span >Eva Zangerle</span>, <span >Francisco Rangel</span>, <span >Günther Specht</span>, <span >Janek Bevendorff</span>, <span >Martin Potthast</span>, <span >Matti Wiegmann</span>, <span >Mike Kestemont</span>, <span >Paolo Rosso</span>
+  <span >
+      Janek Bevendorff</span>, <span >
+      Bilal Ghanem</span>, <span >
+      Anastasia Giachanou</span>, <span >
+      Mike Kestemont</span>, <span >
+      Enrique Manjavacas</span>, <span >
+      Martin Potthast</span>, <span >
+      Francisco Rangel</span>, <span >
+      Paolo Rosso</span>, <span >
+      Günther Specht</span>, <span >
+      Efstathios Stamatatos</span>, <span >
+      Benno Stein</span>, <span >
+      Matti Wiegmann</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2020).
-  
-  <b>Shared Tasks on Authorship Analysis at PAN 2020</b>.
+  <a href="/publication/ecir-20-pan/">Shared Tasks on Authorship Analysis at PAN 2020</a>.
   <em>Advances in Information Retrieval - 42nd European Conference on IR Research</em>.
   
   <p>
@@ -1103,16 +1202,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/ecir-20-pan/ecir-20-pan.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/ecir-20-pan/ecir-20-pan.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/ecir-20-pan/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1142,6 +1241,84 @@
           
         
 
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2020">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      Alessandro B. Melchiorre</span>, <span >
+      Eva Zangerle</span>, <span >
+      Markus Schedl</span>
+  </span>
+  (2020).
+  <a href="/publication/10-1145-3383313-3412223/">Personality Bias of Music Recommendation Algorithms</a>.
+  <em>Fourteenth ACM Conference on Recommender Systems</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3383313.3412223" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/10-1145-3383313-3412223/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3383313.3412223" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
         <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2019">
           
             <div class="pub-list-item" style="margin-bottom: 1rem">
@@ -1153,12 +1330,16 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Boyu Chen</span>, <span >Hsiao-Tzu Hung</span>, <span >Maximilian Mayerl</span>, <span >Michael Vötter</span>, <span >Yi-Hsuan Yang</span>
+  <span >
+      Maximilian Mayerl</span>, <span >
+      Michael Vötter</span>, <span >
+      Hsiao-Tzu Hung</span>, <span >
+      Boyu Chen</span>, <span >
+      Yi-Hsuan Yang</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2019).
-  
-  <b>Recognizing Song Mood and Theme Using Convolutional Recurrent Neural Networks</b>.
+  <a href="/publication/mediaeval-19-inn/">Recognizing Song Mood and Theme Using Convolutional Recurrent Neural Networks</a>.
   <em>Working Notes Proceedings of the MediaEval 2019 Workshop</em>.
   
   <p>
@@ -1174,16 +1355,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/mediaeval-19-inn/mediaeval-19-inn.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/mediaeval-19-inn/mediaeval-19-inn.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/mediaeval-19-inn/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1224,12 +1405,16 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Hsiao-Tzu Hung</span>, <span >Maximilian Mayerl</span>, <span >Michael Vötter</span>, <span >Yi-Hsuan Yang</span>, <span >Yu-Hua Chen</span>
+  <span >
+      Hsiao-Tzu Hung</span>, <span >
+      Yu-Hua Chen</span>, <span >
+      Maximilian Mayerl</span>, <span >
+      Michael Vötter</span>, <span >
+      Eva Zangerle</span>, <span >
+      Yi-Hsuan Yang</span>
   </span>
   (2019).
-  
-  <b>MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach</b>.
+  <a href="/publication/mediaeval-19-tai/">MediaEval 2019 Emotion and Theme Recognition task: A VQ-VAE Based Approach</a>.
   <em>Working Notes Proceedings of the MediaEval 2019 Workshop</em>.
   
   <p>
@@ -1245,16 +1430,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/mediaeval-19-tai/mediaeval-19-tai.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/mediaeval-19-tai/mediaeval-19-tai.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/mediaeval-19-tai/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1295,12 +1480,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Michael Vötter Yi-Hsuan Yang</span>, <span >Ramona Huber</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Ramona Huber</span>, <span >
+      Michael Vötter Yi-Hsuan Yang</span>
   </span>
   (2019).
-  
-  <b>Hit Song Prediction: Leveraging Low- and High-Level Audio Features</b>.
+  <a href="/publication/zangerle-ismir-19/">Hit Song Prediction: Leveraging Low- and High-Level Audio Features</a>.
   <em>Proceedings of the 20th International Society for Music Information Retrieval Conference 2019 (ISMIR 2019)</em>.
   
   <p>
@@ -1316,16 +1502,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/zangerle-ismir-19/zangerle-ismir-19.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/zangerle-ismir-19/zangerle-ismir-19.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/zangerle-ismir-19/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1333,7 +1519,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.3258041" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.3258041" target="_blank" rel="noopener">
   Dataset
 </a>
 
@@ -1374,12 +1560,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Benno Stein</span>, <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Potthast</span>, <span >Michael Tschuggnall</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Michael Tschuggnall</span>, <span >
+      Günther Specht</span>, <span >
+      Benno Stein</span>, <span >
+      Martin Potthast</span>
   </span>
   (2019).
-  
-  <b>Overview of the Style Change Detection Task at PAN 2019</b>.
+  <a href="/publication/dblp-confclef-zangerle-tssp-19/">Overview of the Style Change Detection Task at PAN 2019</a>.
   <em>Working Notes of CLEF 2019 - Conference and Labs of the Evaluation Forum, Lugano, Switzerland, September 9-12, 2019</em>.
   
   <p>
@@ -1397,16 +1586,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://ceur-ws.org/Vol-2380/paper_243.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://ceur-ws.org/Vol-2380/paper_243.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/dblp-confclef-zangerle-tssp-19/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1414,7 +1603,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://zenodo.org/record/3577602" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://zenodo.org/record/3577602" target="_blank" rel="noopener">
   Dataset
 </a>
 
@@ -1455,12 +1644,22 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Benno Stein</span>, <span >Efstathios Stamatatos</span>, <span >Enrique Manjavacas</span>, <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Potthast</span>, <span >Matti Wiegmann</span>, <span >Mike Kestemont</span>, <span >Paolo Rosso</span>, <span >Francisco M. Rangel Pardo</span>, <span >Michael Tschuggnall</span>, <span >Walter Daelemans</span>
+  <span >
+      Walter Daelemans</span>, <span >
+      Mike Kestemont</span>, <span >
+      Enrique Manjavacas</span>, <span >
+      Martin Potthast</span>, <span >
+      Francisco M. Rangel Pardo</span>, <span >
+      Paolo Rosso</span>, <span >
+      Günther Specht</span>, <span >
+      Efstathios Stamatatos</span>, <span >
+      Benno Stein</span>, <span >
+      Michael Tschuggnall</span>, <span >
+      Matti Wiegmann</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2019).
-  
-  <b>Overview of PAN 2019: Bots and Gender Profiling, Celebrity Profiling, Cross-Domain Authorship Attribution and Style Change Detection</b>.
+  <a href="/publication/dblp-confclef-daelemans-kmpprs-19/">Overview of PAN 2019: Bots and Gender Profiling, Celebrity Profiling, Cross-Domain Authorship Attribution and Style Change Detection</a>.
   <em>Experimental IR Meets Multilinguality, Multimodality, and Interaction - 10th International Conference of the CLEF Association, CLEF 2019, Lugano, Switzerland, September 9-12, 2019, Proceedings</em>.
   
   <p>
@@ -1478,16 +1677,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-030-28577-7_30" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-28577-7_30" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/dblp-confclef-daelemans-kmpprs-19/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1501,7 +1700,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-030-28577-7_30" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-28577-7_30" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1532,12 +1731,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Christine Bauer</span>
+  <span >
+      Christine Bauer</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2019).
-  
-  <b>Leveraging Multi-Method Evaluation for Multi-Stakeholder Settings</b>.
+  <a href="/publication/bauer-2019-leveraging/">Leveraging Multi-Method Evaluation for Multi-Stakeholder Settings</a>.
   <em>Proceedings of the 1st Workshop on the Impact of Recommender Systems co-located with 13th ACM Conference on Recommender Systems (ACM RecSys 2019)</em>.
   
   <p>
@@ -1553,16 +1752,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/bauer-2019-leveraging/bauer-2019-leveraging.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/bauer-2019-leveraging/bauer-2019-leveraging.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/bauer-2019-leveraging/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1603,12 +1802,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Manuel Schmidt</span>
+  <span >
+      Manuel Schmidt</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2019).
-  
-  <b>Article Quality Classification on Wikipedia: Introducing Document Embeddings and Content Features</b>.
+  <a href="/publication/dblp-confwikis-schmidt-z-19/">Article Quality Classification on Wikipedia: Introducing Document Embeddings and Content Features</a>.
   <em>Proceedings of the 15th International Symposium on Open Collaboration, OpenSym 2019, Skövde, Sweden, August 20-22, 2019</em>.
   
   <p>
@@ -1626,16 +1825,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3306446.3340831" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3306446.3340831" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/dblp-confwikis-schmidt-z-19/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1649,7 +1848,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3306446.3340831" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3306446.3340831" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1680,12 +1879,16 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Bettina Larl</span>, <span >Claudia Posch</span>, <span >Elisabeth Gruber</span>, <span >Gerald Hiebel</span>, <span >Gerhard Rampl</span>
+  <span >
+      Gerhard Rampl</span>, <span >
+      Elisabeth Gruber</span>, <span >
+      Gerald Hiebel</span>, <span >
+      Bettina Larl</span>, <span >
+      Claudia Posch</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2019).
-  
-  <b>&#34;Nobody Climbs Mountains for Scientific Reasons&#34; -- Semantic Mountaineering History: Names and Activities in Mountaineering Discourse</b>.
+  <a href="/publication/rampl-cl-2019/">&#34;Nobody Climbs Mountains for Scientific Reasons&#34; -- Semantic Mountaineering History: Names and Activities in Mountaineering Discourse</a>.
   <em>10th International Corpus Linguistics Conference (CL2019)</em>.
   
   <p>
@@ -1703,10 +1906,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/rampl-cl-2019/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1747,12 +1950,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Maximilian Mayerl</span>, <span >Michael Vötter</span>
+  <span >
+      Maximilian Mayerl</span>, <span >
+      Michael Vötter</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2019).
-  
-  <b>Language Models for Next-Track Music Recommendation</b>.
+  <a href="/publication/gvdb-2019-language/">Language Models for Next-Track Music Recommendation</a>.
   <em>Proceedings of the 31. GI-Workshop Grundlagen von Datenbanken</em>.
   
   <p>
@@ -1770,16 +1975,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://ceur-ws.org/Vol-2367/paper_1.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://ceur-ws.org/Vol-2367/paper_1.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/gvdb-2019-language/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1820,12 +2025,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Maximilian Mayerl</span>, <span >Michael Vötter</span>
+  <span >
+      Michael Vötter</span>, <span >
+      Eva Zangerle</span>, <span >
+      Maximilian Mayerl</span>, <span >
+      Günther Specht</span>
   </span>
   (2019).
-  
-  <b>Autoencoders for Next-Track Recommendations</b>.
+  <a href="/publication/gvdb-2019-autoencoders/">Autoencoders for Next-Track Recommendations</a>.
   <em>Proceedings of the 31. GI-Workshop Grundlagen von Datenbanken</em>.
   
   <p>
@@ -1843,16 +2050,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://ceur-ws.org/Vol-2367/paper_2.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://ceur-ws.org/Vol-2367/paper_2.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/gvdb-2019-autoencoders/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1893,12 +2100,17 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Claudia Posch</span>, <span >Elisabeth Gruber</span>, <span >Gerald Hiebel</span>, <span >Gerhard Rampl</span>, <span >Andrea Mussmann</span>, <span >Klaus Hanke</span>
+  <span >
+      Gerald Hiebel</span>, <span >
+      Klaus Hanke</span>, <span >
+      Claudia Posch</span>, <span >
+      Gerhard Rampl</span>, <span >
+      Elisabeth Gruber</span>, <span >
+      Andrea Mussmann</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2019).
-  
-  <b>Zur Identifikation und Verortung von Bergnamen in alpiner Literatur</b>.
+  <a href="/publication/hiebelidentifikation/">Zur Identifikation und Verortung von Bergnamen in alpiner Literatur</a>.
   <em>20. Internationale Geodätische Woche Obergurgl 2019</em>.
   
   <p>
@@ -1914,16 +2126,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/hiebelidentifikation/hiebelidentifikation.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/hiebelidentifikation/hiebelidentifikation.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/hiebelidentifikation/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -1964,12 +2176,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Asir Saeed</span>, <span >Suzana Ilic</span>
+  <span >
+      Asir Saeed</span>, <span >
+      Suzana Ilic</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2019).
-  
-  <b>Creative GANs for generating poems, lyrics, and metaphors</b>.
+  <a href="/publication/neurips-creativity-19/">Creative GANs for generating poems, lyrics, and metaphors</a>.
   <em>CoRR</em>.
   
   <p>
@@ -1987,16 +2200,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://arxiv.org/abs/1909.09534" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://arxiv.org/abs/1909.09534" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/neurips-creativity-19/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2037,12 +2250,16 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Christine Bauer</span>, <span >Bart Knijnenburg</span>, <span >Frosina Koceva</span>, <span >Ilaria Torre</span>, <span >Ilknur Celik</span>
+  <span >
+      Ilknur Celik</span>, <span >
+      Ilaria Torre</span>, <span >
+      Frosina Koceva</span>, <span >
+      Christine Bauer</span>, <span >
+      Eva Zangerle</span>, <span >
+      Bart Knijnenburg</span>
   </span>
   (2018).
-  
-  <b>UMAP 2018 Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation (IUadaptMe) Workshop Chairs&#39; Welcome and Organization</b>.
+  <a href="/publication/iuadaptme-umap-2018/">UMAP 2018 Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation (IUadaptMe) Workshop Chairs&#39; Welcome and Organization</a>.
   <em>Adjunct Publication of the 26th Conference on User Modeling, Adaptation and Personalization</em>.
   
   <p>
@@ -2058,16 +2275,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/iuadaptme-umap-2018/iuadaptme-umap-2018.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/iuadaptme-umap-2018/iuadaptme-umap-2018.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/iuadaptme-umap-2018/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2081,7 +2298,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3213586.3226202" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3213586.3226202" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2112,12 +2329,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Claudia Müller-Birn</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Claudia Müller-Birn</span>
   </span>
   (2018).
-  
-  <b>Recommendation-Assisted Data Curation for Wikidata</b>.
+  <a href="/publication/wikiworkshop-18/">Recommendation-Assisted Data Curation for Wikidata</a>.
   <em>Wiki Workshop 2018, co-located with The Web Conference</em>.
   
   <p>
@@ -2133,16 +2350,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/wikiworkshop-18/wikiworkshop-18.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/wikiworkshop-18/wikiworkshop-18.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/wikiworkshop-18/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2156,7 +2373,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.1194790" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.1194790" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2187,12 +2404,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Yi-Hsuan Yang</span>, <span >Chih-Ming Chen</span>, <span >Ming-Feng Tsai</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Chih-Ming Chen</span>, <span >
+      Ming-Feng Tsai</span>, <span >
+      Yi-Hsuan Yang</span>
   </span>
   (2018).
-  
-  <b>Leveraging Affective Hashtags for Ranking Music Recommendations</b>.
+  <a href="/publication/taffc-18/">Leveraging Affective Hashtags for Ranking Music Recommendations</a>.
   <em>IEEE Transactions on Affective Computing</em>.
   
   <p>
@@ -2208,16 +2427,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/taffc-18/taffc-18.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/taffc-18/taffc-18.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/taffc-18/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2258,12 +2477,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Bettina Larl</span>
+  <span >
+      Bettina Larl</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2018).
-  
-  <b>Leiwand Oida: Geolocating Regional Linguistic Variation of German on Twitter</b>.
+  <a href="/publication/zangerle-cmc-18/">Leiwand Oida: Geolocating Regional Linguistic Variation of German on Twitter</a>.
   <em>Proceedings of the 6th Conference on Computer-Mediated Communication (CMC) and Social Media Corpora (CMC-corpora 2018)</em>.
   
   <p>
@@ -2279,16 +2498,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/zangerle-cmc-18/zangerle-cmc-18.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/zangerle-cmc-18/zangerle-cmc-18.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/zangerle-cmc-18/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2329,12 +2548,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Martin Pichl</span>
+  <span >
+      Martin Pichl</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2018).
-  
-  <b>Latent Feature Combination for Multi-Context Music Recommendation</b>.
+  <a href="/publication/zangerle-cbmi-18/">Latent Feature Combination for Multi-Context Music Recommendation</a>.
   <em>2018 International Conference on Content-Based Multimedia Indexing (CBMI)</em>.
   
   <p>
@@ -2350,16 +2569,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/zangerle-cbmi-18/zangerle-cbmi-18.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/zangerle-cbmi-18/zangerle-cbmi-18.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/zangerle-cbmi-18/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2373,7 +2592,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/CBMI.2018.8516495" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/CBMI.2018.8516495" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2404,12 +2623,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Pichl</span>, <span >Robert Binna</span>, <span >Viktor Leis</span>
+  <span >
+      Robert Binna</span>, <span >
+      Eva Zangerle</span>, <span >
+      Martin Pichl</span>, <span >
+      Günther Specht</span>, <span >
+      Viktor Leis</span>
   </span>
   (2018).
-  
-  <b>HOT: A Height Optimized Trie Index for Main-Memory Database Systems</b>.
+  <a href="/publication/binna-sigmod-18/">HOT: A Height Optimized Trie Index for Main-Memory Database Systems</a>.
   <em>Proceedings of the 2018 International Conference on Management of Data</em>.
   
   <p>
@@ -2425,16 +2647,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/binna-sigmod-18/binna-sigmod-18.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/binna-sigmod-18/binna-sigmod-18.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/binna-sigmod-18/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2448,7 +2670,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3183713.3196896" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3183713.3196896" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2479,12 +2701,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Markus Schedl</span>, <span >Christian Esswein</span>
+  <span >
+      Christian Esswein</span>, <span >
+      Markus Schedl</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2018).
-  
-  <b>geMsearch: Personalized Explorative Music Search</b>.
+  <a href="/publication/milc-2018/">geMsearch: Personalized Explorative Music Search</a>.
   <em>Joint Proceedings of the ACM IUI 2018 Workshops co-located with the 23rd ACM Conference on Intelligent User Interfaces (ACM IUI 2018)</em>.
   
   <p>
@@ -2500,16 +2723,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/milc-2018/milc-2018.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/milc-2018/milc-2018.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/milc-2018/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2550,12 +2773,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Markus Schedl</span>, <span >Martin Pichl</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Martin Pichl</span>, <span >
+      Markus Schedl</span>
   </span>
   (2018).
-  
-  <b>Culture-Aware Music Recommendation</b>.
+  <a href="/publication/zangerle-umap-2018/">Culture-Aware Music Recommendation</a>.
   <em>Proceedings of the 26th Conference on User Modeling, Adaptation and Personalization</em>.
   
   <p>
@@ -2571,16 +2795,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/zangerle-umap-2018/zangerle-umap-2018.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/zangerle-umap-2018/zangerle-umap-2018.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/zangerle-umap-2018/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2594,7 +2818,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3209219.3209258" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3209219.3209258" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2625,12 +2849,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Martin Pichl</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Martin Pichl</span>
   </span>
   (2018).
-  
-  <b>Content-based User Models: Modeling the Many Faces of Musical Preference</b>.
+  <a href="/publication/zangerle-ismir-18/">Content-based User Models: Modeling the Many Faces of Musical Preference</a>.
   <em>Proceedings of the 19th International Society for Music Information Retrieval Conference 2018 (ISMIR 2018)</em>.
   
   <p>
@@ -2646,16 +2870,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/zangerle-ismir-18/zangerle-ismir-18.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/zangerle-ismir-18/zangerle-ismir-18.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/zangerle-ismir-18/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2696,12 +2920,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Martin Pichl</span>, <span >Bernward Pichl</span>
+  <span >
+      Martin Pichl</span>, <span >
+      Bernward Pichl</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2018).
-  
-  <b>Carl: Sports Award Recommender</b>.
+  <a href="/publication/dblp-confsigir-pichl-pz-18/">Carl: Sports Award Recommender</a>.
   <em>The SIGIR 2018 Workshop On eCommerce co-located with the 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</em>.
   
   <p>
@@ -2717,16 +2942,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/dblp-confsigir-pichl-pz-18/dblp-confsigir-pichl-pz-18.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dblp-confsigir-pichl-pz-18/dblp-confsigir-pichl-pz-18.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/dblp-confsigir-pichl-pz-18/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2767,12 +2992,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Michael Tschuggnall</span>, <span >Stefan Wurzinger</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Michael Tschuggnall</span>, <span >
+      Stefan Wurzinger</span>, <span >
+      Günther Specht</span>
   </span>
   (2018).
-  
-  <b>ALF-200k: Towards Extensive Multimodal Analyses of Music Tracks and Playlists</b>.
+  <a href="/publication/ecir-2018/">ALF-200k: Towards Extensive Multimodal Analyses of Music Tracks and Playlists</a>.
   <em>Advances in Information Retrieval - 39th European Conference on IR  Research, ECIR 2018</em>.
   
   <p>
@@ -2788,16 +3015,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/ecir-2018/ecir-2018.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/ecir-2018/ecir-2018.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/ecir-2018/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2805,7 +3032,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/dbis-uibk/ALF200k" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/dbis-uibk/ALF200k" target="_blank" rel="noopener">
   Dataset
 </a>
 
@@ -2819,7 +3046,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-319-76941-7_48" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-319-76941-7_48" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2850,12 +3077,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Yi-Hsuan Yang</span>, <span >Asmita Poddar</span>
+  <span >
+      Asmita Poddar</span>, <span >
+      Eva Zangerle</span>, <span >
+      Yi-Hsuan Yang</span>
   </span>
   (2018).
-  
-  <b>#nowplaying-RS: A New Benchmark Dataset for Building Context-Aware Music Recommender Systems </b>.
+  <a href="/publication/smc-2018/">#nowplaying-RS: A New Benchmark Dataset for Building Context-Aware Music Recommender Systems </a>.
   <em>Proceedings of the 15th Sound &amp; Music Computing Conference</em>.
   
   <p>
@@ -2871,16 +3099,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/smc-2018/smc-2018.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/smc-2018/smc-2018.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/smc-2018/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -2888,7 +3116,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.2594537" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.2594537" target="_blank" rel="noopener">
   Dataset
 </a>
 
@@ -2902,7 +3130,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.1422565" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.1422565" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2933,12 +3161,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Andy Stauder</span>, <span >Barbara Laner</span>, <span >Theo Hug</span>
+  <span >
+      Barbara Laner</span>, <span >
+      Andy Stauder</span>, <span >
+      Eva Zangerle</span>, <span >
+      Theo Hug</span>
   </span>
   (2017).
-  
-  <b>Visualization Strategies for Digital Archives. The Case of the Ernst-von-Glasersfeld-Archive</b>.
+  <a href="/publication/dha-laner-17/">Visualization Strategies for Digital Archives. The Case of the Ernst-von-Glasersfeld-Archive</a>.
   <em>4th Digital Humanities Conference Austria (DHA17)</em>.
   
   <p>
@@ -2954,16 +3184,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/dha-laner-17/dha-laner-17.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dha-laner-17/dha-laner-17.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/dha-laner-17/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3004,12 +3234,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Pichl</span>
+  <span >
+      Martin Pichl</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2017).
-  
-  <b>Understanding User-curated Playlists on Spotify: A Machine Learning Approach</b>.
+  <a href="/publication/ijmdem-17/">Understanding User-curated Playlists on Spotify: A Machine Learning Approach</a>.
   <em>International Journal of Multimedia Data Engineering and Management IJMDEM</em>.
   
   <p>
@@ -3025,16 +3256,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/ijmdem-17/ijmdem-17.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/ijmdem-17/ijmdem-17.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/ijmdem-17/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3048,7 +3279,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.4018/IJMDEM.2017100103" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.4018/IJMDEM.2017100103" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3079,12 +3310,16 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Claudia Posch</span>, <span >Elisabeth Gruber</span>, <span >Gerald Hiebel</span>, <span >Gerhard Rampl</span>, <span >Klaus Hanke</span>
+  <span >
+      Gerald Hiebel</span>, <span >
+      Claudia Posch</span>, <span >
+      Gerhard Rampl</span>, <span >
+      Elisabeth Gruber</span>, <span >
+      Klaus Hanke</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2017).
-  
-  <b>Semantics for Mountaineering History</b>.
+  <a href="/publication/semohi-17/">Semantics for Mountaineering History</a>.
   <em>4th Digital Humanities Conference Austria (DHA17)</em>.
   
   <p>
@@ -3100,16 +3335,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/semohi-17/semohi-17.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/semohi-17/semohi-17.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/semohi-17/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3150,12 +3385,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Markus Schedl</span>, <span >Martin Pichl</span>
+  <span >
+      Martin Pichl</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>, <span >
+      Markus Schedl</span>
   </span>
   (2017).
-  
-  <b>Mining Culture-Specific Music Listening Behavior from Social Media Data</b>.
+  <a href="/publication/pichl-2017-mining/">Mining Culture-Specific Music Listening Behavior from Social Media Data</a>.
   <em>2017 IEEE International Symposium on Multimedia (ISM)</em>.
   
   <p>
@@ -3171,16 +3408,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/pichl-2017-mining/pichl-2017-mining.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/pichl-2017-mining/pichl-2017-mining.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/pichl-2017-mining/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3194,7 +3431,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/ISM.2017.35" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ISM.2017.35" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3225,12 +3462,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Pichl</span>
+  <span >
+      Martin Pichl</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2017).
-  
-  <b>Improving Context-Aware Music Recommender Systems: Beyond the Pre-filtering Approach</b>.
+  <a href="/publication/icmr-2017/">Improving Context-Aware Music Recommender Systems: Beyond the Pre-filtering Approach</a>.
   <em>Proceedings of the 2017 ACM on International Conference on Multimedia Retrieval, ICMR 2017, Bucharest, Romania</em>.
   
   <p>
@@ -3246,16 +3484,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/icmr-2017/icmr-2017.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/icmr-2017/icmr-2017.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/icmr-2017/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3269,7 +3507,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/3078971.3078980" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3078971.3078980" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3300,12 +3538,16 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Pichl</span>, <span >Maximilian Mayerl</span>, <span >Michael Tschuggnall</span>, <span >Benjamin Murauer</span>
+  <span >
+      Benjamin Murauer</span>, <span >
+      Maximilian Mayerl</span>, <span >
+      Michael Tschuggnall</span>, <span >
+      Eva Zangerle</span>, <span >
+      Martin Pichl</span>, <span >
+      Günther Specht</span>
   </span>
   (2017).
-  
-  <b>Hierarchical Multilabel Classification and Voting for Genre Classification</b>.
+  <a href="/publication/mediaeval-17/">Hierarchical Multilabel Classification and Voting for Genre Classification</a>.
   <em>Working Notes Proceedings of the MediaEval 2017 Workshop</em>.
   
   <p>
@@ -3321,16 +3563,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/mediaeval-17/mediaeval-17.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/mediaeval-17/mediaeval-17.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/mediaeval-17/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3371,12 +3613,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Bettina Larl</span>
+  <span >
+      Bettina Larl</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2017).
-  
-  <b>Geolocating German on Twitter - Hitches and Glitches of Building and Exploring a Twitter Corpus</b>.
+  <a href="/publication/cl-17/">Geolocating German on Twitter - Hitches and Glitches of Building and Exploring a Twitter Corpus</a>.
   <em>9th International Corpus Linguistics Conference 2017 ( July 2017, Birmingham, UK)</em>.
   
   <p>
@@ -3392,16 +3634,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/cl-17/cl-17.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/cl-17/cl-17.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/cl-17/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3442,12 +3684,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Claudia Müller-Birn</span>, <span >Adelheid Heftberger</span>, <span >Jakob Höper</span>, <span >Niels-Oliver Walkowski</span>
+  <span >
+      Adelheid Heftberger</span>, <span >
+      Jakob Höper</span>, <span >
+      Claudia Müller-Birn</span>, <span >
+      Niels-Oliver Walkowski</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2017).
-  
-  <b>Employing Wikidata for Fostering Scholarly Research</b>.
+  <a href="/publication/wikidatacon-17/">Employing Wikidata for Fostering Scholarly Research</a>.
   <em>WikiDataCon 2017, Berlin</em>.
   
   <p>
@@ -3465,16 +3710,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Employing_Wikidata_for_Fostering_Scholarly_Research" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Employing_Wikidata_for_Fostering_Scholarly_Research" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/wikidatacon-17/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3515,12 +3760,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Claudia Posch</span>, <span >Gerald Hiebel</span>, <span >Gerhard Rampl</span>
+  <span >
+      Gerald Hiebel</span>, <span >
+      Claudia Posch</span>, <span >
+      Gerhard Rampl</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2017).
-  
-  <b>Building Bridges - Corpus Linguistics and Digital Humanities</b>.
+  <a href="/publication/dha-panel-17/">Building Bridges - Corpus Linguistics and Digital Humanities</a>.
   <em>4th Digital Humanities Austria Conference - dha2017. Abstracts</em>.
   
   <p>
@@ -3538,16 +3785,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.uibk.ac.at/congress/dha2017/bilder-und-dateien/hiebel_posch_rampl_zangerle_panel_proposal_dha.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.uibk.ac.at/congress/dha2017/bilder-und-dateien/hiebel_posch_rampl_zangerle_panel_proposal_dha.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/dha-panel-17/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3588,12 +3835,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Claudia Posch</span>, <span >Elisabeth Gruber</span>, <span >Gerald Hiebel</span>, <span >Gerhard Rampl</span>
+  <span >
+      Gerald Hiebel</span>, <span >
+      Gerhard Rampl</span>, <span >
+      Claudia Posch</span>, <span >
+      Elisabeth Gruber</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2017).
-  
-  <b>Bergnamen – Bergwelten. Toponymie im (Kon-)Text</b>.
+  <a href="/publication/namenstagung-17/">Bergnamen – Bergwelten. Toponymie im (Kon-)Text</a>.
   <em>Mainzer Namenstagung 2017: Toponyme - eine Standortbestimmung</em>.
   
   <p>
@@ -3611,16 +3861,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.namenforschung.net/fileadmin/user_upload/namenforschung.net/Abstracts.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.namenforschung.net/fileadmin/user_upload/namenforschung.net/Abstracts.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/namenstagung-17/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3661,12 +3911,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Michael Tschuggnall</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Michael Tschuggnall</span>, <span >
+      Günther Specht</span>
   </span>
   (2017).
-  
-  <b>Analyzing Coherent Characteristics in Music Playlists</b>.
+  <a href="/publication/coherent-17/">Analyzing Coherent Characteristics in Music Playlists</a>.
   <em>4th Digital Humanities Conference Austria (DHA17)</em>.
   
   <p>
@@ -3682,16 +3933,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/coherent-17/coherent-17.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/coherent-17/coherent-17.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/coherent-17/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3732,12 +3983,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Benjamin Murauer</span>
+  <span >
+      Benjamin Murauer</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2017).
-  
-  <b>A Peer-Based Approach on Analyzing Hacked Twitter Accounts</b>.
+  <a href="/publication/hicss-17/">A Peer-Based Approach on Analyzing Hacked Twitter Accounts</a>.
   <em>Proceedings of the 50th Hawaii International Conference on System Sciences, HICSS 2017, Big Island, Hawaii, USA, January 4-7, 2017</em>.
   
   <p>
@@ -3753,16 +4005,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/hicss-17/hicss-17.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/hicss-17/hicss-17.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/hicss-17/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3803,12 +4055,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Pichl</span>
+  <span >
+      Martin Pichl</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2016).
-  
-  <b>Understanding Playlist Creation on Music Streaming Platforms</b>.
+  <a href="/publication/ism-16/">Understanding Playlist Creation on Music Streaming Platforms</a>.
   <em>IEEE International Symposium on Multimedia, ISM 2016, San Jose, CA, USA</em>.
   
   <p>
@@ -3824,16 +4077,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/ism-16/ism-16.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/ism-16/ism-16.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/ism-16/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3847,7 +4100,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/ISM.2016.0107" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ISM.2016.0107" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3878,12 +4131,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Illecker</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Martin Illecker</span>, <span >
+      Günther Specht</span>
   </span>
   (2016).
-  
-  <b>SentiStorm: Realtime Sentiment Detection von Tweets</b>.
+  <a href="/publication/hmd-310/">SentiStorm: Realtime Sentiment Detection von Tweets</a>.
   <em>HMD Praxis der Wirtschaftsinformatik</em>.
   
   <p>
@@ -3899,16 +4153,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/hmd-310/hmd-310.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/hmd-310/hmd-310.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/hmd-310/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -3922,7 +4176,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1365/s40702-016-0237-6" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1365/s40702-016-0237-6" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3953,12 +4207,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Bettina Larl</span>
+  <span >
+      Bettina Larl</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2016).
-  
-  <b>Geolocating German on Twitter Hitches and Glitches of Building and Exploring a Twitter Corpus</b>.
+  <a href="/publication/cmc-16/">Geolocating German on Twitter Hitches and Glitches of Building and Exploring a Twitter Corpus</a>.
   <em>4th Conference on CMC and Social Media Corpora for the Humanities (CMC-Corpora2016; Sep 2016, Ljubljana, Slovenia)</em>.
   
   <p>
@@ -3974,16 +4228,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/cmc-16/cmc-16.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/cmc-16/cmc-16.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/cmc-16/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4024,12 +4278,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Pichl</span>, <span >Benedikt Hupfauf</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Martin Pichl</span>, <span >
+      Benedikt Hupfauf</span>, <span >
+      Günther Specht</span>
   </span>
   (2016).
-  
-  <b>Can Microblogs Predict Music Charts? An Analysis of the Relationship between #Nowplaying Tweets and Music Charts</b>.
+  <a href="/publication/ismir-16/">Can Microblogs Predict Music Charts? An Analysis of the Relationship between #Nowplaying Tweets and Music Charts</a>.
   <em>Proceedings of the 17th International Society for Music Information Retrieval Conference 2016 (ISMIR 2016)</em>.
   
   <p>
@@ -4045,16 +4301,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/ismir-16/ismir-16.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/ismir-16/ismir-16.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/ismir-16/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4095,12 +4351,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Georg Schmidhammer</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Georg Schmidhammer</span>, <span >
+      Günther Specht</span>
   </span>
   (2016).
-  
-  <b>Analysing the Usage of Wikipedia on Twitter: Understanding Inter-Language Links</b>.
+  <a href="/publication/hicss-16/">Analysing the Usage of Wikipedia on Twitter: Understanding Inter-Language Links</a>.
   <em>49th Hawaii International Conference on System Sciences, HICSS 2016, Kauai, Hawaii, USA, January 5-8, 2016</em>.
   
   <p>
@@ -4116,16 +4373,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/hicss-16/hicss-16.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/hicss-16/hicss-16.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/hicss-16/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4139,7 +4396,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/HICSS.2016.243" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/HICSS.2016.243" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4170,12 +4427,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Stefan Steinhauser</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>, <span >
+      Stefan Steinhauser</span>, <span >
+      Günther Specht</span>
   </span>
   (2016).
-  
-  <b>An Empirical Evaluation of Property Recommender Systems for Wikidata and Collaborative Knowledge Bases</b>.
+  <a href="/publication/opensym-16/">An Empirical Evaluation of Property Recommender Systems for Wikidata and Collaborative Knowledge Bases</a>.
   <em>Proceedings of the 12th International Symposium on Open Collaboration</em>.
   
   <p>
@@ -4191,16 +4450,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/opensym-16/opensym-16.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/opensym-16/opensym-16.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/opensym-16/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4214,7 +4473,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/2957792.2957804" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/2957792.2957804" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4245,12 +4504,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Pichl</span>
+  <span >
+      Martin Pichl</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2015).
-  
-  <b>Towards a Context-Aware Music Recommendation Approach: What is Hidden in the Playlist Name?</b>.
+  <a href="/publication/somera-15/">Towards a Context-Aware Music Recommendation Approach: What is Hidden in the Playlist Name?</a>.
   <em>15th IEEE International Conference on Data Mining Workshops (ICDM 2015)</em>.
   
   <p>
@@ -4266,16 +4526,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/somera-15/somera-15.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/somera-15/somera-15.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/somera-15/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4283,7 +4543,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.2594556" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.2594556" target="_blank" rel="noopener">
   Dataset
 </a>
 
@@ -4297,7 +4557,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/ICDMW.2015.145" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ICDMW.2015.145" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4328,12 +4588,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Wolfgang Gassler</span>, <span >Stefan Pröll</span>
+  <span >
+      Stefan Pröll</span>, <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>
   </span>
   (2015).
-  
-  <b>MySQL 5.7 - Das umfassende Handbuch</b>.
+  <a href="/publication/mysql-3/">MySQL 5.7 - Das umfassende Handbuch</a>.
   <em>Rheinwerk Verlag</em>.
   
   <p>
@@ -4351,10 +4612,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/mysql-3/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4395,12 +4656,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Georg Schmidhammer</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Georg Schmidhammer</span>, <span >
+      Günther Specht</span>
   </span>
   (2015).
-  
-  <b>#Wikipedia on Twitter: Analyzing Tweets About Wikipedia</b>.
+  <a href="/publication/opensym-15/">#Wikipedia on Twitter: Analyzing Tweets About Wikipedia</a>.
   <em>Proceedings of the 11th International Symposium on Open Collaboration</em>.
   
   <p>
@@ -4416,16 +4678,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/opensym-15/opensym-15.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/opensym-15/opensym-15.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/opensym-15/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4439,7 +4701,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/2788993.2789845" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/2788993.2789845" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4470,12 +4732,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Pichl</span>
+  <span >
+      Martin Pichl</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2015).
-  
-  <b>#nowplaying on #Spotify: Leveraging Spotify Information on Twitter for Artist Recommendations</b>.
+  <a href="/publication/sowemine-15/">#nowplaying on #Spotify: Leveraging Spotify Information on Twitter for Artist Recommendations</a>.
   <em>Current Trends in Web Engineering, 15th International Conference, ICWE 2015 Workshops (Revised Selected Papers)</em>.
   
   <p>
@@ -4491,16 +4754,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/sowemine-15/sowemine-15.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/sowemine-15/sowemine-15.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/sowemine-15/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4514,7 +4777,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-319-24800-4_14" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-319-24800-4_14" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4545,12 +4808,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2014).
-  
-  <b>“Sorry, I was hacked&#34;: A Classification of Compromised Twitter Accounts</b>.
+  <a href="/publication/sac-14/">“Sorry, I was hacked&#34;: A Classification of Compromised Twitter Accounts</a>.
   <em>Proceedings of the 29th ACM Symposium on Applied Computing</em>.
   
   <p>
@@ -4566,16 +4829,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/sac-14/sac-14.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/sac-14/sac-14.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/sac-14/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4589,7 +4852,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/2554850.2554894" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/2554850.2554894" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4620,12 +4883,11 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>
+  <span >
+      Eva Zangerle</span>
   </span>
   (2014).
-  
-  <b>Missbrauch und Betrug auf Twitter</b>.
+  <a href="/publication/iup-twitter-miscreants-2014/">Missbrauch und Betrug auf Twitter</a>.
   <em>Datenflut und Informationskanäle</em>.
   
   <p>
@@ -4641,16 +4903,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/iup-twitter-miscreants-2014/iup-twitter-miscreants-2014.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/iup-twitter-miscreants-2014/iup-twitter-miscreants-2014.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/iup-twitter-miscreants-2014/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4691,12 +4953,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Wolfgang Gassler</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2014).
-  
-  <b>Guided Curation of Semistructured Data in Collaboratively-built Knowledge Bases</b>.
+  <a href="/publication/fgcs/">Guided Curation of Semistructured Data in Collaboratively-built Knowledge Bases</a>.
   <em>Journal on Future Generation Computer Systems</em>.
   
   <p>
@@ -4714,10 +4977,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/fgcs/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4731,7 +4994,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.future.2013.05.008" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.future.2013.05.008" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4762,12 +5025,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2014).
-  
-  <b>Cybercrime on Twitter: Shifting the User Back into Focus</b>.
+  <a href="/publication/cybercrime-14/">Cybercrime on Twitter: Shifting the User Back into Focus</a>.
   <em>Proceedings of the WebScience Cybercrime / Cyberwar Workshop, co-located with WebSci14</em>.
   
   <p>
@@ -4783,16 +5046,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/cybercrime-14/cybercrime-14.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/cybercrime-14/cybercrime-14.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/cybercrime-14/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4833,12 +5096,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Pichl</span>
+  <span >
+      Martin Pichl</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2014).
-  
-  <b>Combining Spotify and Twitter Data for Generating a Recent and Public Dataset for Music Recommendation</b>.
+  <a href="/publication/gvdb-14/">Combining Spotify and Twitter Data for Generating a Recent and Public Dataset for Music Recommendation</a>.
   <em>Proceedings of the 26nd Workshop Grundlagen von Datenbanken (GvDB 2014), Ritten, Italy</em>.
   
   <p>
@@ -4854,16 +5118,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/gvdb-14/gvdb-14.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/gvdb-14/gvdb-14.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/gvdb-14/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4904,12 +5168,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Martin Pichl</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Martin Pichl</span>, <span >
+      Wolfgang Gassler</span>, <span >
+      Günther Specht</span>
   </span>
   (2014).
-  
-  <b>#nowplaying Music Dataset: Extracting Listening Behavior from Twitter</b>.
+  <a href="/publication/ismm-14/">#nowplaying Music Dataset: Extracting Listening Behavior from Twitter</a>.
   <em>Proceedings of the 1st ACM International Workshop on Internet-Scale Multimedia Management</em>.
   
   <p>
@@ -4925,16 +5191,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/ismm-14/ismm-14.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/ismm-14/ismm-14.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/ismm-14/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -4942,7 +5208,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://doi.org/10.5281/zenodo.2594483" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://doi.org/10.5281/zenodo.2594483" target="_blank" rel="noopener">
   Dataset
 </a>
 
@@ -4956,9 +5222,90 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/2661714.2661719" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/2661714.2661719" target="_blank" rel="noopener">
   DOI
 </a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2013">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      </span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
+      Robert Ford</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>
+  </span>
+  (2013).
+  <a href="/publication/example/">An example conference paper</a>.
+  In <em>ICW</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/example/example.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/example/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/example/">
+    Project
+  </a>
+  
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">
+    Slides
+  </a>
+  
+
+
+
 
 
 </p>
@@ -4987,12 +5334,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>, <span >
+      Günther Specht</span>
   </span>
   (2013).
-  
-  <b>On the impact of text similarity functions on hashtag recommendations in microblogging environments</b>.
+  <a href="/publication/snam/">On the impact of text similarity functions on hashtag recommendations in microblogging environments</a>.
   <em>Social Network Analysis and Mining</em>.
   
   <p>
@@ -5008,16 +5356,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/snam/snam.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/snam/snam.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/snam/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5031,7 +5379,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s13278-013-0108-x" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s13278-013-0108-x" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -5062,12 +5410,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Wolfgang Gassler</span>, <span >Stefan Pröll</span>
+  <span >
+      Stefan Pröll</span>, <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>
   </span>
   (2013).
-  
-  <b>MySQL 5.6 - Das umfassende Handbuch</b>.
+  <a href="/publication/mysql-2/">MySQL 5.6 - Das umfassende Handbuch</a>.
   <em>Galileo Computing</em>.
   
   <p>
@@ -5085,10 +5434,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/mysql-2/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5129,12 +5478,11 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>
+  <span >
+      Eva Zangerle</span>
   </span>
   (2013).
-  
-  <b>Leveraging Recommender Systems for the Creation and Maintenance of Structure within Collaborative Social Media Platforms</b>.
+  <a href="/publication/evaphd/">Leveraging Recommender Systems for the Creation and Maintenance of Structure within Collaborative Social Media Platforms</a>.
   
   <p>
 
@@ -5149,16 +5497,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/evaphd/evaphd.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/evaphd/evaphd.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/evaphd/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5199,12 +5547,11 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>
+  <span >
+      Eva Zangerle</span>
   </span>
   (2013).
-  
-  <b>Exploiting Recommendations in Microblogging Environments</b>.
+  <a href="/publication/scientificcomputing/">Exploiting Recommendations in Microblogging Environments</a>.
   <em>Scientific Computing@uibk</em>.
   
   <p>
@@ -5222,10 +5569,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/scientificcomputing/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5266,12 +5613,11 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>
+  <span >
+      Eva Zangerle</span>
   </span>
   (2013).
-  
-  <b>Dissertationen: Leveraging Recommender Systems for the Creation and Maintenance of Structure within Collaborative Social Media Platforms</b>.
+  <a href="/publication/dbspektrum/">Dissertationen: Leveraging Recommender Systems for the Creation and Maintenance of Structure within Collaborative Social Media Platforms</a>.
   <em>Datenbank-Spektrum</em>.
   
   <p>
@@ -5289,10 +5635,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/dbspektrum/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5306,7 +5652,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s13222-013-0138-6" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s13222-013-0138-6" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -5337,12 +5683,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Wolfgang Gassler</span>, <span >Martin Bürgler</span>
+  <span >
+      Wolfgang Gassler</span>, <span >
+      Eva Zangerle</span>, <span >
+      Martin Bürgler</span>, <span >
+      Günther Specht</span>
   </span>
   (2012).
-  
-  <b>SnoopyTagging: Recommending Contextualized Tags to Increase the Quality and Quantity of Meta-Information</b>.
+  <a href="/publication/www-12/">SnoopyTagging: Recommending Contextualized Tags to Increase the Quality and Quantity of Meta-Information</a>.
   <em>Proceedings of the 21st International Conference on the World Wide Web 2012, Lyon, France (Poster)</em>.
   
   <p>
@@ -5358,16 +5706,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/www-12/www-12.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/www-12/www-12.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/www-12/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5381,7 +5729,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/2187980.2188102" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/2187980.2188102" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -5412,12 +5760,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>, <span >
+      Günther Specht</span>
   </span>
   (2012).
-  
-  <b>Exploiting Twitter&#39;s Collective Knowledge for Music Recommendations</b>.
+  <a href="/publication/msm-12/">Exploiting Twitter&#39;s Collective Knowledge for Music Recommendations</a>.
   <em>Proceedings, 2nd Workshop on Making Sense of Microposts (#MSM2012): Big things come in small packages, Lyon, France, 16 April 2012</em>.
   
   <p>
@@ -5433,16 +5782,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/msm-12/msm-12.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/msm-12/msm-12.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/msm-12/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5483,12 +5832,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>
   </span>
   (2012).
-  
-  <b>Dealing with Structure Heterogeneity in Semantic Collaborative Environments</b>.
+  <a href="/publication/collsemweb/">Dealing with Structure Heterogeneity in Semantic Collaborative Environments</a>.
   <em>Collaboration and the Semantic Web: Social Networks, Knowledge Networks and Knowledge Resources</em>.
   
   <p>
@@ -5506,10 +5855,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/collsemweb/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5523,7 +5872,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.4018/978-1-4666-0894-8" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.4018/978-1-4666-0894-8" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -5554,12 +5903,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>, <span >
+      Günther Specht</span>
   </span>
   (2011).
-  
-  <b>Using Tag Recommendations to Homogenize Folksonomies in Microblogging Environments</b>.
+  <a href="/publication/socinfo-11/">Using Tag Recommendations to Homogenize Folksonomies in Microblogging Environments</a>.
   <em>Proceedings of the Third International Conference on Social Informatics (SocInfo) 2011, Singapore, Singapore, October 6-8, 2011</em>.
   
   <p>
@@ -5575,16 +5925,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/socinfo-11/socinfo-11.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/socinfo-11/socinfo-11.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/socinfo-11/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5598,7 +5948,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-642-24704-0_16" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-642-24704-0_16" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -5629,12 +5979,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Wolfgang Gassler</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2011).
-  
-  <b>The Snoopy Concept: Fighting Heterogeneity in Semistructured and Collaborative Information Systems by using Recommendations</b>.
+  <a href="/publication/cts-11/">The Snoopy Concept: Fighting Heterogeneity in Semistructured and Collaborative Information Systems by using Recommendations</a>.
   <em>The 2011 International Conference on Collaboration Technologies and Systems (CTS 2011)</em>.
   
   <p>
@@ -5650,16 +6001,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/cts-11/cts-11.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/cts-11/cts-11.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/cts-11/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5673,7 +6024,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/CTS.2011.5928666" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/CTS.2011.5928666" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -5704,12 +6055,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Robert Binna</span>, <span >Wolfgang Gassler</span>, <span >Dominic Pacher</span>
+  <span >
+      Robert Binna</span>, <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>, <span >
+      Dominic Pacher</span>, <span >
+      Günther Specht</span>
   </span>
   (2011).
-  
-  <b>SpiderStore: A Native Main Memory Approach for Graph Storage</b>.
+  <a href="/publication/gvdb-11/">SpiderStore: A Native Main Memory Approach for Graph Storage</a>.
   <em>Proceedings of the 23nd Workshop Grundlagen von Datenbanken (GvDB 2011), Obergurgl, Austria</em>.
   
   <p>
@@ -5725,16 +6079,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/gvdb-11/gvdb-11.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/gvdb-11/gvdb-11.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/gvdb-11/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5775,12 +6129,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>, <span >
+      Günther Specht</span>
   </span>
   (2011).
-  
-  <b>Recommending #-tags in Twitter</b>.
+  <a href="/publication/sasweb-11/">Recommending #-tags in Twitter</a>.
   <em>Proceedings of the Workshop on Semantic Adaptive Social Web 2011 in connection with the 19th International Conference on User Modeling, Adaptation and Personalization, UMAP 2011</em>.
   
   <p>
@@ -5796,16 +6151,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/sasweb-11/sasweb-11.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/sasweb-11/sasweb-11.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/sasweb-11/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5846,12 +6201,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Wolfgang Gassler</span>, <span >
+      Eva Zangerle</span>, <span >
+      Günther Specht</span>
   </span>
   (2011).
-  
-  <b>Proceedings of the 23rd GI-Workshop on Grundlagen von Datenbanken, Obergurgl, Austria. </b>.
+  <a href="/publication/gvdb-11-editors/">Proceedings of the 23rd GI-Workshop on Grundlagen von Datenbanken, Obergurgl, Austria. </a>.
   <em>CEUR-WS.org</em>.
   
   <p>
@@ -5867,16 +6223,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/gvdb-11-editors/gvdb-11-editors.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/gvdb-11-editors/gvdb-11-editors.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/gvdb-11-editors/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5917,12 +6273,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Wolfgang Gassler</span>, <span >Stefan Pröll</span>
+  <span >
+      Stefan Pröll</span>, <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>
   </span>
   (2011).
-  
-  <b>MySQL - Das Handbuch für Administratoren</b>.
+  <a href="/publication/mysql-1/">MySQL - Das Handbuch für Administratoren</a>.
   <em>Galileo Computing</em>.
   
   <p>
@@ -5940,10 +6297,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/mysql-1/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -5984,12 +6341,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Wolfgang Gassler</span>, <span >Alexander Larcher</span>
+  <span >
+      Alexander Larcher</span>, <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>, <span >
+      Günther Specht</span>
   </span>
   (2011).
-  
-  <b>Key Recommendations for Infoboxes in Wikipedia</b>.
+  <a href="/publication/ht-11/">Key Recommendations for Infoboxes in Wikipedia</a>.
   
   <p>
 
@@ -6004,16 +6363,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/ht-11/ht-11.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/ht-11/ht-11.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/ht-11/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -6054,12 +6413,15 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Robert Binna</span>, <span >Wolfgang Gassler</span>, <span >Dominic Pacher</span>
+  <span >
+      Robert Binna</span>, <span >
+      Wolfgang Gassler</span>, <span >
+      Eva Zangerle</span>, <span >
+      Dominic Pacher</span>, <span >
+      Günther Specht</span>
   </span>
   (2010).
-  
-  <b>SpiderStore: Exploiting Main Memory for Efficient RDF Graph Representation and Fast Querying</b>.
+  <a href="/publication/vldb-10/">SpiderStore: Exploiting Main Memory for Efficient RDF Graph Representation and Fast Querying</a>.
   <em>Proceedings of the 1st International Workshop on Semantic Data Management (SemData) at the 36th International Conference on Very Large Data Bases (VLDB 2010), Singapore</em>.
   
   <p>
@@ -6075,16 +6437,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/vldb-10/vldb-10.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/vldb-10/vldb-10.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/vldb-10/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -6125,12 +6487,14 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Michael Tschuggnall</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>, <span >
+      Michael Tschuggnall</span>, <span >
+      Günther Specht</span>
   </span>
   (2010).
-  
-  <b>SnoopyDB: Narrowing the Gap between Structured and Unstructured Information using Recommendations</b>.
+  <a href="/publication/ht-10/">SnoopyDB: Narrowing the Gap between Structured and Unstructured Information using Recommendations</a>.
   <em>HT'10, Proceedings of the 21st ACM Conference on Hypertext and Hypermedia, Toronto, Ontario, Canada, June 13-16, 2010</em>.
   
   <p>
@@ -6148,10 +6512,10 @@
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/ht-10/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -6165,7 +6529,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/1810617.1810670" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/1810617.1810670" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -6196,12 +6560,13 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Günther Specht</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Eva Zangerle</span>, <span >
+      Wolfgang Gassler</span>, <span >
+      Günther Specht</span>
   </span>
   (2010).
-  
-  <b>Recommending Structure in Collaborative Semistructured Information Systems</b>.
+  <a href="/publication/recsys-10/">Recommending Structure in Collaborative Semistructured Information Systems</a>.
   <em>RecSys &lsquo;10: Proceedings of the third ACM Conference on Recommender systems</em>.
   
   <p>
@@ -6217,16 +6582,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/recsys-10/recsys-10.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/recsys-10/recsys-10.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/recsys-10/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -6240,7 +6605,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1145/1864708.1864762" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/1864708.1864762" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -6271,12 +6636,12 @@
   <span class="article-metadata li-cite-author">
     
 
-  
-  <span >Eva Zangerle</span>, <span >Wolfgang Gassler</span>
+  <span >
+      Wolfgang Gassler</span>, <span >
+      Eva Zangerle</span>
   </span>
   (2010).
-  
-  <b>Recommendation-Based Evolvement of Dynamic Schemata in Semistructured Information Systems</b>.
+  <a href="/publication/gvdb-10/">Recommendation-Based Evolvement of Dynamic Schemata in Semistructured Information Systems</a>.
   <em>Proceedings of the 22nd Workshop Grundlagen von Datenbanken (GvDB 2010), Bad Helmstedt, Germany</em>.
   
   <p>
@@ -6292,16 +6657,16 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/gvdb-10/gvdb-10.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/gvdb-10/gvdb-10.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
         data-filename="/publication/gvdb-10/cite.bib">
   Cite
-</button>
+</a>
 
 
 
@@ -6331,122 +6696,13 @@
     </div>
   </div>
 </div>
+  </div>
 
-      
-
+  <div class="page-footer">
     
     
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
-
-      
-
-      
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
-        
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
-        
-      
-
-    
-
-    
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
-    
-
-    
-    
-    <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks",
-        'slides' : "Slides"
-        };
-    </script>
-    
-
-    
-    
-
-    
-    
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
-        </div>
-      </div>
-      </div>
-    </script>
-    
-
-    
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-    
-
-    
-    
-
-    
-    
-
-    
-    
-
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    <script src="/js/wowchemy.min.4c2bca31150ce93c5a5e43b8a50f22fd.js"></script>
-
-    
-
-
-
-
-
-
-  
-  
-  <div class="container">
-    <footer class="site-footer">
+    <div class="container">
+      <footer class="site-footer">
   
 
   <p class="powered-by">
@@ -6463,26 +6719,19 @@
 
   <p class="powered-by">
     
+    
+    
     Published with
-    <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy</a>  —
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
     the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
     open source</a> website builder that empowers creators.
-    
-
-    
-    <span class="float-right" aria-hidden="true">
-      <a href="#" class="back-to-top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
     
   </p>
 </footer>
 
+    </div>
+    
   </div>
-  
 
   
 <div id="modal" class="modal fade" role="dialog">
@@ -6509,6 +6758,111 @@
     </div>
   </div>
 </div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{title}}</a>
+            <div class="article-metadata search-hit-type">{{type}}</div>
+            <p class="search-hit-description">{{snippet}}</p>
+          </div>
+        </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.297f736e130400781cfee00eff1f1afd.js"></script>
+
+    
+
+
+
+
+
 
 </body>
 </html>
