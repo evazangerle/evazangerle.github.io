@@ -5,12 +5,20 @@
     <link>https://evazangerle.at/publication-type/2/</link>
       <atom:link href="https://evazangerle.at/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://evazangerle.at/images/icon_hucd34d5357762a68be829e2c9ee234fbb_13391_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://evazangerle.at/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Leveraging Affective Hashtags for Ranking Music Recommendations</title>
+      <link>https://evazangerle.at/publication/8382228/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/publication/8382228/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>User models for multi-context-aware music recommendation</title>
@@ -33,14 +41,6 @@
       <link>https://evazangerle.at/publication/neurips-creativity-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://evazangerle.at/publication/neurips-creativity-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leveraging Affective Hashtags for Ranking Music Recommendations</title>
-      <link>https://evazangerle.at/publication/taffc-18/</link>
-      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://evazangerle.at/publication/taffc-18/</guid>
       <description></description>
     </item>
     
