@@ -5,12 +5,20 @@
     <link>https://evazangerle.at/publication-type/1/</link>
       <atom:link href="https://evazangerle.at/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://evazangerle.at/images/icon_hucd34d5357762a68be829e2c9ee234fbb_13391_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://evazangerle.at/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Pandemics, Music, and Collective Sentiment: Evidence from the Outbreak of COVID-19</title>
+      <link>https://evazangerle.at/publication/zangerle-ismir-20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://evazangerle.at/publication/zangerle-ismir-20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Personality Bias of Music Recommendation Algorithms</title>
