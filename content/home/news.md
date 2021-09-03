@@ -12,6 +12,8 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Our project "Humans and Recommender Systems: Towards a Mutual Understanding" has now officially started, find the
+  project's website <a href="http://humrec.github.io">here</a> [09/2021].
 * Our article "User models for multi-context-aware music recommendation" just appeared in Springer Multimedia Tools and
   Applications. Find the article <a href="https://doi.org/10.1007/s11042-020-09890-7">here</a> [05/2021].<br>
 * My project proposal "Humans and Recommender Systems: Towards a Mutual Understanding" was approved by the Austrian Science Fund (FWF) (grant awarded: 599k EUR). I'm looking forward to enhancing the understanding of human decision-making underlying the choice of certain music in a given situational context and advancing the users' understanding for the decisions that lead to the recommendation of certain (sequences of) tracks. The thereby increased understanding and communication between users and the system can contribute to improved user models and, thus, recommendation performance. A previously largely unexplored aspect will be the development of techniques for sequential recommendation strongly targeted at giving explanations for these sequences and considering user feedback. <br>
