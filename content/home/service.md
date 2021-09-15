@@ -74,6 +74,7 @@ title = "Professional Service"
 * ACM Transactions on Intelligent Systems and Technology (TIST)
 * Journal of Social Network Analysis and Mining (SNAM)
 * ACM Transactions on Information Systems (TOIS)
+* Data Mining and Discovery
 * Expert Systems with Applications Journal
 * Engineering Applications of Artificial Intelligence: The International Journal of Intelligent Real-Time Automation
 * Knowledge and Information Systems (KAIS)
