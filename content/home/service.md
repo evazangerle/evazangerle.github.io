@@ -27,6 +27,7 @@ title = "Professional Service"
 * 23rd Workshop Grundlagen von Datenbanken 2011.
 
 ### Challenge Organization 
+* Multi-Author Analysis Task, PAN@CLEF 2022 (Task Chair)
 * Style Change Detection Task, PAN@CLEF 2021 (Task Chair)
 * Style Change Detection Task, PAN@CLEF 2020 (Task Chair)
 * Style Change Detection Task, PAN@CLEF 2019 (Task Chair)
