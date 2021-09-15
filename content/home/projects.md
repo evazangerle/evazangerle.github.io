@@ -12,7 +12,7 @@ title = "Selected Projects"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-* Humans and Recommender Systems: Towards a Mutual Understanding (principal investigator)<br> 
+* <a href="https://humrec.github.io/">Humans and Recommender Systems: Towards a Mutual Understanding</a> (principal investigator)<br> 
   funded by Austrian Research Fund (FWF) <br>
   2021-2024, 600,000 EUR
 * <a href="https://dbis.uibk.ac.at/gostudent-question-answering-system">GoStudent - Q\&A Matching</a> (principal investigator) <br>
