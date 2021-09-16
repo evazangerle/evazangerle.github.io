@@ -32,3 +32,4 @@ jobs:
         with:
           deploy_key: ${{ secrets.HUGO_DEPLOY_SECRET }}
           publish_dir: ./public
+          cname: evazangerle.at
