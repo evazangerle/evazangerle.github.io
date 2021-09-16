@@ -35,10 +35,10 @@ title = "Professional Service"
 
 ### Reviewing for Conferences
 
+* European Conference on Information Retrieval (ECIR) [2019, 2021-2022]
 * Conference on User Modeling, Adaptation and Personalization (UMAP) [2019-2021]
 * ACM International Conference on Recommender Systems (RecSys) [2018-2021; best reviewer award nominee 2018]
 * International Society for Music Information Retrieval Conference (ISMIR) [2016, member of PC 2017-2021]
-* European Conference on Information Retrieval (ECIR) [2019, 2021]
 * International Symposium on Open Collaboration (OpenSym) [2021]
 * International Workshop on Algorithmic Bias in Search and Recommendation [2020-2021]
 * Workshop on Computational Humanities Research [2020-2021]
