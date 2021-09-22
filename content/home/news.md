@@ -12,6 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* I'm presenting an overview of our Style Change Detection task as part of [PAN@CLEF2021](https://pan.webis.de/clef21/pan21-web/index.html) on September, 23rd. Have a look at our overview paper and participant's papers in the [CLEF working notes at ceur-ws](http://ceur-ws.org/Vol-2936/) [09/2021].
 * Our project "Humans and Recommender Systems: Towards a Mutual Understanding" has now officially started, find the
   project's website <a href="http://humrec.github.io">here</a> [09/2021].
 * Newly joined the program committees of ECIR 2022 (44th European
