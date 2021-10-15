@@ -12,6 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Our paper "Novel Datasets for EvaluatingSong Popularity Prediction Tasks" has been accepted at the 23rd IEEE International Symposium on Multimedia (ISM).
 * The proceedings of our [Perspectives Workshop](https://perspectives-ws.github.io/2021/) are out: [Ceur WS Vol 2955](http://ceur-ws.org/Vol-2955/), find the teaser videos for the papers [here](https://perspectives-ws.github.io/2021/videos/) [09/2021].
 * I'm presenting an overview of our Style Change Detection task as part of [PAN@CLEF2021](https://pan.webis.de/clef21/pan21-web/index.html) on September, 23rd. Have a look at our overview paper and participant's papers in the [CLEF working notes at ceur-ws](http://ceur-ws.org/Vol-2936/) [09/2021].
 * Our project "Humans and Recommender Systems: Towards a Mutual Understanding" has now officially started, find the
