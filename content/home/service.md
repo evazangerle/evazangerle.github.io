@@ -14,6 +14,8 @@ title = "Professional Service"
 +++
 ### Conference Organization
 
+* Conference on User Modeling, Adaptation and Personalization (UMAP) 2022 (Track Chair Personalized Recommender Systems)
+* ACM Hypertext 2022 (Track Chair Adaptive Web and Recommender Systems)
 * Conference on User Modeling, Adaptation and Personalization (UMAP) 2021 (Late Breaking Results and Demo Chair)
 * International Society on Music Information Retrieval Conference (ISMIR) 2020 (Publication Chair)
 * International Society on Music Information Retrieval Conference (ISMIR) 2019 (Tutorials Chair)
