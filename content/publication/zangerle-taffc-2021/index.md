@@ -5,10 +5,10 @@ title: Leveraging Affective Hashtags for Ranking Music Recommendations
 subtitle: ''
 summary: ''
 authors:
-- E. Zangerle
-- C. -M. Chen
-- M. -F. Tsai
-- Y. -H. Yang
+- Eva Zangerle
+- Chih-Ming Chen
+- Ming-Feng Tsai
+- Yi-Hsuan Yang
 tags: []
 categories: []
 date: '2021-01-01'
