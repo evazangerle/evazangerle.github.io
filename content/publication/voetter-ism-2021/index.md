@@ -1,30 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Overview of PAN 2020: Authorship Verification, Celebrity Profiling, Profiling
-  Fake News Spreaders on Twitter, and Style Change Detection'
+title: Novel Datasets for Evaluating Song Popularity Prediction Tasks
 subtitle: ''
 summary: ''
 authors:
-- Janek Bevendorff
-- Bilal Ghanem
-- Anastasia Giachanou
-- Mike Kestemont
-- Enrique Manjavacas
-- Ilia Markov
+- Michael Vötter
 - Maximilian Mayerl
-- Martin Potthast
-- Francisco Rangel
-- Paolo Rosso
 - Günther Specht
-- Efstathios Stamatatos
-- Benno Stein
-- Matti Wiegmann
 - Eva Zangerle
 tags: []
 categories: []
-date: '2020-09-01'
-lastmod: 2021-08-20T08:38:34+02:00
+date: '2021-01-01'
+lastmod: 2022-01-03T16:16:14+01:00
 featured: false
 draft: false
 
@@ -42,10 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T06:38:33.907435Z'
+publishDate: '2022-01-03T15:15:23.567046Z'
 publication_types:
-- '1'
+- '0'
 abstract: ''
-publication: '*11th International Conference of the CLEF Association (CLEF 2020)*'
-url_pdf: http://ceur-ws.org/Vol-2696/
+publication: '*IEEE International Symposium on Multimedia, ISM 2021, Virtual Event,
+  November 29 -- December 1, 2021*'
+doi: 10.1109/ISM52913.2021.00034
 ---
