@@ -73,22 +73,23 @@ title = "Professional Service"
 * International Conference on Semantic Systems (I-Semantics) [2012-2013]
 
 ### Reviewing for Journals
+* ACM Transactions on Information Systems (TOIS)
+* ACM Transactions on Intelligent Systems and Technology (TIST)
+* Data Mining and Discovery
+* Data Mining and Knowledge Discovery
+* Engineering Applications of Artificial Intelligence: The International Journal of Intelligent Real-Time Automation
+* EPJ Data Science 
+* EURASIP Journal on Audio, Speech, and Music Processing
+* Expert Systems with Applications Journal
 * Frontiers in AI - Natural Language Processing (member of editorial team)
 * Frontiers in Research Metrics and Analytics - Research methods (member of editorial team)
-* ACM Transactions on Intelligent Systems and Technology (TIST)
-* Journal of Social Network Analysis and Mining (SNAM)
-* ACM Transactions on Information Systems (TOIS)
-* Data Mining and Discovery
-* Expert Systems with Applications Journal
-* Engineering Applications of Artificial Intelligence: The International Journal of Intelligent Real-Time Automation
-* Knowledge and Information Systems (KAIS)
 * Information Sciences (Informatics and Computer Science Intelligent Systems Applications)
+* International Journal of Multimedia Information Retrieval (IJMIR)
+* International Journal on Human-Computer Studies
+* Journal Concurrency and Computation: Practice and Experience
 * Journal of Grid Computing
+* Journal of Social Network Analysis and Mining (SNAM)
+* Knowledge and Information Systems (KAIS)
 * PLOS One
 * Transactions of the International Society for Music Information Retrieval (TISMIR)
 * User Modeling and User-Adapted Interaction (UMUAI)
-* EURASIP Journal on Audio, Speech, and Music Processing
-* International Journal on Human-Computer Studies
-* Journal Concurrency and Computation: Practice and Experience
-* International Journal of Multimedia Information Retrieval (IJMIR)
-* EPJ Data Science 
