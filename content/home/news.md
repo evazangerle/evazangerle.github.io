@@ -12,8 +12,8 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-* Happy to announce that our paper "Height Optimized Tries" has been accepted for [https://dl.acm.org/journal/tods](ACM Transactions on Database Systems).
-  This joint work with Robert Binna, Martin Pichl, Viktor Leis, and Günther Specht is an extended version of our [https://dl.acm.org/doi/10.1145/3183713.3196896](SIGMOD paper) "HOT: A Height Optimized Trie Index for Main-Memory Database Systems"  [12/2021].
+* Happy to announce that our paper "Height Optimized Tries" has been accepted for (https://dl.acm.org/journal/tods)[ACM Transactions on Database Systems].
+  This joint work with Robert Binna, Martin Pichl, Viktor Leis, and Günther Specht is an extended version of our (https://dl.acm.org/doi/10.1145/3183713.3196896)[SIGMOD paper] "HOT: A Height Optimized Trie Index for Main-Memory Database Systems"  [12/2021].
 * Happy to serve as track chair for UMAP (Conference on User Modeling, Adaptation and Personalization) 2022 (Personalized Recommender Systems) and for ACM Hypertext 2022 (Adaptive Web and Recommender Systems), together with Osnat Mokryn and Markus Zanker [11/2021].
 * Our paper "Novel Datasets for Evaluating Song Popularity Prediction Tasks" has been accepted at the 23rd IEEE International Symposium on Multimedia (ISM) [10/2021].
 * The proceedings of our [Perspectives Workshop](https://perspectives-ws.github.io/2021/) are out: [Ceur WS Vol 2955](http://ceur-ws.org/Vol-2955/), find the teaser videos for the papers [here](https://perspectives-ws.github.io/2021/videos/) [09/2021].
