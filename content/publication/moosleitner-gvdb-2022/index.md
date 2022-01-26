@@ -33,6 +33,6 @@ publishDate: '2022-01-26T11:50:35.636454Z'
 publication_types:
 - '1'
 abstract: ''
-publication: "Proceedings of the 32nd GI-Workshop Grundlagen von Datenbanksysteme(GvDB'21)"
+publication: "*Proceedings of the 32nd GI-Workshop Grundlagen von Datenbanksysteme (GvDB'21)*"
 url_pdf: http://ceur-ws.org/Vol-3075/paper6.pdf
 ---
