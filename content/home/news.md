@@ -12,7 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-* Our paper [Height Optimized Tries](https://dl.acm.org/doi/10.1145/3506692) has just appeared in ACM Transactions on Database Systems (work together with Robert Binna, Martin Pichl, Viktor Leis, and Günther Specht) [04/2022].
+* Our paper [Height Optimized Tries](https://dl.acm.org/doi/10.1145/3506692) has just appeared in ACM Transactions on Database Systems (CORE A\*, together with Robert Binna, Martin Pichl, Viktor Leis, and Günther Specht) [04/2022].
 * Our event report on the [Perspectives workshop at ACM RecSys 2021](https://perspectives-ws.github.io/2021/) has just appeared in [SIGIR Forum](https://sigir.org/forum/issues/december-2021/) [02/2022].
 * I've just joined the program committee of SIGIR 2022 [01/2022].
 * Happy to announce that our paper "Height Optimized Tries" has been accepted for [ACM Transactions on Database Systems](https://dl.acm.org/journal/tods).
