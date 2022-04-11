@@ -23,6 +23,7 @@ title = "Professional Service"
 
 ### Workshop Organization
 
+* PERSPECTIVES 2022 Workshop: 2nd Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2022.
 * PERSPECTIVES 2021 Workshop: Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2021.
 * 2nd WiMIR Workshop at International Society on Music Information Retrieval Conference (Project Guide for Multi-Dimensional User Models for MIR)
 * 1st International Workshop on Multi-Method Evaluation of Personalized Systems @UMAP 2018 – User Modelling, Adaptation and Personalization, 2018.
@@ -39,7 +40,7 @@ title = "Professional Service"
 * ACM International Conference on Recommender Systems (RecSys) [2018-2022; best reviewer award nominee 2018]
 * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022]
 * The Web Conference [2022]
-* International Society for Music Information Retrieval Conference (ISMIR) [2016, member of PC 2017-2022]
+* International Society for Music Information Retrieval Conference (ISMIR) [2016, meta-reviewer 2017-2022]
 * European Conference on Information Retrieval (ECIR) [2019, 2021-2022]
 * International Workshop on Algorithmic Bias in Search and Recommendation [2020-2022]
 * Workshop on Adaptive and Personalized Explainable User Interfaces [2022]
