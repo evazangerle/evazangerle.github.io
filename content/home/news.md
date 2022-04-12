@@ -15,7 +15,7 @@ title = "News"
 * Our paper [Height Optimized Tries](https://dl.acm.org/doi/10.1145/3506692) has just appeared in ACM Transactions on Database Systems (CORE A\*, together with Robert Binna, Martin Pichl, Viktor Leis, and Günther Specht) [04/2022].
 * Our paper [Overview of PAN 2022: Authorship Verification, Profiling Irony and Stereotype Spreaders, Style Change
   Detection, and Trigger Detection](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_42) as part of the
-proceedings of the 44th European Conference on IR Research (ECIR 2022).  
+proceedings of the 44th European Conference on IR Research (ECIR 2022) [04/2022].  
 * Our event report on the [Perspectives workshop at ACM RecSys 2021](https://perspectives-ws.github.io/2021/) has just appeared in [SIGIR Forum](https://sigir.org/forum/issues/december-2021/) [02/2022].
 * I've just joined the program committee of SIGIR 2022 [01/2022].
 * Happy to announce that our paper "Height Optimized Tries" has been accepted for [ACM Transactions on Database Systems](https://dl.acm.org/journal/tods).
