@@ -59,4 +59,5 @@ abstract: The paper gives a brief overview of the four shared tasks to be organi
 publication: '*Advances in Information Retrieval - 44th European Conference on IR
   Research, ECIR 2022, Stavanger, Norway, April 10–14, 2022, Proceedings, Part II*'
 doi: 10.1007/978-3-030-99739-7_42
+url: https://link.springer.com/chapter/10.1007/978-3-030-99739-7_42
 ---
