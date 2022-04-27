@@ -12,6 +12,9 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Happy to annonce that our workshop proposal was accepted at RecSys 2022. Very much looking forward to the second
+  edition of the [Perspectives workshop](https://perspectives-ws.github.io/2022/), together with Christine Bauer and
+Alan Said [04/2022].
 * Our paper [Height Optimized Tries](https://dl.acm.org/doi/10.1145/3506692) has just appeared in ACM Transactions on Database Systems (CORE A\*, together with Robert Binna, Martin Pichl, Viktor Leis, and Günther Specht) [04/2022].
 * Our paper [Overview of PAN 2022: Authorship Verification, Profiling Irony and Stereotype Spreaders, Style Change
   Detection, and Trigger Detection](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_42) as part of the
