@@ -12,6 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* I just joined the programme committee for WSDM 2023 [06/2022].  
 * Happy to announce that our workshop proposal was accepted at RecSys 2022. Very much looking forward to the second
   edition of the [Perspectives workshop](https://perspectives-ws.github.io/2022/), together with Christine Bauer and
 Alan Said [04/2022].
