@@ -48,6 +48,9 @@ social:
 - icon: google-scholar
   icon_pack: ai 
   link: https://scholar.google.de/citations?user=eeyGXWoAAAAJ
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.org/pid/31/8199.html
 - icon: github
   icon_pack: fab
   link: https://github.com/evazangerle
