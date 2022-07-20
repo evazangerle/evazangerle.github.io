@@ -45,6 +45,6 @@ abstract: ' Evaluation is a cornerstone in the process of developing and deployi
   and sought to move the recommender systems community forward as an outcome of the
   workshop. '
 publication: '*Fifteenth ACM Conference on Recommender Systems*'
-doi = "10.1145/3460231.3470929"
+doi: "10.1145/3460231.3470929"
 url_pdf: https://doi.org/10.1145/3460231.3470929
 ---
