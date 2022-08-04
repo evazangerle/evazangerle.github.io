@@ -12,6 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Our paper "Music4All-Onion. A Large-Scale Multi-faceted Content-Centric Music Recommendation Dataset" was accepted as resource paper at the 31st ACM International Conference on Information and Knowledge Management (CIKM). This is joint work together with Marta Moscati, Emilia Parada-Cabaleiro, Yashar Deldjoo, and Markus Schedl [08/2022].  
 * Our paper "Verse versus Chorus: Structure-aware Feature Extraction for Lyrics-based Genre Recognition" has been
   accepted at ISMIR 2022 [07/2022].  
 * I just joined the programme committee for WSDM 2023 [06/2022].  
