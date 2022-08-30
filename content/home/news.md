@@ -12,6 +12,11 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* I'm very proud that our survey paper "Evaluating Recommender Systems: Survey and Framework" was just accepted at ACM
+  Computing Surveys and is already [available online](https://dl.acm.org/doi/10.1145/3556536) (together with Christine Bauer) [08/2022]. 
+* Our paper "Unsupervised Graph Embeddings for Session-based Recommendation with Item Features" has been accepted at the
+  Context-Aware Recommender Systems Workshop at RecSys 2022. This is joint work together with Andreas Peintner, Marta
+Moscati, Emilia Parada-Cabaleiro, and Markus Schedl [08/2022].  
 * Our paper "Music4All-Onion. A Large-Scale Multi-faceted Content-Centric Music Recommendation Dataset" was accepted as resource paper at the 31st ACM International Conference on Information and Knowledge Management (CIKM). This is joint work together with Marta Moscati, Emilia Parada-Cabaleiro, Yashar Deldjoo, and Markus Schedl [08/2022].  
 * Our paper "Verse versus Chorus: Structure-aware Feature Extraction for Lyrics-based Genre Recognition" has been
   accepted at ISMIR 2022 [07/2022].  
