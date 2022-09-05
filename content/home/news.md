@@ -13,7 +13,9 @@ title = "News"
   columns = "1"
 +++
 * I'm very proud that our survey paper "Evaluating Recommender Systems: Survey and Framework" was just accepted at ACM
-  Computing Surveys and is already [available online](https://dl.acm.org/doi/10.1145/3556536) (together with Christine Bauer) [08/2022]. 
+  Computing Surveys and is already [available online](https://dl.acm.org/doi/10.1145/3556536) (together with Christine Bauer) [09/2022]. 
+* I just added overview papers for the Style Change Detection task I co-organized at [PAN@CLEF](https://pan.webis.de) to
+  the list of publications [09/2022].  
 * Our paper "Unsupervised Graph Embeddings for Session-based Recommendation with Item Features" has been accepted at the
   Context-Aware Recommender Systems Workshop at RecSys 2022. This is joint work together with Andreas Peintner, Marta
 Moscati, Emilia Parada-Cabaleiro, and Markus Schedl [08/2022].  
