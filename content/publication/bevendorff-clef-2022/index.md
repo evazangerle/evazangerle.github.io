@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Overview of PAN 2022: Authorship Verification, Profiling Irony and Stereotype
-  Spreaders, Style Change Detection, and Trigger Detection - Extended Abstract'
+  Spreaders, and Style Change Detection'
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +13,7 @@ authors:
 - Mike Kestemont
 - Krzysztof Kredens
 - Maximilian Mayerl
-- Reyner Ortega-Bueno
+- Reynier Ortega-Bueno
 - Piotr Pezik
 - Martin Potthast
 - Francisco Rangel
@@ -26,7 +26,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-09-05T16:00:30+02:00
+lastmod: 2022-09-05T16:09:13+02:00
 featured: false
 draft: false
 
@@ -44,14 +44,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-05T14:00:25.004612Z'
+publishDate: '2022-09-05T14:09:13.310513Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Advances in Information Retrieval - 44th European Conference on IR
-  Research, ECIR 2022, Stavanger, Norway, April 10-14, 2022, Proceedings, Part II*'
-doi: 10.1007/978-3-030-99739-7_42
+publication: '*Experimental IR Meets Multilinguality, Multimodality, and Interaction
+  - 13th International Conference of the CLEF Association, CLEF 2022, Bologna, Italy,
+  September 5-8, 2022, Proceedings*'
+doi: 10.1007/978-3-031-13643-6_24
 links:
 - name: URL
-  url: https://doi.org/10.1007/978-3-030-99739-7_42
+  url: https://doi.org/10.1007/978-3-031-13643-6_24
 ---
