@@ -16,7 +16,7 @@ tags:
 - information retrieval
 - methods
 categories: []
-date: '2022-01-01'
+date: '2022-09-22'
 lastmod: 2022-09-20T14:08:45+02:00
 featured: false
 draft: false
