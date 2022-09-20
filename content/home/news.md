@@ -12,6 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Honoured to receive one of the "Women in RecSys: Journal Paper of the Year Awards" at ACM RecSys for our paper "Leveraging Affective Hashtags for Ranking Music Recommendations", together with Yi-Hsuan Yang, Chih-Ming Chen, and Ming-Feng Tsai [09/2022].  
 * I'm very proud that our survey paper "Evaluating Recommender Systems: Survey and Framework" was just accepted at ACM
   Computing Surveys and is already [available online](https://dl.acm.org/doi/10.1145/3556536) (together with Christine Bauer) [09/2022]. 
 * I just added overview papers for the Style Change Detection task I co-organized at [PAN@CLEF](https://pan.webis.de) to
@@ -32,6 +33,3 @@ Alan Said [04/2022].
 proceedings of the 44th European Conference on IR Research (ECIR 2022) [04/2022].  
 * Our event report on the [Perspectives workshop at ACM RecSys 2021](https://perspectives-ws.github.io/2021/) has just appeared in [SIGIR Forum](https://sigir.org/forum/issues/december-2021/) [02/2022].
 * I've just joined the program committee of SIGIR 2022 [01/2022].
-* Happy to announce that our paper "Height Optimized Tries" has been accepted for [ACM Transactions on Database Systems](https://dl.acm.org/journal/tods).
-  This joint work with Robert Binna, Martin Pichl, Viktor Leis, and Günther Specht is an extended version of our [SIGMOD paper](https://dl.acm.org/doi/10.1145/3183713.3196896) "HOT: A Height Optimized Trie Index for Main-Memory Database Systems"  [12/2021].
-* Happy to serve as track chair for UMAP (Conference on User Modeling, Adaptation and Personalization) 2022 (Personalized Recommender Systems) and for ACM Hypertext 2022 (Adaptive Web and Recommender Systems), together with Osnat Mokryn and Markus Zanker [11/2021].
