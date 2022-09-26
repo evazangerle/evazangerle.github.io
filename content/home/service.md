@@ -38,7 +38,7 @@ title = "Professional Service"
 
 ### Reviewing for Conferences
 * ACM International Conference on Web Search and Data Mining (WSDM) [2023]
-* The Web Conference [2022, 2023 (senior PC member)]
+* The Web Conference [2022, senior PC member 2023]
 * European Conference on Information Retrieval (ECIR) [2019, 2021-2023]
 * ACM International Conference on Recommender Systems (RecSys) [2018-2022; best reviewer award nominee 2018]
 * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022]
