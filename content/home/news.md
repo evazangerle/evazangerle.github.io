@@ -12,8 +12,8 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-* Check out the [program and teaser videos](https://perspectives-ws.github.io/2022/) of our Perspectives workshop at ACM RecSys [09/2022].  
 * Honoured to receive one of the "Women in RecSys: Journal Paper of the Year Awards" at ACM RecSys for our paper "Leveraging Affective Hashtags for Ranking Music Recommendations", together with Yi-Hsuan Yang, Chih-Ming Chen, and Ming-Feng Tsai [09/2022].  
+* Check out the [program and teaser videos](https://perspectives-ws.github.io/2022/) of our Perspectives workshop at ACM RecSys [09/2022].  
 * I'm very proud that our survey paper "Evaluating Recommender Systems: Survey and Framework" was just accepted at ACM
   Computing Surveys and is already [available online](https://dl.acm.org/doi/10.1145/3556536) (together with Christine Bauer) [09/2022]. 
 * I just added overview papers for the Style Change Detection task I co-organized at [PAN@CLEF](https://pan.webis.de) to
