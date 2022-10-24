@@ -23,7 +23,7 @@ tags:
 - onion model
 - natural language processing
 categories: []
-date: '2022-01-01'
+date: '2022-10-01'
 lastmod: 2022-10-17T09:46:09+02:00
 featured: false
 draft: false

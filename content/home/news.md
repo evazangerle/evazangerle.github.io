@@ -12,6 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* At last week's CIKM conference, Marta presented our paper "Music4All-Onion -- A Large-Scale Multi-Faceted Content-Centric Music Recommendation Dataset", available [here](https://dl.acm.org/doi/10.1145/3511808.3557656) [10/2022].  
 * Will hold a talk at SEA: Search Engines Amsterdam on October 5th, 2022 about beyond-mainstream music listeners
   [10/2022].  
 * Honoured to receive one of the "Women in RecSys: Journal Paper of the Year Awards" at ACM RecSys for our paper "Leveraging Affective Hashtags for Ranking Music Recommendations", together with Yi-Hsuan Yang, Chih-Ming Chen, and Ming-Feng Tsai [09/2022].  
