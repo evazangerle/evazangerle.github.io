@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: '“Sorry, I was hacked\": A Classification of Compromised Twitter Accounts'
+title: '"Sorry, I was hacked": A Classification of Compromised Twitter Accounts'
 subtitle: ''
 summary: ''
 authors:
