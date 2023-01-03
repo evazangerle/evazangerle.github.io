@@ -35,6 +35,6 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Working Notes of CLEF 2022 - Conference and Labs
-  of the Evaluation Forum, Bologna, Italy, September 5th - to - 8th, 2022*'
+  of the Evaluation Forum, Bologna, Italy, September 5th to 8th, 2022*'
 url_pdf: http://ceur-ws.org/Vol-3180/paper-186.pdf
 ---
