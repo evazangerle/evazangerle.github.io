@@ -5,7 +5,7 @@ title: Unsupervised Graph Embeddings for Session-based Recommendation with Item 
 subtitle: ''
 summary: ''
 authors:
-- Marta Moscati, Emilia Parada-Cabaleiro, Markus Schedl, Eva Zangerle Andreas Peintner
+- Andreas Peintner, Marta Moscati, Emilia Parada-Cabaleiro, Markus Schedl, Eva Zangerle
 tags: []
 categories: []
 date: '2022-01-01'
