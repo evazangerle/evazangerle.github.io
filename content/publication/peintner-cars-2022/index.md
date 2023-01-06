@@ -32,4 +32,7 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*CARS: Workshop on Context-Aware Recommender Systems (RecSys ’22)*'
+links:
+- name: URL
+- url: https://cars-workshop.com/program
 ---
