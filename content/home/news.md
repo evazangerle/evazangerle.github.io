@@ -12,6 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Just joined the senior program committee for this year's SIGIR conference [01/2023].  
 * I will serve as a workshop co-chair for the Annual Conference on Intelligent User Interfaces (IUI) 2024 [01/2023].  
 * We will present our paper "Verse versus Chorus: Structure-aware Feature Extraction for Lyrics-based Genre Recognition" at the 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) this week [12/2022].   
 * At last week's CIKM conference, Marta presented our paper "Music4All-Onion -- A Large-Scale Multi-Faceted Content-Centric Music Recommendation Dataset", available [here](https://dl.acm.org/doi/10.1145/3511808.3557656) [10/2022].  
