@@ -12,6 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Our report on the 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2022) at RecSys 2022 has been published in the December issue of [SIGIR Forum](https://sigir.org/forum/issues/december-2022/) [02/2023].  
 * Just joined the senior program committee for this year's SIGIR conference [01/2023].  
 * I will serve as a workshop co-chair for the Annual Conference on Intelligent User Interfaces (IUI) 2024 [01/2023].  
 * We will present our paper "Verse versus Chorus: Structure-aware Feature Extraction for Lyrics-based Genre Recognition" at the 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) this week [12/2022].   
