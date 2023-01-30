@@ -36,6 +36,9 @@ title = "Professional Service"
 * Style Change Detection Task, PAN@CLEF 2019 (Task Chair)
 
 
+### Editorial Service
+* Guest editor: Special Issue "Perspectives on Recommender Systems Evaluation" in ACM Transactions on Recommender Systems (together with Christine Bauer and Alan Said) [2022-2023]  
+
 ### Reviewing for Conferences
 * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023]
 * ACM International Conference on Web Search and Data Mining (WSDM) [2023]
