@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2023-01-01'
-lastmod: 2023-01-30T08:52:08+01:00
+lastmod: 2023-02-01T09:34:54+01:00
 featured: false
 draft: false
 
@@ -30,9 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-30T07:52:02.107342Z'
+publishDate: '2023-02-01T08:34:54.230297Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*SIGIR Forum*'
+doi: 10.1145/3582900.3582919
+links:
+- name: URL
+  url: https://doi.org/10.1145/3582900.3582919
 ---
