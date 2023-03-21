@@ -11,11 +11,10 @@ authors:
 - Günther Specht
 - Markus Schedl
 - Eva Zangerle
-tags:
-- further
+tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2023-02-06T10:15:33+01:00
+lastmod: 2023-03-21T09:09:11+01:00
 featured: false
 draft: false
 
@@ -33,10 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-06T09:13:53.851092Z'
+publishDate: '2023-03-21T08:09:11.221742Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 23rd International Society for Music Information
   Retrieval Conference 2022*'
+doi: 10.5281/zenodo.7316806
 ---
