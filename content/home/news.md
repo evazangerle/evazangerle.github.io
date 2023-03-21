@@ -12,6 +12,8 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Our paper on PAN 2023 "Overview of PAN 2023: Authorship Verification, Multi-author Writing Style Analysis, Profiling
+  Cryptocurrency Influencers, and Trigger Detection" has just been published [03/2023].  
 * Maximilian and Manfred presented our contributions on "Pairwise Learning to Rank for Hit Song Prediction" and "Detection of Generated Text Reviews by Leveraging Methods from Authorship Attribution: Predictive Performance vs. Resourcefulness" at the BTW conference this week [03/2023]. 
 * Our report on the 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2022) at RecSys 2022 has been published in the December issue of [SIGIR Forum](https://sigir.org/forum/issues/december-2022/) [02/2023].  
 * Just joined the senior program committee for this year's SIGIR conference [01/2023].  
