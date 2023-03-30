@@ -22,6 +22,8 @@ title = "Professional Service"
 
 ### Workshop Organization
 
+* Dagstuhl Seminar: Evaluation Perspectives of Recommender Systems: Driving Research and Education 2024.  
+* PERSPECTIVES 2023 Workshop: 3rd Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2023.  
 * PERSPECTIVES 2022 Workshop: 2nd Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2022.
 * PERSPECTIVES 2021 Workshop: Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2021.
 * 2nd WiMIR Workshop at International Society on Music Information Retrieval Conference (Project Guide for Multi-Dimensional User Models for MIR)
