@@ -13,6 +13,7 @@ title = "Professional Service"
   columns = "1"
 +++
 ### Conference Organization
+* ACM Annual Conference on Intelligent User Interfaces (IUI) 2024 (Workshop and Tutorials Chair)  
 * Conference on User Modeling, Adaptation and Personalization (UMAP) 2022 (Track Chair Personalized Recommender Systems)
 * ACM Hypertext 2022 (Track Chair Adaptive Web and Recommender Systems)
 * Conference on User Modeling, Adaptation and Personalization (UMAP) 2021 (Late Breaking Results and Demo Chair)
@@ -23,10 +24,10 @@ title = "Professional Service"
 ### Workshop Organization
 
 * Dagstuhl Seminar: Evaluation Perspectives of Recommender Systems: Driving Research and Education 2024.  
-* PERSPECTIVES 2023 Workshop: 3rd Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2023.  
-* PERSPECTIVES 2022 Workshop: 2nd Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2022.
-* PERSPECTIVES 2021 Workshop: Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2021.
-* 2nd WiMIR Workshop at International Society on Music Information Retrieval Conference (Project Guide for Multi-Dimensional User Models for MIR)
+* [PERSPECTIVES 2023 Workshop](https://perspectives-ws.github.io/2023/): 3rd Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2023.  
+* [PERSPECTIVES 2022 Workshop](https://perspectives-ws.github.io/2022/): 2nd Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2022.
+* [PERSPECTIVES 2021 Workshop](https://perspectives-ws.github.io/2021/): Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2021.
+* 2nd WiMIR Workshop at International Society on Music Information Retrieval Conference (Project Guide for Multi-Dimensional User Models for MIR).
 * 1st International Workshop on Multi-Method Evaluation of Personalized Systems @UMAP 2018 – User Modelling, Adaptation and Personalization, 2018.
 * 23rd Workshop Grundlagen von Datenbanken 2011.
 
