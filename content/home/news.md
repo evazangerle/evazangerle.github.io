@@ -12,6 +12,8 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* The third edition of our [Perspectives Workshop](https://perspectives-ws.github.io/2023/) was accepted at ACM RecSys
+  2023 [04/2023]. 
 * Our paper on PAN 2023 "Overview of PAN 2023: Authorship Verification, Multi-author Writing Style Analysis, Profiling
   Cryptocurrency Influencers, and Trigger Detection" has just been published [03/2023].  
 * Maximilian and Manfred presented our contributions on "Pairwise Learning to Rank for Hit Song Prediction" and "Detection of Generated Text Reviews by Leveraging Methods from Authorship Attribution: Predictive Performance vs. Resourcefulness" at the BTW conference this week [03/2023]. 
@@ -24,13 +26,3 @@ title = "News"
   [10/2022].  
 * Honoured to receive one of the "Women in RecSys: Journal Paper of the Year Awards" at ACM RecSys for our paper "Leveraging Affective Hashtags for Ranking Music Recommendations", together with Yi-Hsuan Yang, Chih-Ming Chen, and Ming-Feng Tsai [09/2022].  
 * I'm very proud that our survey paper "Evaluating Recommender Systems: Survey and Framework" was just accepted at ACM Computing Surveys and is already [available online](https://dl.acm.org/doi/10.1145/3556536) (together with Christine Bauer) [09/2022]. 
-* Check out the [program and teaser videos](https://perspectives-ws.github.io/2022/) of our Perspectives workshop at ACM RecSys [09/2022].  
-* I just added overview papers for the Style Change Detection task I co-organized at [PAN@CLEF](https://pan.webis.de) to
-  the list of publications [09/2022].  
-* Our paper "Unsupervised Graph Embeddings for Session-based Recommendation with Item Features" has been accepted at the
-  Context-Aware Recommender Systems Workshop at RecSys 2022. This is joint work together with Andreas Peintner, Marta
-Moscati, Emilia Parada-Cabaleiro, and Markus Schedl [08/2022].  
-* Our paper "Music4All-Onion. A Large-Scale Multi-faceted Content-Centric Music Recommendation Dataset" was accepted as resource paper at the 31st ACM International Conference on Information and Knowledge Management (CIKM). This is joint work together with Marta Moscati, Emilia Parada-Cabaleiro, Yashar Deldjoo, and Markus Schedl [08/2022].  
-* Our paper "Verse versus Chorus: Structure-aware Feature Extraction for Lyrics-based Genre Recognition" has been
-  accepted at ISMIR 2022 [07/2022].  
-* I just joined the programme committee for WSDM 2023 [06/2022].  
