@@ -14,8 +14,8 @@ title = "News"
 +++
 * The third edition of our [Perspectives Workshop](https://perspectives-ws.github.io/2023/) was accepted at ACM RecSys
   2023 [04/2023]. 
-* Our paper on PAN 2023 "Overview of PAN 2023: Authorship Verification, Multi-author Writing Style Analysis, Profiling
-  Cryptocurrency Influencers, and Trigger Detection" has just been published [03/2023].  
+* Our paper on PAN 2023 ["Overview of PAN 2023: Authorship Verification, Multi-author Writing Style Analysis, Profiling
+  Cryptocurrency Influencers, and Trigger Detection"](https://link.springer.com/chapter/10.1007/978-3-031-28241-6_60) has just been published at the 45th European Conference on Information Retrieval (ECIR) [03/2023].  
 * Maximilian and Manfred presented our contributions on "Pairwise Learning to Rank for Hit Song Prediction" and "Detection of Generated Text Reviews by Leveraging Methods from Authorship Attribution: Predictive Performance vs. Resourcefulness" at the BTW conference this week [03/2023]. 
 * Our report on the 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2022) at RecSys 2022 has been published in the December issue of [SIGIR Forum](https://sigir.org/forum/issues/december-2022/) [02/2023].  
 * Just joined the senior program committee for this year's SIGIR conference [01/2023].  
