@@ -12,6 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* I will hold a keynote at the [Workshop on Machine Learning for Streaming Media](https://ml4streamingmedia-workshop.github.io/www/keynotes.html) at the Web Conference 2023 in Austin. I will be talking about "What Can We Learn From Analyzing Streaming Music Data?" [04/2023].  
 * The third edition of our [Perspectives Workshop](https://perspectives-ws.github.io/2023/) was accepted at ACM RecSys
   2023 [04/2023]. 
 * Our paper on PAN 2023 ["Overview of PAN 2023: Authorship Verification, Multi-author Writing Style Analysis, Profiling
