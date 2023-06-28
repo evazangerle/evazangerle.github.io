@@ -12,6 +12,11 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Our paper "SPARE: Shortest Path Global Item Relations for Efficient Session-based Recommendation" was accepted as full
+  paper at this year's ACM Conference on Recommender Systems - work together with Andreas Peintner and Amir Reza
+Mohammadi (acceptance rate 18.7%) [06/2023].  
+* Was nominated for best reviewer award at 31st ACM Conference on User Modeling, Adaptation and Personalization
+  [06/2023].  
 * I will hold a keynote at the [Workshop on Machine Learning for Streaming Media](https://ml4streamingmedia-workshop.github.io/www/keynotes.html) at the Web Conference 2023 in Austin. I will be talking about "What Can We Learn From Analyzing Streaming Music Data?" [04/2023].  
 * The third edition of our [Perspectives Workshop](https://perspectives-ws.github.io/2023/) was accepted at ACM RecSys
   2023 [04/2023]. 
