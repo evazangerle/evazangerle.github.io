@@ -12,6 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Was awarded my habilitation degree from the University of Innsbruck [07/2023].  
 * Our paper "SPARE: Shortest Path Global Item Relations for Efficient Session-based Recommendation" was accepted as full
   paper at this year's ACM Conference on Recommender Systems - work together with Andreas Peintner and Amir Reza
 Mohammadi (acceptance rate 18.7%) [06/2023].  
