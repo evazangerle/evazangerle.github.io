@@ -12,6 +12,10 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Amir Reza Mohammadi and Andreas Peintner's submissions to the Doctoral Consortium at this year's ACM Conference on
+  Recommender Systems were accepted. Amir works on "Explainable Graph Neural Network Recommenders; Challenges and
+Opportunities" and Andreas on "Sequential Recommendation Models: A Graph-based Perspective", both are supervised by me
+:) [07/2023].    
 * Was awarded my habilitation degree from the University of Innsbruck [07/2023].  
 * Our paper "SPARE: Shortest Path Global Item Relations for Efficient Session-based Recommendation" was accepted as full
   paper at this year's ACM Conference on Recommender Systems - work together with Andreas Peintner and Amir Reza
