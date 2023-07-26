@@ -31,9 +31,3 @@ Mohammadi (acceptance rate 18.7%) [06/2023].
 * Our report on the 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2022) at RecSys 2022 has been published in the December issue of [SIGIR Forum](https://sigir.org/forum/issues/december-2022/) [02/2023].  
 * Just joined the senior program committee for this year's SIGIR conference [01/2023].  
 * I will serve as a workshop co-chair for the Annual Conference on Intelligent User Interfaces (IUI) 2024 [01/2023].  
-* We will present our paper "Verse versus Chorus: Structure-aware Feature Extraction for Lyrics-based Genre Recognition" at the 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) this week [12/2022].   
-* At last week's CIKM conference, Marta presented our paper "Music4All-Onion -- A Large-Scale Multi-Faceted Content-Centric Music Recommendation Dataset", available [here](https://dl.acm.org/doi/10.1145/3511808.3557656) [10/2022].  
-* Will hold a talk at SEA: Search Engines Amsterdam on October 5th, 2022 about beyond-mainstream music listeners
-  [10/2022].  
-* Honoured to receive one of the "Women in RecSys: Journal Paper of the Year Awards" at ACM RecSys for our paper "Leveraging Affective Hashtags for Ranking Music Recommendations", together with Yi-Hsuan Yang, Chih-Ming Chen, and Ming-Feng Tsai [09/2022].  
-* I'm very proud that our survey paper "Evaluating Recommender Systems: Survey and Framework" was just accepted at ACM Computing Surveys and is already [available online](https://dl.acm.org/doi/10.1145/3556536) (together with Christine Bauer) [09/2022]. 
