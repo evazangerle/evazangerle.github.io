@@ -23,7 +23,7 @@ title = "Professional Service"
 
 ### Workshop Organization
 
-* Dagstuhl Seminar: Evaluation Perspectives of Recommender Systems: Driving Research and Education 2024.  
+* Dagstuhl Seminar: [Evaluation Perspectives of Recommender Systems: Driving Research and Education 2024](https://www.dagstuhl.de/de/seminars/seminar-calendar/seminar-details/24211).  
 * [PERSPECTIVES 2023 Workshop](https://perspectives-ws.github.io/2023/): 3rd Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2023.  
 * [PERSPECTIVES 2022 Workshop](https://perspectives-ws.github.io/2022/): 2nd Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2022.
 * [PERSPECTIVES 2021 Workshop](https://perspectives-ws.github.io/2021/): Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2021.
@@ -32,6 +32,7 @@ title = "Professional Service"
 * 23rd Workshop Grundlagen von Datenbanken 2011.
 
 ### Challenge Organization 
+* Multi-Author Analysis Task, PAN@CLEF 2024 (Task Chair)
 * Multi-Author Analysis Task, PAN@CLEF 2023 (Task Chair)
 * Multi-Author Analysis Task, PAN@CLEF 2022 (Task Chair)
 * Style Change Detection Task, PAN@CLEF 2021 (Task Chair)
@@ -51,7 +52,7 @@ title = "Professional Service"
 * ACM International Conference on Recommender Systems (RecSys) [2018-2022; best reviewer award nominee 2018]
 * International Society for Music Information Retrieval Conference (ISMIR) [2016, meta-reviewer 2017-2022]
 * Workshop on Adaptive and Personalized Explainable User Interfaces [2022]
-* Conference on User Modeling, Adaptation and Personalization (UMAP) [2019-2021]
+* Conference on User Modeling, Adaptation and Personalization (UMAP) [2019-2021; best reviewer award nominee 2023]
 * International Symposium on Open Collaboration (OpenSym) [2021]
 * Workshop on Computational Humanities Research [2020-2021]
 * ACM International Conference on Multimedia (ACMMM) [2019-2020]
