@@ -12,6 +12,10 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Christine Bauer and me received the Women in RecSys Journal Paper of the Year award for our paper ["Evaluating Recommender Systems: Survey and Framework"](https://dl.acm.org/doi/10.1145/3556536) - yay :) [2023/09].  
+* This week, Andreas and Amir are in Singapore at the RecSys conference. They will both present their PhD work during
+  the doctoral consortium. Andreas will present our full paper ["SPARE: Shortest Path Global Item Relations for Efficient Session-based Recommendation"](https://dl.acm.org/doi/10.1145/3604915.3608768) and Christine Bauer and me will present our FEVR framework [09/2023].  
+* I have joined the ECIR 2024 program committee for the workshop track [09/2023].  
 * Amir Reza Mohammadi and Andreas Peintner's submissions to the Doctoral Consortium at this year's ACM Conference on
   Recommender Systems were accepted. Amir works on "Explainable Graph Neural Network Recommenders; Challenges and
 Opportunities" and Andreas on "Sequential Recommendation Models: A Graph-based Perspective", both are supervised by me
