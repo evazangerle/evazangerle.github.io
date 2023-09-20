@@ -29,11 +29,3 @@ Mohammadi (acceptance rate 18.7%) [06/2023].
 * Was nominated for best reviewer award at 31st ACM Conference on User Modeling, Adaptation and Personalization
   [06/2023].  
 * I will hold a keynote at the [Workshop on Machine Learning for Streaming Media](https://ml4streamingmedia-workshop.github.io/www/keynotes.html) at the Web Conference 2023 in Austin. I will be talking about "What Can We Learn From Analyzing Streaming Music Data?" [04/2023].  
-* The third edition of our [Perspectives Workshop](https://perspectives-ws.github.io/2023/) was accepted at ACM RecSys
-  2023 [04/2023]. 
-* Our paper on PAN 2023 ["Overview of PAN 2023: Authorship Verification, Multi-author Writing Style Analysis, Profiling
-  Cryptocurrency Influencers, and Trigger Detection"](https://link.springer.com/chapter/10.1007/978-3-031-28241-6_60) has just been published at the 45th European Conference on Information Retrieval (ECIR) [03/2023].  
-* Maximilian and Manfred presented our contributions on "Pairwise Learning to Rank for Hit Song Prediction" and "Detection of Generated Text Reviews by Leveraging Methods from Authorship Attribution: Predictive Performance vs. Resourcefulness" at the BTW conference this week [03/2023]. 
-* Our report on the 2nd Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2022) at RecSys 2022 has been published in the December issue of [SIGIR Forum](https://sigir.org/forum/issues/december-2022/) [02/2023].  
-* Just joined the senior program committee for this year's SIGIR conference [01/2023].  
-* I will serve as a workshop co-chair for the Annual Conference on Intelligent User Interfaces (IUI) 2024 [01/2023].  
