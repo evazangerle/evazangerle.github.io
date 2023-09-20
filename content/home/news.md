@@ -13,6 +13,7 @@ title = "News"
   columns = "1"
 +++
 * Christine Bauer and me received the Women in RecSys Journal Paper of the Year award for our paper ["Evaluating Recommender Systems: Survey and Framework"](https://dl.acm.org/doi/10.1145/3556536) - yay :) [2023/09].  
+* I will be Workshop Co-Chair for RecSys 2024 [2023/09].  
 * This week, Andreas and Amir are in Singapore at the RecSys conference. They will both present their PhD work during
   the doctoral consortium. Andreas will present our full paper ["SPARE: Shortest Path Global Item Relations for Efficient Session-based Recommendation"](https://dl.acm.org/doi/10.1145/3604915.3608768) and Christine Bauer and me will present our FEVR framework [09/2023]. 
 * I have just presented the overview of the Multi-Author Style Analysis Task at PAN@CLEF [09/2024].   
