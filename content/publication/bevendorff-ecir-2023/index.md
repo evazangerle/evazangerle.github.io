@@ -47,5 +47,5 @@ publishDate: '2023-03-21T14:51:02.452178Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Advances in Information Retrieval*'
+publication: '*Advances in Information Retrieval (ECIR 2023)*'
 ---
