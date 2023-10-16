@@ -14,6 +14,7 @@ title = "Professional Service"
 +++
 ### Conference Organization
 * ACM Conference on Recommender Systems (RecSys) 2024 (Workshop Chair)  
+* Conference on User Modeling, Adaptation and Personalization (UMAP) 2024 (Track Chair Personalized Recommender Systems)
 * ACM Annual Conference on Intelligent User Interfaces (IUI) 2024 (Workshop and Tutorials Chair)  
 * Conference on User Modeling, Adaptation and Personalization (UMAP) 2022 (Track Chair Personalized Recommender Systems)
 * ACM Hypertext 2022 (Track Chair Adaptive Web and Recommender Systems)
