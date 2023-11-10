@@ -12,6 +12,8 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* Our paper "Exploring the Landscape of Recommender Systems Evaluation: Practices and Perspectives" just was published
+  in ACM Transactions on Recommender Systems [11/2023].   
 * Christine Bauer and me received the Women in RecSys Journal Paper of the Year award for our paper ["Evaluating Recommender Systems: Survey and Framework"](https://dl.acm.org/doi/10.1145/3556536) - yay :) [2023/09].  
 * I will be Workshop Co-Chair for RecSys 2024 [2023/09].  
 * This week, Andreas and Amir are in Singapore at the RecSys conference. They will both present their PhD work during
