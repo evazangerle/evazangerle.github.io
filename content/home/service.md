@@ -43,10 +43,10 @@ title = "Professional Service"
 
 
 ### Editorial Service
-* Guest editor: Special Issue "Perspectives on Recommender Systems Evaluation" in ACM Transactions on Recommender Systems (together with Christine Bauer and Alan Said) [2022-2023]  
+* Guest editor: Special Issue "Perspectives on Recommender Systems Evaluation" in ACM Transactions on Recommender Systems (together with Christine Bauer and Alan Said) [2022-2024]  
 
 ### Reviewing for Conferences
-* ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023]
+* ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023--2024]
 * ACM International Conference on Web Search and Data Mining (WSDM) [2023]
 * The Web Conference [2022, senior PC member 2023]
 * European Conference on Information Retrieval (ECIR) [2019, 2021-2023, 2024 (workshops)]
