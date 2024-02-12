@@ -12,6 +12,7 @@ title = "News"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
+* I just joined the senior PC for RecSys 2024 [02/2024].  
 * The event report of the 3rd Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES
   2023) at RecSys 2023 was just published in [SIGIR Forum](https://dl.acm.org/toc/sigir/2023/57/2) [02/2024].  
 * Our paper "Exploring the Landscape of Recommender Systems Evaluation: Practices and Perspectives" just was published
