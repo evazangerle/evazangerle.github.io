@@ -53,7 +53,7 @@ abstract: Recommender systems research and practice are fast-developing topics w
   are rarely assessed. Our analysis shows that the research community working on evaluation
   has focused on the development of evaluation in a rather narrow scope, with the
   majority of experiments focusing on a few metrics, datasets, and methods.
-publication: '*ACM Trans. Recomm. Syst.*'
+publication: '*ACM Transactions on Recommender Systems*'
 doi: 10.1145/3629170
 links:
 - name: URL
