@@ -41,13 +41,12 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
+      title: Latest Publications
       text: |-
-       
       filters:
         folders:
           - publication
-        exclude_featured: true
+        featured_only: false
     design:
       columns: '2'
       view: citation
