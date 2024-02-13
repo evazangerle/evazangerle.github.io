@@ -65,6 +65,8 @@ sections:
           * [Digitization and Visualization of Archives and Collections](https://dbis-digivis.uibk.ac.at/mediawiki/index.php/Project_Digivis) (co-principal investigator)  
             funded by Region of Tyrol   
             2018-2020, 200,000 EUR
+    design: 
+      columns: '2'
   - block: markdown
     id: service
     content:
@@ -163,6 +165,8 @@ sections:
         * PLOS One
         * Transactions of the International Society for Music Information Retrieval (TISMIR)
         * User Modeling and User-Adapted Interaction (UMUAI)
+    design: 
+      columns: '2'
   - block: contact
     id: contact
     content:
