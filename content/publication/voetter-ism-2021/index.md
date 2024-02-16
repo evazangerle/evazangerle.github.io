@@ -37,4 +37,7 @@ abstract: ''
 publication: '*IEEE International Symposium on Multimedia, ISM 2021, Virtual Event,
   November 29 -- December 1, 2021*'
 doi: 10.1109/ISM52913.2021.00034
+links:
+- name: Code
+  url: https://github.com/dbis-uibk/hit-prediction-code/
 ---

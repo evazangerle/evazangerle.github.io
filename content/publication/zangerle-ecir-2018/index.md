@@ -37,4 +37,7 @@ abstract:
 publication: '*Advances in Information Retrieval - 39th European Conference on IR  Research,
   ECIR 2018*'
 doi: 10.1007/978-3-319-76941-7_48
+links: 
+- name: Code
+  url: https://github.com/dbis-uibk/ALF200k
 ---

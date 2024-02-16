@@ -34,5 +34,7 @@ abstract: ''
 publication: '*CARS: Workshop on Context-Aware Recommender Systems (RecSys ’22)*'
 links:
 - name: URL
-- url: https://cars-workshop.com/program
+  url: https://cars-workshops.com/cars-2022
+- name: Code
+  url: https://github.com/dbis-uibk/gcnext
 ---

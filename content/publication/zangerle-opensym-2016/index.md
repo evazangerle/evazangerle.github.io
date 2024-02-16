@@ -37,4 +37,7 @@ publication_types:
 abstract: ''
 publication: '*Proceedings of the 12th International Symposium on Open Collaboration*'
 doi: 10.1145/2957792.2957804
+links:
+- name: Code
+  url: https://github.com/dbis-uibk/PropertyRecommenderEvaluator
 ---

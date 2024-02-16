@@ -35,4 +35,7 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Working Notes Proceedings of the MediaEval 2020 Workshop*'
+links:
+- name: Code
+  url: https://github.com/dbis-uibk/MediaEval2020
 ---

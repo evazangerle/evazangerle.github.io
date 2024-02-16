@@ -38,4 +38,7 @@ publication_types:
 abstract: ''
 publication: '*Working Notes Proceedings of the MediaEval 2017 Workshop*'
 url_pdf: http://ceur-ws.org/Vol-1984/Mediaeval_2017_paper_41.pdf
+links:
+- name: Code
+  url: https://github.com/dbis-uibk/MusicGenreClassification
 ---

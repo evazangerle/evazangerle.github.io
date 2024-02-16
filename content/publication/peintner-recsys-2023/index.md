@@ -39,6 +39,6 @@ doi: 10.1145/3604915.3608768
 links:
 - name: URL
   url: https://doi.org/10.1145/3604915.3608768
-- name: code
+- name: Code
   url: https://github.com/dbis-uibk/SPARE
 ---

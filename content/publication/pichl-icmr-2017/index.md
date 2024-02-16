@@ -37,4 +37,7 @@ abstract: ''
 publication: '*Proceedings of the 2017 ACM on International Conference on Multimedia
   Retrieval, ICMR 2017, Bucharest, Romania*'
 doi: 10.1145/3078971.3078980
+links:
+- name: Code
+  url: https://github.com/dbis-uibk/MusicRecommenderEvaluator
 ---
