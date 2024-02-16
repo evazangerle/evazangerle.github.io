@@ -13,4 +13,7 @@ publication_types:
 publication: '*Working Notes Proceedings of the MediaEval 2021 Workshop, Online, 13-15
   December 2021*'
 url_pdf: https://ceur-ws.org/Vol-3181/paper14.pdf
+links:
+- name: Code
+  url: https://github.com/dbis-uibk/MediaEval2021
 ---
