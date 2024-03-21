@@ -8,7 +8,7 @@ date: '2024-03-01'
 publishDate: '2024-03-18T19:21:08.062582Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Recomm. Syst.*'
+publication: '*ACM Transactions on Recommender Systems*'
 doi: 10.1145/3629170
 abstract: Recommender systems research and practice are fast-developing topics with
   growing adoption in a wide variety of information access scenarios. In this article,
