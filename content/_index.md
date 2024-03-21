@@ -25,18 +25,6 @@ sections:
               in ACM Transactions on Recommender Systems [11/2023].   
             * Christine Bauer and me received the Women in RecSys Journal Paper of the Year award for our paper ["Evaluating Recommender Systems: Survey and Framework"](https://dl.acm.org/doi/10.1145/3556536) - yay :) [2023/09].  
             * I will be Workshop Co-Chair for RecSys 2024 [2023/09].  
-            * This week, Andreas and Amir are in Singapore at the RecSys conference. They will both present their PhD work during
-              the doctoral consortium. Andreas will present our full paper ["SPARE: Shortest Path Global Item Relations for Efficient Session-based Recommendation"](https://dl.acm.org/doi/10.1145/3604915.3608768) and Christine Bauer and me will present our FEVR framework [09/2023]. 
-            * I have just presented the overview of the Multi-Author Style Analysis Task at PAN@CLEF [09/2023].   
-            * I have joined the ECIR 2024 program committee for the workshop track [09/2023].  
-            * Amir Reza Mohammadi and Andreas Peintner's submissions to the Doctoral Consortium at this year's ACM Conference on
-              Recommender Systems were accepted. Amir works on "Explainable Graph Neural Network Recommenders; Challenges and
-            Opportunities" and Andreas on "Sequential Recommendation Models: A Graph-based Perspective", both are supervised by me
-            :) [07/2023].    
-            * Was awarded my habilitation degree from the University of Innsbruck [07/2023].  
-            * Our paper "SPARE: Shortest Path Global Item Relations for Efficient Session-based Recommendation" was accepted as full
-              paper at this year's ACM Conference on Recommender Systems - work together with Andreas Peintner and Amir Reza
-            Mohammadi (acceptance rate 18.7%) [06/2023]. 
     design: 
       columns: '2'
   - block: collection
