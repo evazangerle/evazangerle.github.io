@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * Our paper ["Song lyrics have become simpler and more repetitive over the last five decades"](https://www.nature.com/articles/s41598-024-55742-x) has appeared in Nature Scientific Reports :) [04/2024].  
             * Very happy to see our (together with Christine Bauer and Alan Said) Special Issue on ["Perspectives on Recommender Systems Evaluation"](https://dl.acm.org/toc/tors/2024/2/1) appear in ACM Transactions on Recommender Systems [03/2024].  
             * Our paper "[The Emotion-to-Music Mapping Atlas (EMMA):A systematically organized online database of emotionally evocative music excerpts](https://rdcu.be/dyql3)" (by Hannah Strauß, Julia Vigl,  Peer-Ole Jacobsen, Martin Bayer, Francesca Talamini, Wolfgang Vigl, me, and Marcel Zentner) has just appeared in Behavior Research Methods [02/2024].  
             * I just joined the senior PC for RecSys 2024 [02/2024].  
