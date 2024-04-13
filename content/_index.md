@@ -98,6 +98,8 @@ sections:
         * ACM International Conference on Recommender Systems (RecSys) [2018-2022; best reviewer award nominee 2018; senior PC member 2024]  
         * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023--2024]
         * ACM International Conference on Information and Knowledge Management (CIKM) [2024]
+        * MuRS: Music Recommender Systems Workshop 2024 [2024]  
+        * First International Workshop on Graph-Based Approaches in Information Retrieval [2024]  
         * European Conference on Information Retrieval (ECIR) [2019, 2021-2023, 2024 (workshops)]
         * ACM International Conference on Web Search and Data Mining (WSDM) [2023]
         * Conference on User Modeling, Adaptation and Personalization (UMAP) [2019-2021; best reviewer award nominee 2023]
