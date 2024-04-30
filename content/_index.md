@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * I'm now an Distinguished Reviewer at ACM Transactions on Recommender Systems (TORS) [04/2024].  
             * Our paper ["Song lyrics have become simpler and more repetitive over the last five decades"](https://www.nature.com/articles/s41598-024-55742-x) has appeared in Nature Scientific Reports :) [04/2024]. 
             * The [IUI Workshop Proceedings](https://ceur-ws.org/Vol-3660/) are now out, co-edited by Axel Soto and me [04/2024].   
             * Very happy to see our (together with Christine Bauer and Alan Said) Special Issue on ["Perspectives on Recommender Systems Evaluation"](https://dl.acm.org/toc/tors/2024/2/1) appear in ACM Transactions on Recommender Systems [03/2024].  
