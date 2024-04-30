@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:41.199433Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings of the 22nd Workshop Grundlagen von Datenbanken (GvDB 2010),
   Bad Helmstedt, Germany*'

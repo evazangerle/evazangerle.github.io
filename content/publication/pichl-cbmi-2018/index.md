@@ -29,8 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:36.005389Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: 
 publication: '*2018 International Conference on Content-Based Multimedia Indexing
   (CBMI)*'

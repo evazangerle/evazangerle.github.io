@@ -33,8 +33,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:37.296495Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Working Notes Proceedings of the MediaEval 2017 Workshop*'
 url_pdf: http://ceur-ws.org/Vol-1984/Mediaeval_2017_paper_41.pdf

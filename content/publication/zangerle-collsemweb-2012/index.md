@@ -29,8 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:40.288813Z'
-publication_types:
-- '6'
+publication_types: ["chapter"]
 abstract: ''
 publication: '*Collaboration and the Semantic Web: Social Networks, Knowledge Networks
   and Knowledge Resources*'

@@ -32,8 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:37.198459Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*WikiDataCon 2017, Berlin*'
 url_pdf: https://www.wikidata.org/wiki/Wikidata:WikidataCon_2017/Submissions/Employing_Wikidata_for_Fostering_Scholarly_Research

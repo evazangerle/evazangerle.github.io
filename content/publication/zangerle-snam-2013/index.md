@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:39.889647Z'
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: ''
 publication: '*Social Network Analysis and Mining*'
 doi: 10.1007/s13278-013-0108-x

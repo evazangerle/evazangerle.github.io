@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:36.105019Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*The SIGIR 2018 Workshop On eCommerce co-located with the 41st International
   ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR

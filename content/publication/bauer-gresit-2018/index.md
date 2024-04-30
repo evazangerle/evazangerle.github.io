@@ -29,8 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:33.705018Z'
-publication_types:
-- paper-conference
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Workshop Proceeding of the 2nd Workshop on Green (Responsible, Ethical
   and Social) IT and IS - the Corporate Perspective (GRES-IT/IS)*'

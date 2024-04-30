@@ -27,8 +27,7 @@ publishDate: '2024-02-12T10:34:19.520544Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: '*Behavior Research Methods*'

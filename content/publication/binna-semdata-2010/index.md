@@ -33,8 +33,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:41.298186Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings of the 1st International Workshop on Semantic Data Management
   (SemData) at the 36th International Conference on Very Large Data Bases (VLDB 2010),

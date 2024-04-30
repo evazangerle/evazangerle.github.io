@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:39.098530Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Current Trends in Web Engineering, 15th International Conference, ICWE
   2015 Workshops (Revised Selected Papers)*'

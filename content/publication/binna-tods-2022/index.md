@@ -36,8 +36,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-04-07T17:51:21.185273Z'
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: We present the Height Optimized Trie (HOT), a fast and space-efficient in-memory
   index structure. The core algorithmic idea of HOT is to dynamically vary the number
   of bits considered at each node, which enables a consistently high fanout and thereby
@@ -49,7 +48,7 @@ abstract: We present the Height Optimized Trie (HOT), a fast and space-efficient
   show that HOT outperforms other state-of-the-art index structures for string keys
   both in terms of search performance and memory footprint, while being competitive
   for integer keys.
-publication: '*ACM Trans. Database Syst.*'
+publication: '*ACM Transactions on Database Systems*'
 doi: 10.1145/3506692
 links:
 - name: URL

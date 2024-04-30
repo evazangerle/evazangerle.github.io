@@ -32,8 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:37.410809Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Mainzer Namenstagung 2017: Toponyme - eine Standortbestimmung*'
 ---

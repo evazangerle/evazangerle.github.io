@@ -32,8 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:41.097456Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: "*HT'10, Proceedings of the 21st ACM Conference on Hypertext and Hypermedia,\
   \ Toronto, Ontario, Canada, June 13-16, 2010*"

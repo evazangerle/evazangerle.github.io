@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-10-17T07:44:56.420035Z'
-publication_types:
-- '0'
+publication_types: ["book"]
 abstract: ''
 publication: '*CEUR-WS.org*'
 links:

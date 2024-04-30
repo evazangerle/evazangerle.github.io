@@ -29,8 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:35.807341Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings of the 19th International Society for Music Information
   Retrieval Conference 2018 (ISMIR 2018)*'

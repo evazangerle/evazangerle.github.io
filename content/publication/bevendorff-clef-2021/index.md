@@ -43,8 +43,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-09-30T18:18:42.208154Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Experimental IR Meets Multilinguality, Multimodality, and Interaction
   - 12th International Conference of the CLEF Association, CLEF 2021, Virtual Event,

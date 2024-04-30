@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:37.710490Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*4th Digital Humanities Austria Conference - dha2017. Abstracts*'
 url_pdf: https://www.uibk.ac.at/congress/dha2017/bilder-und-dateien/hiebel_posch_rampl_zangerle_panel_proposal_dha.pdf

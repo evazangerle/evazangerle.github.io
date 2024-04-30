@@ -7,8 +7,7 @@ authors:
 - Eva Zangerle
 date: '2024-01-01'
 publishDate: '2024-04-17T07:19:54.062296Z'
-publication_types:
-- book
+publication_types: ["book"]
 publication: '*CEUR-WS.org*'
 links:
 - name: URL

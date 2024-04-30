@@ -29,8 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:36.498901Z'
-publication_types:
-- paper-conference 
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Wiki Workshop 2018, co-located with The Web Conference*'
 doi: 10.5281/zenodo.1194790

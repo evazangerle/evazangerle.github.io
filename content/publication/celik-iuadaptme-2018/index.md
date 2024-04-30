@@ -34,8 +34,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:36.203324Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Adjunct Publication of the 26th Conference on User Modeling, Adaptation
   and Personalization*'

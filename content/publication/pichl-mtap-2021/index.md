@@ -29,8 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:24.953264Z'
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: ''
 publication: '*Multimedia Tools and Applications*'
 doi: 10.1007/s11042-020-09890-7

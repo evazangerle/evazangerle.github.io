@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:36.598783Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Joint Proceedings of the ACM IUI 2018 Workshops co-located with the
   23rd ACM Conference on Intelligent User Interfaces (ACM IUI 2018)*'

@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:40.896611Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings of the Third International Conference on Social Informatics
   (SocInfo) 2011, Singapore, Singapore, October 6-8, 2011*'

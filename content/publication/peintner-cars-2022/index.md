@@ -28,8 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-01-03T14:08:03.782702Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*CARS: Workshop on Context-Aware Recommender Systems (RecSys ’22)*'
 links:

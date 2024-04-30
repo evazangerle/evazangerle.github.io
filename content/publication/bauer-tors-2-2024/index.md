@@ -6,8 +6,7 @@ authors:
 - Eva Zangerle
 date: '2024-03-01'
 publishDate: '2024-03-18T19:21:08.079661Z'
-publication_types:
-- article-journal
+publication_types: ["article-journal"]
 publication: '*ACM Transactions on  Recommender Systems*'
 doi: 10.1145/3648398
 abstract: Evaluation plays a vital role in recommender systems—in research and practice—whether

@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-07-21T11:50:58.656023Z'
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: ''
 publication: '*International Journal of Semantic Computing*'
 doi: 10.1142/S1793351X22400104

@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-01-03T15:15:23.567046Z'
-publication_types:
-- '0'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*IEEE International Symposium on Multimedia, ISM 2021, Virtual Event,
   November 29 -- December 1, 2021*'

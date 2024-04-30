@@ -29,8 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:34.813255Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings of the 1st Workshop on the Impact of Recommender Systems
   co-located with 13th ACM Conference on Recommender Systems (ACM RecSys 2019)*'

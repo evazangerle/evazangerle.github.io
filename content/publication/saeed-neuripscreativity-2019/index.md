@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:35.011616Z'
-publication_types:
-- '2'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*CoRR*'
 url_pdf: http://arxiv.org/abs/1909.09534

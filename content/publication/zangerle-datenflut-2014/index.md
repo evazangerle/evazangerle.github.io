@@ -28,8 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:39.688431Z'
-publication_types:
-- '6'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Datenflut und Informationskanäle*'
 ---

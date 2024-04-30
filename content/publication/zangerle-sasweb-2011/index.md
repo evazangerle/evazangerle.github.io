@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:40.692876Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings of the Workshop on Semantic Adaptive Social Web 2011 in
   connection with the 19th International Conference on User Modeling, Adaptation and

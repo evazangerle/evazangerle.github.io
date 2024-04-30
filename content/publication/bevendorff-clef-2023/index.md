@@ -45,8 +45,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-10-02T18:36:04.316719Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: 'The paper gives a brief overview of three shared tasks which have been
   organized at the PAN 2023 lab on digital text forensics and stylometry hosted at
   the CLEF 2023 conference. The tasks include authorship verification across discourse

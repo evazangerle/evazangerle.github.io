@@ -32,8 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:34.410712Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*CLEF 2020 Labs and Workshops, Notebook Papers*'
 url_pdf: http://ceur-ws.org/Vol-2696/

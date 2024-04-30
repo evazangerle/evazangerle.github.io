@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:38.900989Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*15th IEEE International Conference on Data Mining Workshops (ICDM 2015)*'
 doi: 10.1109/ICDMW.2015.145

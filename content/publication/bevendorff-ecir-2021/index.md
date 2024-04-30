@@ -43,8 +43,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:33.502314Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: 
 publication: '*Advances in  Information Retrieval -- 43rd European Conference on IR Research (ECIR 2021)*'
 ---

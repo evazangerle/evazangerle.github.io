@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:38.510241Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*4th Conference on CMC and Social Media Corpora for the Humanities (CMC-Corpora2016;
   Sep 2016, Ljubljana, Slovenia)*'

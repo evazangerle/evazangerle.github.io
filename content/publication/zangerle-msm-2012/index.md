@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:40.186515Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings, 2nd Workshop on Making Sense of Microposts (#MSM2012):
   Big things come in small packages, Lyon, France, 16 April 2012*'

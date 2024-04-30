@@ -43,8 +43,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-10-17T07:46:09.822373Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings of the 31st ACM International Conference on Information
   &amp; Knowledge Management*'

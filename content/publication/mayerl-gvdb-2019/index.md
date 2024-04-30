@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:35.509394Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings of the 31. GI-Workshop Grundlagen von Datenbanken*'
 url_pdf: http://ceur-ws.org/Vol-2367/paper_1.pdf

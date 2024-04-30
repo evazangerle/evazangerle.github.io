@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-10-23T07:07:34.401684Z'
-publication_types:
-- '0'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings of the 20th Sound and Music Computing Conference. June
   15-17, 2023. Stockholm, Sweden*'

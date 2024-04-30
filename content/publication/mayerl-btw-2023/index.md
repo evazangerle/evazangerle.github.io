@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-03-10T14:39:40.594941Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Datenbanksysteme für Business, Technologie und Web (BTW 2023), 20.
   Fachtagung des GI-Fachbereichs Datenbanken und Informationssysteme (DBIS), Proceedings*'

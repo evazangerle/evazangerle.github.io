@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-12-28T14:48:27.655190Z'
-publication_types:
-- '6'
+publication_types: ["paper-conference"]
 abstract: ' Evaluation is a cornerstone in the process of developing and deploying
   recommender systems. The PERSPECTIVES workshop brought together academia and industry
   to critically reflect on the evaluation of recommender systems. Particularly, the

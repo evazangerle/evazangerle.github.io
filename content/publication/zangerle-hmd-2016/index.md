@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:38.205445Z'
-publication_types:
-- '2'
+publication_types: ["article-journal"]
 abstract: ''
 publication: '*HMD Praxis der Wirtschaftsinformatik*'
 doi: 10.1365/s40702-016-0237-6

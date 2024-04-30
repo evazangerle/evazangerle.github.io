@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Overview of PAN 2022: Authorship Verification, Profiling Irony and Stereotype
-  Spreaders, Style Change Detection, and Trigger Detection'
+title: 'Overview of PAN 2022: Authorship Verification, Profiling Irony and Stereotype
+  Spreaders, Style Change Detection, and Trigger Detection'
 subtitle: ''
 summary: ''
 authors:
@@ -45,8 +45,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-04-12T08:04:17.263638Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: The paper gives a brief overview of the four shared tasks to be organized
   at the PAN 2022 lab on digital text forensics and stylometry hosted at the CLEF
   2022 conference. The tasks include authorship verification across discourse types,

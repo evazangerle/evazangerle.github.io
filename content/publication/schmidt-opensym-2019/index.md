@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:35.408800Z'
-publication_types:
-- '1'
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings of the 15th International Symposium on Open Collaboration,
   OpenSym 2019, Skövde, Sweden, August 20-22, 2019*'

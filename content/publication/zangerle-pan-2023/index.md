@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-10-23T07:07:41.217503Z'
-publication_types:
-- conference paper 
+publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Working Notes of CLEF 2023 - Conference and Labs of the Evaluation
   Forum*'
