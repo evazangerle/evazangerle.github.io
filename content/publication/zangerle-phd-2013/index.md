@@ -32,5 +32,5 @@ publishDate: '2021-08-20T06:38:40.088734Z'
 publication_types:
 - '7'
 abstract: ''
-publication: ''
+publication: 'PhD thesis at the University of Innsbruck'
 ---
