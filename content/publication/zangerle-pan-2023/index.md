@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2023-10-23T07:07:41.217503Z'
 publication_types:
-- conference-paper 
+- conference paper 
 abstract: ''
 publication: '*Working Notes of CLEF 2023 - Conference and Labs of the Evaluation
   Forum*'
