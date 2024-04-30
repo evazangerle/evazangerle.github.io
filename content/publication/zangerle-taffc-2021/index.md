@@ -31,7 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:34.109955Z'
-publication_types: ["paper-conference"]
+publication_types: ["article-journal"]
 abstract: ''
 publication: '*IEEE Transactions on Affective Computing*'
 doi: 10.1109/TAFFC.2018.2846596

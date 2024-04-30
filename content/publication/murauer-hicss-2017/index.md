@@ -33,5 +33,5 @@ publishDate: '2021-08-20T06:38:37.906271Z'
 publication_types: ["paper-conference"]
 abstract: ''
 publication: '*Proceedings of the 50th Hawaii International Conference on System Sciences,
-  HICSS 2017, Big Island, Hawaii, USA, January 4-7, 2017*'
+  HICSS 2017*'
 ---
