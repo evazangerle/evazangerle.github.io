@@ -30,9 +30,9 @@ image:
 projects: []
 publishDate: '2021-08-20T06:38:33.705018Z'
 publication_types:
-- article-conference
+- paper-conference
 abstract: ''
 publication: '*Workshop Proceeding of the 2nd Workshop on Green (Responsible, Ethical
-  and Social) IT and IS ? the Corporate Perspective (GRES-IT/IS)*'
+  and Social) IT and IS - the Corporate Perspective (GRES-IT/IS)*'
 url_pdf: https://epub.wu.ac.at/7681/
 ---
