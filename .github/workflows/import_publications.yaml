@@ -45,7 +45,7 @@ jobs:
           body: |
             Import the latest publications from `publications.bib` to `content/publication/`.
           base: main
-          labels: automated-pr, content
+          labels: automated-pr, content,automerge
           branch: hugoblox-import-publications
           delete-branch: true
       - name: Check outputs
@@ -53,3 +53,12 @@ jobs:
         run: |
           echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
           echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+      - name: automerge
+          runs-on: ubuntu-latest
+          steps:
+            - name: automerge
+              uses: "pascalgn/automerge-action@v0.16.3"
+              permissions:
+              contents: write
+              env:
+                GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
