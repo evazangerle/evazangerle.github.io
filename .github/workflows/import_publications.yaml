@@ -45,7 +45,7 @@ jobs:
           body: |
             Import the latest publications from `publications.bib` to `content/publication/`.
           base: main
-          labels: automated-pr, content
+          labels: automated-pr, content,automerge
           branch: hugoblox-import-publications
           delete-branch: true
       - name: Check outputs
