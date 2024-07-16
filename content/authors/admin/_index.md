@@ -80,7 +80,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Eva is an assistant professor at the Department of Computer Science at the University of Innsbruck, Austria. She recently was awarded the habilitation degree (venia docendi) in Computer Science in 2023 (title of thesis: "Recommender Systems
+Eva is an associate professor at the Department of Computer Science at the University of Innsbruck, Austria. She recently was awarded the habilitation degree (venia docendi) in Computer Science in 2023 (title of thesis: "Recommender Systems
 for Music Retrieval Tasks"). In 2013, Eva earned her Ph.D. from the University of Innsbruck, focusing on recommender systems for collaborative social media platforms. She has expanded her research horizons by undertaking short-term research stays at Ritsumeikan University in Kyoto, Japan, Freie Universität Berlin, Germany, and Johannes Kepler University Linz, Austria.
 
 Eva's primary scientific interests revolve around the field of recommender systems, particularly their evaluation and user modeling. She is one of the organizers of the PERSPECTIVES workshop series "Perspectives on the Evaluation of Recommender Systems". Eva has been honored with the Women in RecSys Best Journal Paper of the Year award in both 2022 and 2023. 

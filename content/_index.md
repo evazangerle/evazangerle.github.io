@@ -99,6 +99,7 @@ sections:
         * Guest editor: Special Issue "Perspectives on Recommender Systems Evaluation" in ACM Transactions on Recommender Systems (together with Christine Bauer and Alan Said) [2022-2024]  
 
         ### Reviewing for Conferences
+        * Conference and Labs of the Evaluation Forum (CLEF) [2024 (Lab Proposals)]   
         * ACM International Conference on Recommender Systems (RecSys) [2018-2022; best reviewer award nominee 2018; senior PC member 2024]  
         * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023--2024]
         * ACM International Conference on Information and Knowledge Management (CIKM) [2024]
