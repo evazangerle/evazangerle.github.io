@@ -88,6 +88,7 @@ sections:
         * 23rd Workshop Grundlagen von Datenbanken 2011.
 
         ### Challenge Organization 
+        * Multi-Author Analysis Task, PAN@CLEF 2025 (Task Chair)
         * Multi-Author Analysis Task, PAN@CLEF 2024 (Task Chair)
         * Multi-Author Analysis Task, PAN@CLEF 2023 (Task Chair)
         * Multi-Author Analysis Task, PAN@CLEF 2022 (Task Chair)
@@ -103,15 +104,15 @@ sections:
         * Conference and Labs of the Evaluation Forum (CLEF) [2024 (Lab Proposals)]   
         * ACM International Conference on Recommender Systems (RecSys) [2018-2022; best reviewer award nominee 2018; senior PC member 2024]  
         * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023--2024]
-        * ACM International Conference on Information and Knowledge Management (CIKM) [2024]
+        * ACM International Conference on Information and Knowledge Management (CIKM) [2024, senior PC member for short papers 2024]
+        * Conference on User Modeling, Adaptation and Personalization (UMAP) [2019-2021, 2023-2024; best reviewer award nominee 2023]
+        * International Society for Music Information Retrieval Conference (ISMIR) [2016, meta-reviewer 2017-2022, 2024]
         * MuRS: Music Recommender Systems Workshop 2024 [2024]  
         * First International Workshop on Graph-Based Approaches in Information Retrieval [2024]  
         * European Conference on Information Retrieval (ECIR) [2019, 2021-2023, 2024 (workshops)]
         * ACM International Conference on Web Search and Data Mining (WSDM) [2023]
-        * Conference on User Modeling, Adaptation and Personalization (UMAP) [2019-2021; best reviewer award nominee 2023]
         * The Web Conference [2022, senior PC member 2023]
         * International Workshop on Algorithmic Bias in Search and Recommendation [2020-2023]
-        * International Society for Music Information Retrieval Conference (ISMIR) [2016, meta-reviewer 2017-2022]
         * Workshop on Adaptive and Personalized Explainable User Interfaces [2022]
         * International Symposium on Open Collaboration (OpenSym) [2021]
         * Workshop on Computational Humanities Research [2020-2021]
