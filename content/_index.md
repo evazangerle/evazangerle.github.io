@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * Our paper ["Assessing aesthetic music-evoked emotions in a minute or less: A comparison of the GEMS-45 and the GEMS-9"](https://doi.org/10.1177/10298649241256252) was accepted for publication in the Musicae Scientiae journal [08/2024].  
             * Yay, I was promoted to Associate Professor [07/2024].  
             * Marta will present our short paper on "Emotion-Based Music Recommendation from Quality Annotations and Large-Scale User-Generated Tags" co-authored by Marta Moscati, Hannah Strauß, Peer-Ole Jacobsen, Andreas Peintner, Eva Zangerle, Marcel Zentner and Markus Schedl at the 32nd ACM Conference on User Modeling, Adaptation and Personalization next week. [06/2024].  
             * I'm now a Distinguished Reviewer at ACM Transactions on Recommender Systems (TORS) [04/2024].  
