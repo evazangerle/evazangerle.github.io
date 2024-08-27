@@ -145,6 +145,8 @@ sections:
         * International Conference on Semantic Systems (I-Semantics) [2012-2013]
 
         ### Reviewing for Journals
+        * ACM TRansactions on Recommender Systems (distinguished reviewer)  
+        * ACM Computing Surveys  
         * ACM Transactions on Information Systems (TOIS)
         * ACM Transactions on Intelligent Systems and Technology (TIST)
         * Data Mining and Discovery
