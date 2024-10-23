@@ -26,12 +26,6 @@ sections:
             * Very happy to see our (together with Christine Bauer and Alan Said) Special Issue on ["Perspectives on Recommender Systems Evaluation"](https://dl.acm.org/toc/tors/2024/2/1) appear in ACM Transactions on Recommender Systems [03/2024].  
             * Our paper "[The Emotion-to-Music Mapping Atlas (EMMA):A systematically organized online database of emotionally evocative music excerpts](https://rdcu.be/dyql3)" (by Hannah Strauß, Julia Vigl,  Peer-Ole Jacobsen, Martin Bayer, Francesca Talamini, Wolfgang Vigl, me, and Marcel Zentner) has just appeared in Behavior Research Methods [02/2024].  
             * I just joined the senior PC for RecSys 2024 [02/2024].  
-            * The event report of the 3rd Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES
-              2023) at RecSys 2023 was just published in [SIGIR Forum](https://dl.acm.org/toc/sigir/2023/57/2) [02/2024].  
-            * Our paper "Exploring the Landscape of Recommender Systems Evaluation: Practices and Perspectives" just was published
-              in ACM Transactions on Recommender Systems [11/2023].   
-            * Christine Bauer and me received the Women in RecSys Journal Paper of the Year award for our paper ["Evaluating Recommender Systems: Survey and Framework"](https://dl.acm.org/doi/10.1145/3556536) - yay :) [2023/09].  
-            * I will be Workshop Co-Chair for RecSys 2024 [2023/09].  
     design: 
       columns: '2'
   - block: collection
