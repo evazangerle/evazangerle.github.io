@@ -9,7 +9,7 @@ date: '2024-10-01'
 publishDate: '2024-11-13T14:53:09.639462Z'
 publication_types:
 - article-journal
-publication: '*ACM Trans. Recomm. Syst.*'
+publication: '*ACM Transactions on Recommder Systems*'
 doi: 10.1145/3701764
 abstract: Session-based recommendation aims to predict the next item based on a set
   of anonymous sessions. Capturing user intent from a short interaction sequence imposes
