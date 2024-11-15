@@ -35,21 +35,3 @@ jobs:
         # Note GH only provides hashFiles func in `steps.if` context, not `jobs.if` context
         if: ${{ hashFiles('publications.bib') != '' }}
         run: academic import publications.bib content/publication/ --compact
-      - name: Create Pull Request
-        # Set ID for `Check outputs` stage
-        id: cpr
-        uses: peter-evans/create-pull-request@v5
-        with:
-          commit-message: 'content: import publications from Bibtex'
-          title: Hugo Blox Builder - Import latest publications
-          body: |
-            Import the latest publications from `publications.bib` to `content/publication/`.
-          base: main
-          labels: automated-pr, content,automerge
-          branch: hugoblox-import-publications
-          delete-branch: true
-      - name: Check outputs
-        if: ${{ steps.cpr.outputs.pull-request-number }}
-        run: |
-          echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
-          echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
