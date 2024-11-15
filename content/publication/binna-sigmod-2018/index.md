@@ -32,8 +32,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-08-20T06:38:36.401666Z'
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 abstract: ''
-publication: '*Proceedings of the 2018 International Conference on Management of Data*'
+publication: '*Proceedings of the 2018 International Conference on Management of Data (SIGMOD)*'
 doi: 10.1145/3183713.3196896
 ---
