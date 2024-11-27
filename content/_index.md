@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * The report on our Dagstuhl seminar ["Evaluation Perspectives of Recommender Systems: Driving Research and Education (Dagstuhl Seminar 24211"](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.14.5.58) is out [11/2024].  
             * Our paper "Efficient Session-based Recommendation with Contrastive Graph-based Shortest Path Search" has just appeared in ACM Transactions on Recommender Systems [11/2024].  
             * Our paper "Are We Explaining Flawed Recommenders? Incorporating Recommender Performance for Evaluating Explainers" has been accepted at RecSys 2024 as an LBR paper [09/2024].  
             * Our paper ["Assessing aesthetic music-evoked emotions in a minute or less: A comparison of the GEMS-45 and the GEMS-9"](https://doi.org/10.1177/10298649241256252) was accepted for publication in the Musicae Scientiae journal [08/2024].  
