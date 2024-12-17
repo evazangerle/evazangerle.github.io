@@ -48,7 +48,7 @@ sections:
         text: |-
           * [Humans and Recommender Systems: Towards a Mutual Understanding](https://humrec.github.io/) (principal investigator)  
             funded by Austrian Research Fund (FWF)  
-            2021-2024, 600,000 EUR
+            2021-2025, 600,000 EUR
           * [GoStudent - Q\&A Matching](https://dbis.uibk.ac.at/gostudent-question-answering-system) (principal investigator)  
             funded by Austrian Research Promotion Agency (FFG)  
             2019-2020, 89,000 EUR 
