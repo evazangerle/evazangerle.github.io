@@ -6,7 +6,7 @@ authors:
 - Andreas Peintner
 - Michael Müller
 - Eva Zangerle
-date: '2024-01-01'
+date: '2024-10-01'
 publishDate: '2024-10-22T05:36:34.773854Z'
 publication_types:
 - paper-conference
