@@ -99,10 +99,10 @@ sections:
         * Guest editor: Special Issue "Perspectives on Recommender Systems Evaluation" in ACM Transactions on Recommender Systems (together with Christine Bauer and Alan Said) [2022-2024]  
 
         ### Reviewing for Conferences
+        * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023--2025]
         * European Conference on Information Retrieval (ECIR) [2019, 2021-2023, 2024 (workshops), 2025]
         * Conference and Labs of the Evaluation Forum (CLEF) [2025 (Lab Proposals)]   
         * ACM International Conference on Recommender Systems (RecSys) [2018-2022; best reviewer award nominee 2018; senior PC member 2024]  
-        * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023--2024]
         * ACM International Conference on Information and Knowledge Management (CIKM) [2024, senior PC member for short papers 2024]
         * Conference on User Modeling, Adaptation and Personalization (UMAP) [2019-2021, 2023-2024; best reviewer award nominee 2023]
         * International Society for Music Information Retrieval Conference (ISMIR) [2016, meta-reviewer 2017-2022, 2024]
