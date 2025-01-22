@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * Our paper "Hypergraph-based Temporal Modelling of Repeated Intent for Sequential Recommendation" was accepted at The Web Conference 2025 as a full paper (acceptance rate 19.83%, A*) [01/2025].  
             * The report on our Dagstuhl seminar ["Evaluation Perspectives of Recommender Systems: Driving Research and Education (Dagstuhl Seminar 24211"](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.14.5.58) is out [11/2024].  
             * Our paper "Efficient Session-based Recommendation with Contrastive Graph-based Shortest Path Search" has just appeared in ACM Transactions on Recommender Systems [11/2024].  
             * Our paper "Are We Explaining Flawed Recommenders? Incorporating Recommender Performance for Evaluating Explainers" has been accepted at RecSys 2024 as an LBR paper [09/2024].  
@@ -26,7 +27,6 @@ sections:
             * Our paper ["Song lyrics have become simpler and more repetitive over the last five decades"](https://www.nature.com/articles/s41598-024-55742-x) has appeared in Nature Scientific Reports :) [04/2024]. 
             * The [IUI Workshop Proceedings](https://ceur-ws.org/Vol-3660/) are now out, co-edited by Axel Soto and me [04/2024].   
             * Very happy to see our (together with Christine Bauer and Alan Said) Special Issue on ["Perspectives on Recommender Systems Evaluation"](https://dl.acm.org/toc/tors/2024/2/1) appear in ACM Transactions on Recommender Systems [03/2024].  
-            * Our paper "[The Emotion-to-Music Mapping Atlas (EMMA):A systematically organized online database of emotionally evocative music excerpts](https://rdcu.be/dyql3)" (by Hannah Strauß, Julia Vigl,  Peer-Ole Jacobsen, Martin Bayer, Francesca Talamini, Wolfgang Vigl, me, and Marcel Zentner) has just appeared in Behavior Research Methods [02/2024].  
     design: 
       columns: '2'
   - block: collection
@@ -99,7 +99,7 @@ sections:
         * Guest editor: Special Issue "Perspectives on Recommender Systems Evaluation" in ACM Transactions on Recommender Systems (together with Christine Bauer and Alan Said) [2022-2024]  
 
         ### Reviewing for Conferences
-        * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023--2025]
+        * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023-2025]
         * European Conference on Information Retrieval (ECIR) [2019, 2021-2023, 2024 (workshops), 2025]
         * Conference and Labs of the Evaluation Forum (CLEF) [2025 (Lab Proposals)]   
         * ACM International Conference on Recommender Systems (RecSys) [2018-2022; best reviewer award nominee 2018; senior PC member 2024]  
