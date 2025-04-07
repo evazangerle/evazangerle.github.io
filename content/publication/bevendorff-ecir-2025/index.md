@@ -23,4 +23,8 @@ publishDate: '2025-04-07T10:30:45.683970Z'
 publication_types:
 - paper-conference
 publication: '*Advances in Information Retrieval*'
+doi: 10.1007/978-3-031-88720-8_64
+links:
+- name: URL
+  url: https://doi.org/10.1007/978-3-031-88720-8_64
 ---
