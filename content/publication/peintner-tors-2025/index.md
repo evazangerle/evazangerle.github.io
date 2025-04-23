@@ -11,11 +11,6 @@ publication_types:
 - article-journal
 publication: '*ACM Transactions on Recommender Systems*'
 doi: 10.1145/3701764
-tags:
-- Recommender systems
-- session-based recommendation
-- graph neural network
-- supervised contrastive learning
 links:
 - name: URL
   url: https://doi.org/10.1145/3701764
