@@ -72,6 +72,7 @@ sections:
 
         ### Workshop Organization
 
+        * [BEYOND 2025 Workshop](https://beyondrecsys.github.io/2025/): Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems at ACM Recommender Systems 2025.    
         * [INTROSPECTIVES 2024 Workshop](https://introspectives.github.io/): Reflections on Recommender Systems Past, Present, and Future at ACM Recommender Systems 2024.    
         * Dagstuhl Seminar: [Evaluation Perspectives of Recommender Systems: Driving Research and Education 2024](https://www.dagstuhl.de/de/seminars/seminar-calendar/seminar-details/24211).  
         * [PERSPECTIVES 2023 Workshop](https://perspectives-ws.github.io/2023/): 3rd Perspectives on the Evaluation of Recommender Systems Workshop at ACM Recommender Systems 2023.  
