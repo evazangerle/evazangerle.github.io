@@ -5,8 +5,8 @@ authors:
 - Andreas Peintner
 - Amir Reza Mohammadi
 - Eva Zangerle
-date: '2025-10-01'
-publishDate: '2024-11-15T19:44:59.905628Z'
+date: '2025-04-01'
+publishDate: '2025-04-23T13:45:12.048303Z'
 publication_types:
 - article-journal
 publication: '*ACM Transactions on Recommender Systems*'
