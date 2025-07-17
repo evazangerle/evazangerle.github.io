@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * RecSys news: Our short paper "Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems" and Michael's Doctoral Symposium paper "Advancing User-Centric Evaluation and Design of Conversational Recommender Systems" has also been accepted [07/2025].    
             * Our journal paper "Nuanced Music Emotion Recognition via Semi-Supervised Multi-Relational Graph Neural Network" has just been published at TISMIR, joint work together with Andreas Peintner, Marta Moscati, Yu Kinoshita, Richard Vogl, Peter Knees, Markus Schedl, Hannah Strauss, and Marcel Zentner [06/2025].  
             * Our workshop proposal "Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems (BEYOND 2025)" has been accepted at RecSys 2025 - together with Christine Bauer and Alan Said [04/2025].  
             * Our paper "Hypergraph-based Temporal Modelling of Repeated Intent for Sequential Recommendation" was accepted at The Web Conference 2025 as a full paper (acceptance rate 19.83%, A*) [01/2025].  
@@ -105,7 +106,7 @@ sections:
         * Conference and Labs of the Evaluation Forum (CLEF) [2025 (Lab Proposals)]   
         * ACM International Conference on Information and Knowledge Management (CIKM) [2024, senior PC member for short papers 2024]
         * International Society for Music Information Retrieval Conference (ISMIR) [2016, meta-reviewer 2017-2022, 2024]
-        * MuRS: Music Recommender Systems Workshop [2024]  
+        * MuRS: Music Recommender Systems Workshop [2024-2025]  
         * First International Workshop on Graph-Based Approaches in Information Retrieval [2024]  
         * ACM International Conference on Web Search and Data Mining (WSDM) [2023]
         * The Web Conference [2022, senior PC member 2023]
