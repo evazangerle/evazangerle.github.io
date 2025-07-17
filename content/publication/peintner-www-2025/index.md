@@ -9,7 +9,7 @@ date: '2025-01-01'
 publishDate: '2025-04-23T13:45:12.036866Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the ACM on Web Conference 2025*'
+publication: '*Proceedings of the ACM Web Conference 2025*'
 doi: 10.1145/3696410.3714896
 abstract: In sequential recommendation scenarios, user intent is a key driver of consumption
   behavior. However, consumption intents are usually latent and hence, difficult to
