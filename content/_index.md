@@ -85,6 +85,7 @@ sections:
         * 23rd Workshop Grundlagen von Datenbanken 2011.
 
         ### Challenge Organization 
+        * Multi-Author Analysis Task, PAN@CLEF 2026 (Task Chair)
         * Multi-Author Analysis Task, PAN@CLEF 2025 (Task Chair)
         * Multi-Author Analysis Task, PAN@CLEF 2024 (Task Chair)
         * Multi-Author Analysis Task, PAN@CLEF 2023 (Task Chair)
