@@ -152,8 +152,8 @@ sections:
         * EPJ Data Science 
         * EURASIP Journal on Audio, Speech, and Music Processing
         * Expert Systems with Applications Journal
-        * Frontiers in AI - Natural Language Processing (member of editorial team)
-        * Frontiers in Research Metrics and Analytics - Research methods (member of editorial team)
+        * Frontiers in AI - Natural Language Processing 
+        * Frontiers in Research Metrics and Analytics 
         * Information Sciences (Informatics and Computer Science Intelligent Systems Applications)
         * International Journal of Multimedia Information Retrieval (IJMIR)
         * International Journal on Human-Computer Studies
