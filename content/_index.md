@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * I will serve as PC Chair for CLEF (Conference and Labs of the Evaluation Forum) 2026 - together with Philipp Schaer [09/2025].  
             * RecSys 2025 news: Our short paper "Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems" and Michael's Doctoral Symposium paper "Advancing User-Centric Evaluation and Design of Conversational Recommender Systems" have been accepted [07/2025].    
             * Our journal paper "Nuanced Music Emotion Recognition via Semi-Supervised Multi-Relational Graph Neural Network" has just been published at TISMIR, joint work together with Andreas Peintner, Marta Moscati, Yu Kinoshita, Richard Vogl, Peter Knees, Markus Schedl, Hannah Strauss, and Marcel Zentner [06/2025].  
             * Our workshop proposal "Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems (BEYOND 2025)" has been accepted at RecSys 2025 - together with Christine Bauer and Alan Said [04/2025].  
@@ -59,7 +60,8 @@ sections:
     content:
       title: Professional Service
       text: |-
-        ### Conference Organization  
+        ### Conference Organization 
+        * Conference and Labs of the Evaluation Forum (CLEF) 2026 (Program Chair)   
         * Conference on User Modeling, Adaptation and Personalization (UMAP) 2026 (Doctoral Consortium Chair)
         * Austrian Computer Science Day 2025 (Organizer)  
         * ACM Conference on Recommender Systems (RecSys) 2024 (Workshop Chair)  
