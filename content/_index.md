@@ -17,6 +17,7 @@ sections:
       title: News
       text: |-
             * I will serve as PC Chair for CLEF (Conference and Labs of the Evaluation Forum) 2026 - together with Philipp Schaer [09/2025].  
+            * Just joined the SPC for the User Modeling, Personalization and Recommendation track at WebConf 2026 [09/2025].  
             * RecSys 2025 news: Our short paper "Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems" and Michael's Doctoral Symposium paper "Advancing User-Centric Evaluation and Design of Conversational Recommender Systems" have been accepted [07/2025].    
             * Our journal paper "Nuanced Music Emotion Recognition via Semi-Supervised Multi-Relational Graph Neural Network" has just been published at TISMIR, joint work together with Andreas Peintner, Marta Moscati, Yu Kinoshita, Richard Vogl, Peter Knees, Markus Schedl, Hannah Strauss, and Marcel Zentner [06/2025].  
             * Our workshop proposal "Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems (BEYOND 2025)" has been accepted at RecSys 2025 - together with Christine Bauer and Alan Said [04/2025].  
@@ -102,6 +103,7 @@ sections:
 
         ### Reviewing for Conferences
         * European Conference on Information Retrieval (ECIR) [2019, 2021-2025, senior PC member 2026]
+        * The Web Conference [2022, senior PC member 2023, 2026]
         * ACM International Conference on Information and Knowledge Management (CIKM) [2024, senior PC member for short papers 2024, 2026]
         * ACM International Conference on Recommender Systems (RecSys) [2018-2022; best reviewer award nominee 2018; senior PC member 2024-2025]  
         * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023-2025]
@@ -111,7 +113,6 @@ sections:
         * MuRS: Music Recommender Systems Workshop [2024-2025]  
         * First International Workshop on Graph-Based Approaches in Information Retrieval [2024]  
         * ACM International Conference on Web Search and Data Mining (WSDM) [2023]
-        * The Web Conference [2022, senior PC member 2023]
         * International Workshop on Algorithmic Bias in Search and Recommendation [2020-2023]
         * Workshop on Adaptive and Personalized Explainable User Interfaces [2022]
         * International Symposium on Open Collaboration (OpenSym) [2021]
