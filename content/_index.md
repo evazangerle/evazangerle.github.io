@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * Yeah, we won the Best Short Paper at RecSys 2025 for our paper "Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems"! Also, I was awarded the Distinguished Senior PC Member Award [09/2025].  
             * I will serve as PC Chair for CLEF (Conference and Labs of the Evaluation Forum) 2026 - together with Philipp Schaer [09/2025].  
             * Just joined the SPC for the User Modeling, Personalization and Recommendation track at WebConf 2026 [09/2025].  
             * RecSys 2025 news: Our short paper "Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems" and Michael's Doctoral Symposium paper "Advancing User-Centric Evaluation and Design of Conversational Recommender Systems" have been accepted [07/2025].    
