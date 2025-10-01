@@ -83,6 +83,6 @@ user_groups:
 Eva is an associate professor at the Department of Computer Science at the University of Innsbruck, Austria. She recently was awarded the habilitation degree (venia docendi) in Computer Science in 2023 (title of thesis: "Recommender Systems
 for Music Retrieval Tasks"). In 2013, Eva earned her Ph.D. from the University of Innsbruck, focusing on recommender systems for collaborative social media platforms. She has expanded her research horizons by undertaking short-term research stays at Ritsumeikan University in Kyoto, Japan, Freie Universität Berlin, Germany, and Johannes Kepler University Linz, Austria.
 
-Eva's primary scientific interests revolve around the field of recommender systems, particularly their evaluation and user modeling. She is one of the organizers of the PERSPECTIVES workshop series "Perspectives on the Evaluation of Recommender Systems". Eva has been honored with the Best Short Paper Award at RecSys 2025, and with the Women in RecSys Best Journal Paper of the Year award in both 2022 and 2023. In 2025, she received the Distinguished Senior PC Member Award at RecSys.  
+Eva’s research centers on recommender systems, particularly evaluation and user modeling. She co-organizes the PERSPECTIVES workshop series and has received multiple awards, including RecSys Best Short Paper (2025), Women in RecSys Best Journal Paper (2022, 2023), and the RecSys Distinguished Senior PC Member Award (2025).
 
 In addition to her scholarly endeavors, Eva is also a co-author of a book on MySQL, which is currently in its third edition. 
