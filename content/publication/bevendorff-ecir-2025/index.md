@@ -22,7 +22,7 @@ date: '2025-01-01'
 publishDate: '2025-04-07T10:30:45.683970Z'
 publication_types:
 - paper-conference
-publication: '*Advances in Information Retrieval*'
+publication: '*Advances in Information Retrieval (ECIR 2025)*'
 doi: 10.1007/978-3-031-88720-8_64
 links:
 - name: URL
