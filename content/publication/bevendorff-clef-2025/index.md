@@ -26,4 +26,5 @@ publication_types:
 publication: '*Experimental IR Meets Multilinguality, Multimodality, and Interaction.
   Proceedings of the Sixteenth International Conference of the CLEF Association (CLEF
   2025)*'
+doi: 10.1007/978-3-032-04354-2_21
 ---
