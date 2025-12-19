@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * Joined the senior program committee for SIGIR 2026 [12/2025].  
             * Yeah, we won the Best Short Paper at RecSys 2025 for our paper "Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems"! Also, I was awarded the Distinguished Senior PC Member Award [09/2025].  
             * I will serve as PC Chair for CLEF (Conference and Labs of the Evaluation Forum) 2026 - together with Philipp Schaer [09/2025].  
             * Just joined the SPC for the User Modeling, Personalization and Recommendation track at WebConf 2026 [09/2025].  
@@ -99,11 +100,11 @@ sections:
         * Guest editor: Special Issue "Perspectives on Recommender Systems Evaluation" in ACM Transactions on Recommender Systems (together with Christine Bauer and Alan Said) [2022-2024]  
 
         ### Reviewing for Conferences
+        * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023-2026]
         * European Conference on Information Retrieval (ECIR) [2019, 2021-2025, senior PC member 2026]
         * The Web Conference [2022, senior PC member 2023, 2026]
         * ACM International Conference on Information and Knowledge Management (CIKM) [2024, senior PC member for short papers 2024, 2026]
         * ACM International Conference on Recommender Systems (RecSys) [2018-2022; best reviewer award nominee 2018; senior PC member 2024-2025]  
-        * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [2022, senior PC member 2023-2025]
         * Conference on User Modeling, Adaptation and Personalization (UMAP) [2019-2021, 2023-2024; senior PC member 2025; best reviewer award nominee 2023]
         * Conference and Labs of the Evaluation Forum (CLEF) [2025 (Lab Proposals)]   
         * International Society for Music Information Retrieval Conference (ISMIR) [2016, meta-reviewer 2017-2022, 2024]
