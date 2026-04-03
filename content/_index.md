@@ -16,6 +16,8 @@ sections:
     content:
       title: News
       text: |-
+            * Our full paper "Minimal-Perturbation Counterfactuals through Guided Denoising Diffusion for Recommender Systems Explanation" was just accepted at SIGIR, with an acceptance rate of 18.4% [04/2026].  
+            * Our short paper "On the Reliability of User-Centric Evaluation for Conversational Recommender Systems" was just accepted at UMAP 2026, now an A-rated conference [03/2026].  
             * Joined the senior program committee for SIGIR 2026 [12/2025].  
             * Yeah, we won the Best Short Paper at RecSys 2025 for our paper "Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems"! Also, I was awarded the Distinguished Senior PC Member Award [09/2025].  
             * I will serve as PC Chair for CLEF (Conference and Labs of the Evaluation Forum) 2026 - together with Philipp Schaer [09/2025].  
