@@ -17,6 +17,7 @@ sections:
       title: News
       text: |-
             * Our full paper "Minimal-Perturbation Counterfactuals through Guided Denoising Diffusion for Recommender Systems Explanation" was just accepted at SIGIR, with an acceptance rate of 18.4% [04/2026].  
+            * Our workshop [BEYOND 2026 Beyond Algorithms](https://beyondrecsys.github.io/2026/): A Workshop on the Interdisciplinarity of Recommender Systems, together with Christine Bauer and Alan Said has been accepted at ACM RecSys 2026 [03/2026].  
             * Our short paper "On the Reliability of User-Centric Evaluation for Conversational Recommender Systems" was just accepted at UMAP 2026, now an A-rated conference [03/2026].  
             * Joined the senior program committee for SIGIR 2026 [12/2025].  
             * Yeah, we won the Best Short Paper at RecSys 2025 for our paper "Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems"! Also, I was awarded the Distinguished Senior PC Member Award [09/2025].  
@@ -77,6 +78,7 @@ sections:
 
         ### Workshop Organization
 
+        * [BEYOND 2026 Workshop](https://beyondrecsys.github.io/2026/): A Workshop on the Interdisciplinarity of Recommender Systems at ACM Recommender Systems 2026.    
         * [BEYOND 2025 Workshop](https://beyondrecsys.github.io/2025/): Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems at ACM Recommender Systems 2025.    
         * [INTROSPECTIVES 2024 Workshop](https://introspectives.github.io/): Reflections on Recommender Systems Past, Present, and Future at ACM Recommender Systems 2024.    
         * Dagstuhl Seminar: [Evaluation Perspectives of Recommender Systems: Driving Research and Education 2024](https://www.dagstuhl.de/de/seminars/seminar-calendar/seminar-details/24211).  
