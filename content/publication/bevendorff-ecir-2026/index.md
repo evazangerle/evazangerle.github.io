@@ -10,6 +10,8 @@ authors:
 - Maximilian Mayerl
 - Preslav Nakov
 - Henry Plutz
+- Martin Potthast
+- Benno Stein
 - Minh Ngoc Ta
 - Yuxia Wang
 - Eva Zangerle
