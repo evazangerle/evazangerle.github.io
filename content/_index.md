@@ -106,7 +106,7 @@ sections:
         * ACM International Conference on Information and Knowledge Management (CIKM) [senior PC member for short papers 2024, 2026; PC member 2024]
         * ACM International Conference on Recommender Systems (RecSys) [senior PC member 2024-2025; PC member 2018-2022; best reviewer award nominee 2018]  
         * Conference and Labs of the Evaluation Forum (CLEF) [2025 (Lab Proposals)]   
-        * International Society for Music Information Retrieval Conference (ISMIR) [senior PC member 2017-2022, 2024; PC member 2026]
+        * International Society for Music Information Retrieval Conference (ISMIR) [senior PC member 2017-2022, 2024]
         * MuRS: Music Recommender Systems Workshop [2024-2025]  
         * First International Workshop on Graph-Based Approaches in Information Retrieval [2024]  
         * ACM International Conference on Web Search and Data Mining (WSDM) [2023]
