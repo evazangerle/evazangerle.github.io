@@ -100,11 +100,12 @@ sections:
 
         ### Reviewing for Conferences
         * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) [senior PC member 2023-2026; PC member 2022]
+        * ACM International Conference on Recommender Systems (RecSys) [senior PC member 2024-2026; PC member 2018-2022; best reviewer award nominee 2018]  
         * European Conference on Information Retrieval (ECIR) [senior PC member 2026; PC member 2019, 2021-2025]
         * The Web Conference [senior PC member 2023, 2026; PC member 2022]
         * Conference on User Modeling, Adaptation and Personalization (UMAP) [senior PC member 2025-2026; PC member 2019-2021, 2023-2024; best reviewer award nominee 2023]
         * ACM International Conference on Information and Knowledge Management (CIKM) [senior PC member for short papers 2024, 2026; PC member 2024]
-        * ACM International Conference on Recommender Systems (RecSys) [senior PC member 2024-2025; PC member 2018-2022; best reviewer award nominee 2018]  
+        * Methodology First - Rethinking Research Assessment in RecSys (FRAME) Workshop at RecSys [PC member 2026]
         * Conference and Labs of the Evaluation Forum (CLEF) [2025 (Lab Proposals)]   
         * International Society for Music Information Retrieval Conference (ISMIR) [senior PC member 2017-2022, 2024]
         * MuRS: Music Recommender Systems Workshop [2024-2025]  
