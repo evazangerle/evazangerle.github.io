@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * Our paper "Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems" was accepted as extended abstract at IJCAI 2026 as part of the Sister Conferences Best Papers Track [08/2026].  
             * Our full paper "Minimal-Perturbation Counterfactuals through Guided Denoising Diffusion for Recommender Systems Explanation" was just accepted at SIGIR, with an acceptance rate of 18.4% [04/2026].  
             * Our workshop [BEYOND 2026 Beyond Algorithms](https://beyondrecsys.github.io/2026/): A Workshop on the Interdisciplinarity of Recommender Systems, together with Christine Bauer and Alan Said has been accepted at ACM RecSys 2026 [03/2026].  
             * Our short paper "On the Reliability of User-Centric Evaluation for Conversational Recommender Systems" was just accepted at UMAP 2026, now an A-rated conference [03/2026].  
