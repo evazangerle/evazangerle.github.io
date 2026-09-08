@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * "Measuring What Matters: Consistency and Compactness in Evaluation of Counterfactual Explanations" just appeared in ACM TORS (Just Accepted) [09/2026].  
             * Our paper "Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems" was accepted as extended abstract at IJCAI 2026 as part of the Sister Conferences Best Papers Track [08/2026].  
             * Our full paper "Minimal-Perturbation Counterfactuals through Guided Denoising Diffusion for Recommender Systems Explanation" was just accepted at SIGIR, with an acceptance rate of 18.4% [04/2026].  
             * Our workshop [BEYOND 2026 Beyond Algorithms](https://beyondrecsys.github.io/2026/): A Workshop on the Interdisciplinarity of Recommender Systems, together with Christine Bauer and Alan Said has been accepted at ACM RecSys 2026 [03/2026].  
