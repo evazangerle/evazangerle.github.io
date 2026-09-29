@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: |-
+            * A few new publications are out! Our latest work appeared at CLEF/PAN 2026 and ACM RecSys 2026, as well as in TISMIR [10/26].  
             * "Measuring What Matters: Consistency and Compactness in Evaluation of Counterfactual Explanations" just appeared in ACM TORS (Just Accepted) [09/2026].  
             * Our paper "Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems" was accepted as extended abstract at IJCAI 2026 as part of the Sister Conferences Best Papers Track [08/2026].  
             * Our full paper "Minimal-Perturbation Counterfactuals through Guided Denoising Diffusion for Recommender Systems Explanation" was just accepted at SIGIR, with an acceptance rate of 18.4% [04/2026].  
