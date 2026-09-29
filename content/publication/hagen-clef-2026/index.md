@@ -11,7 +11,7 @@ authors:
 - Eva Sánchez Salido
 - Alberto Barrón-Cedeño
 - Alba García Seco de Herrera
-date: '2026-01-01'
+date: '2026-09-22'
 publishDate: '2026-09-29T04:27:09.988459Z'
 publication_types:
 - book
