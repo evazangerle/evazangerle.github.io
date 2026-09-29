@@ -15,7 +15,7 @@ authors:
 - Minh Ngoc Ta
 - Yuxia Wang
 - Eva Zangerle
-date: '2027-01-01'
+date: '2026-09-25'
 publishDate: '2026-09-29T04:20:08.295567Z'
 publication_types:
 - paper-conference
