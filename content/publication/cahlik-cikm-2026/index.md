@@ -7,7 +7,7 @@ authors:
 - Rodrigo Alves
 - Pavel Kordik
 - Eva Zangerle
-date: '2026-01-01'
+date: '2026-11-10'
 publishDate: '2026-11-09T09:36:13.532394Z'
 publication_types:
 - paper-conference
